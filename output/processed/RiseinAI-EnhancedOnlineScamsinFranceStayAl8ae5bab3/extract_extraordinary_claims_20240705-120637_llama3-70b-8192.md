@@ -1,0 +1,3 @@
+After analyzing the article, I did not find any extraordinary claims that are already accepted as false by the scientific community, not easily verifiable, or generally understood to be false by the consensus of experts. The article appears to be a legitimate news article discussing the rise of online scams in France, particularly phishing scams, and provides advice on how to avoid being taken in by these scams.
+
+Therefore, I do not have any quotes to list as extraordinary claims. The article does not contain any statements that indicate the author is a conspiracy theorist, engaging in misinformation, or denying commonly accepted scientific truths.
