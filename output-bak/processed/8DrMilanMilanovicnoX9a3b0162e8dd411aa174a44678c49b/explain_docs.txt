@@ -1,0 +1,25 @@
+START OUTPUT SECTIONS
+
+# OVERVIEW
+
+What It Does: SAPFIX is an automated tool designed to detect and repair bugs in software.
+
+Why People Use It: SAPFIX is useful for automatically fixing bugs in software, making it a valuable tool for developers and software engineers.
+
+# HOW TO USE IT
+
+Most Common Syntax: Not applicable, as SAPFIX is an automated tool that does not require user input.
+
+# COMMON USE CASES
+
+* For detecting and repairing bugs in software: SAPFIX can be used to automatically identify and fix bugs in software, making it a valuable tool for developers and software engineers.
+
+# MOST IMPORTANT AND USED OPTIONS AND FEATURES
+
+* Spectrum-based fault localization: This feature is used to identify the most likely lines of code responsible for a crash.
+* Template-based fixing: SAPFIX uses predefined templates to suggest fixes for common bugs.
+* Mutation-based fixing: SAPFIX resorts to a mutation-based system if the template-based approach fails, systematically applying a series of code mutations to the fault location to generate potential fixes.
+* Test case validation: SAPFIX uses test cases to check the validity of proposed fixes.
+* Static analysis: SAPFIX uses Infer, a static analysis tool, to analyze proposed fixes further and check for potential issues.
+
+END OUTPUT SECTIONS
