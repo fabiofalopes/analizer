@@ -1,0 +1,1 @@
+I've reviewed the article and found no extraordinary claims that meet the criteria. The article appears to be a factual report on a case of CEO fraud using deepfake audio and provides information on how to prevent such scams. It does not contain any statements that deny scientific truths, promote conspiracy theories, or engage in misinformation.
