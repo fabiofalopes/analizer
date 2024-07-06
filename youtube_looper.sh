@@ -30,14 +30,14 @@ process_and_extract() {
 
   local methods=(
     analyze_claims
-    analyze_presentation
-    analyze_tech_impact
-    capture_thinkers_work
-    create_idea_compass
+    #analyze_presentation
+    #analyze_tech_impact
+    #capture_thinkers_work
+    #create_idea_compass
     create_keynote
     create_mermaid_visualization
     create_summary
-    create_reading_plan
+    #create_reading_plan
     extract_wisdom
     provide_guidance
     improve_academic_writing
