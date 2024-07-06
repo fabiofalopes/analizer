@@ -84,7 +84,7 @@ process_and_extract() {
 }
 
 process_files() {
-  local input_file="youtube_links.txt"
+  local input_file="$1" # Take the first argument as the input file
   local sources_dir="youtube_transcripts"
   local log_file="/tmp/youtube_process_and_extract.log"
 
@@ -140,4 +140,4 @@ process_files() {
 }
 
 # Main script execution
-process_files
+process_files "$1" # Pass the first argument to the process_files function
