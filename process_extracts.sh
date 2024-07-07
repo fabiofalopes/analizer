@@ -15,11 +15,11 @@ PATTERNS=(
   "extract_patterns"
   "extract_wisdom"
   "summarize"
-  #analyze_paper
-  #analyze_presentat
-  #create_academic_paper
-  #explain_docs
-  #write_essay
+  # "analyze_paper"
+  # "analyze_presentation"
+  # "create_academic_paper"
+  # "explain_docs"
+  # "write_essay"
 )
 ROOT_FOLDER="/home/kali/projectos/analizer/output"
 OUTPUT_DIR="$ROOT_FOLDER/processed"
@@ -44,6 +44,9 @@ for PATTERN in "${PATTERNS[@]}"; do
       # Concatenate all files matching the pattern in the current folder
       for file in "$article_folder"/*"$PATTERN"*; do
         if [ -f "$file" ]; then
+          FILENAME=$(basename "$file")
+          echo "### $FILENAME" >> "$CONCAT_FILE"
+          echo "---" >> "$CONCAT_FILE"
           cat "$file" >> "$CONCAT_FILE"
           echo -e "\n---\n" >> "$CONCAT_FILE"  # Separator between files
         fi
