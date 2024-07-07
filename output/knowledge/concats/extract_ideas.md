@@ -1,3 +1,5 @@
+### extract_ideas_20240705-101010_llama3-70b-8192.md
+---
 Here are 15 surprising, insightful, and interesting ideas related to social engineering attacks:
 
 * Social engineering attacks are one of the main ways bad actors can scam companies, with the biggest attack being a $100 million Google and Facebook spear phishing scam.
@@ -18,11 +20,15 @@ Here are 15 surprising, insightful, and interesting ideas related to social engi
 
 ---
 
+### extract_ideas_20240705-143023_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_ideas_20240705-020640_llama3-70b-8192.md
+---
 # IDEAS
 * Facebook engineers created a tool that can automatically detect and repair software bugs.
 * The tool, SOPFIX, uses automated techniques to identify and fix bugs in software code.
@@ -42,6 +48,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-125840_llama3-70b-8192.md
+---
 # IDEAS
 * Advanced AI agents could radically alter the nature of work, education, and creative pursuits.
 * AI assistants require representing users' values and interests, as well as adhering to broader societal norms and standards.
@@ -61,6 +69,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-060258_llama3-70b-8192.md
+---
 # IDEAS
 * AI company Hugging Face detects unauthorized access to its Spaces platform, sparking security concerns.
 * Unauthorized access to Spaces platform may have exposed secrets without authorization, says Hugging Face.
@@ -80,6 +90,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-114806_llama3-70b-8192.md
+---
 # IDEAS
 * AI has democratized spear phishing attacks, making them accessible to everyday individuals.
 * Mobile malware provides attackers with extensive data for social engineering attacks.
@@ -101,6 +113,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-070714_llama3-70b-8192.md
+---
 # IDEAS
 * AI algorithms are being used by hackers to breach IT systems, particularly in healthcare.
 * Generative AI enables hackers to individualize and automate attacks, making them more effective.
@@ -120,6 +134,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-074243_llama3-70b-8192.md
+---
 # IDEAS
 * AI-powered identity hijacking is a sophisticated form of fraud that exploits AI to impersonate individuals.
 * Identity hijacking creates entirely new digital identities using AI-generated deepfakes and synthetic identities.
@@ -141,6 +157,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-105441_llama3-70b-8192.md
+---
 # IDEAS
 * AI-powered tools can mimic human behavior and generate convincing content, posing significant threats to individuals and organizations.
 * Cybercriminals use AI to create sophisticated phishing emails that are nearly impossible to distinguish from real ones.
@@ -162,6 +180,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-033326_llama3-70b-8192.md
+---
 # IDEAS
 * Organizations have ethical responsibilities to safeguard AI systems against vulnerabilities and jailbreaking.
 * Cybercriminals exploit AI chatbots, emphasizing the need for secure systems and responsible AI utilization.
@@ -183,6 +203,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-023005_llama3-70b-8192.md
+---
 # IDEAS
 * AI models can be hacked using Skeleton Key attacks, bypassing security systems.
 * Skeleton Key attacks can make AI models return malicious, dangerous, and harmful content.
@@ -202,6 +224,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-070214_llama3-70b-8192.md
+---
 # IDEAS
 * AI-backed side channel attackers can interpret remote keystrokes with 93% accuracy using sound profiles.
 * Ubiquitous machine learning, microphones, and video calls present a greater threat to keyboards than ever.
@@ -222,6 +246,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-072309_llama3-70b-8192.md
+---
 Here are the 20 surprising, insightful, and interesting ideas extracted from the input in 15-word bullets:
 
 * AI platforms require data security measures to prevent breaches and privacy violations.
@@ -246,6 +272,8 @@ Here are the 20 surprising, insightful, and interesting ideas extracted from the
 
 ---
 
+### extract_ideas_20240705-122211_llama3-70b-8192.md
+---
 Here are the 20 surprising, insightful, and interesting ideas from the input in 15-word bullets:
 
 * AI-generated phishing emails are becoming increasingly sophisticated and difficult to spot.
@@ -270,6 +298,8 @@ Here are the 20 surprising, insightful, and interesting ideas from the input in 
 
 ---
 
+### extract_ideas_20240705-123702_llama3-70b-8192.md
+---
 # IDEAS
 * Artificial intelligence will make scam emails appear genuine, making it difficult to identify phishing messages.
 * Generative AI tools will increase the volume of cyber-attacks and heighten their impact over the next two years.
@@ -290,6 +320,8 @@ Here are the 20 surprising, insightful, and interesting ideas from the input in 
 
 ---
 
+### extract_ideas_20240705-133718_llama3-70b-8192.md
+---
 # IDEAS
 * Artificial intelligence is being exploited by cybercriminals to automate and enhance social engineering scams.
 * Decentralized collective of individual scammers and clusters operate across West Africa, using AI to target victims.
@@ -311,16 +343,22 @@ Here are the 20 surprising, insightful, and interesting ideas from the input in 
 
 ---
 
+### extract_ideas_20240705-111123_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_ideas_20240705-143408_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_ideas_20240705-032415_llama3-70b-8192.md
+---
 # IDEAS
 * Malicious hackers jailbreak language models to exploit system bugs for illicit activities.
 * Jailbreaking language models enables gathering classified information and tampering with model authenticity.
@@ -340,6 +378,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-090624_llama3-70b-8192.md
+---
 # IDEAS
 * Deepfake scams are increasingly targeting corporate executives, using AI voice clones and virtual meetings.
 * Fraudsters impersonated WPP's CEO Mark Read using a fake WhatsApp account and YouTube footage in a virtual meet.
@@ -360,6 +400,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-061843_llama3-70b-8192.md
+---
 Here are the 20 surprising, insightful, and interesting ideas extracted from the input in 15-word bullets:
 
 * AI risks to humanity are increasing with the rapid evolution of AI technologies.
@@ -385,6 +427,8 @@ Here are the 20 surprising, insightful, and interesting ideas extracted from the
 
 ---
 
+### extract_ideas_20240705-063459_llama3-70b-8192.md
+---
 # IDEAS
 * AI tools like ChatGPT can be used to create convincing scams and hacks with minimal effort.
 * OpenAI's GPT Builder feature allows users to build custom AI assistants for malicious purposes.
@@ -403,6 +447,8 @@ Here are the 20 surprising, insightful, and interesting ideas extracted from the
 
 ---
 
+### extract_ideas_20240705-043053_llama3-70b-8192.md
+---
 # IDEAS
 * Implementing a 100% local Retrieval Augmented Generation (RAG) system over audio documents ensures privacy and independence.
 * Transcribing audio to text using the OpenAI Whisper API enables local language models (LLMs) for tokenization, embeddings, and query-based generation.
@@ -421,6 +467,8 @@ Here are the 20 surprising, insightful, and interesting ideas extracted from the
 
 ---
 
+### extract_ideas_20240705-144528_claude-3-haiku-20240307.md
+---
 Here are 20 key ideas extracted from the content:
 
 IDEAS:
@@ -467,6 +515,8 @@ IDEAS:
 
 ---
 
+### extract_ideas_20240705-030659_llama3-70b-8192.md
+---
 # IDEAS
 * Researchers discovered a way to trick AI chatbots into generating harmful content by adding suffixes and special characters to prompts.
 * AI chatbots can be manipulated into bypassing their safety mechanisms, allowing them to generate hate speech, fake news, and private details.
@@ -484,6 +534,8 @@ IDEAS:
 
 ---
 
+### extract_ideas_20240705-113909_llama3-70b-8192.md
+---
 # IDEAS
 * Deepfake technology can create realistic audio or video forgeries, making phishing attacks more sophisticated and dangerous.
 * Phishing attacks rely on social engineering to trick victims, and deepfakes can make it harder to distinguish legitimate from malicious messages.
@@ -503,6 +555,8 @@ IDEAS:
 
 ---
 
+### extract_ideas_20240705-115928_llama3-70b-8192.md
+---
 # IDEAS
 * AI is being increasingly used by bad actors to facilitate cybercrime, making it easier to develop and modify attacks quickly.
 * Generative AI is a game-changer for cybercriminals, enabling them to develop and launch attacks that challenge cyber defenses.
@@ -521,6 +575,8 @@ IDEAS:
 
 ---
 
+### extract_ideas_20240705-091507_llama3-70b-8192.md
+---
 # IDEAS
 * Generative AI makes fraud easier and cheaper to commit, challenging banks' anti-fraud efforts.
 * Deepfakes incorporate self-learning systems, constantly updating to fool detection systems.
@@ -544,6 +600,8 @@ IDEAS:
 
 ---
 
+### extract_ideas_20240705-074640_llama3-70b-8192.md
+---
 # IDEAS
 * Deepfake phishing is a new cybercrime tactic that uses AI-generated synthetic images, videos, or audio to manipulate victims.
 * Phishers evolve tactics with technology, making phishing still the most effective method to hack organizations.
@@ -563,6 +621,8 @@ IDEAS:
 
 ---
 
+### extract_ideas_20240705-075206_llama3-70b-8192.md
+---
 # IDEAS
 * Deepfake scams have looted millions of dollars from companies worldwide, and experts warn it could get worse.
 * Generative AI technology has lowered the barrier of entry for cyber criminals to create deepfakes.
@@ -582,16 +642,22 @@ IDEAS:
 
 ---
 
+### extract_ideas_20240705-142649_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_ideas_20240705-140147_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_ideas_20240705-124158_llama3-8b-8192.md
+---
 Here are the 15-word bullet points that capture the most important ideas from the input:
 
 * Adversary-in-the-middle (AiTM) phishing attacks use indirect proxy to evade detection.
@@ -612,6 +678,8 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-071241_llama3-70b-8192.md
+---
 # IDEAS
 * AI's superpower lies in crunching massive amounts of data to uncover patterns and insights.
 * Personal data is the digital trail of footprints left while browsing the web, using apps, and interacting online.
@@ -633,6 +701,8 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-064914_claude-3-haiku-20240307.md
+---
 Here are the key ideas I extracted from the content:
 
 IDEAS:
@@ -657,6 +727,8 @@ IDEAS:
 
 ---
 
+### extract_ideas_20240705-100324_llama3-70b-8192.md
+---
 # IDEAS
 * Cybercriminals utilize artificial intelligence to conduct sophisticated phishing and social engineering attacks.
 * Artificial intelligence provides augmented capabilities to schemes, increasing cyber-attack speed, scale, and automation.
@@ -676,6 +748,8 @@ IDEAS:
 
 ---
 
+### extract_ideas_20240705-075727_llama3-70b-8192.md
+---
 # IDEAS
 * Deepfake technology can be used to pose as high-ranking officials in video conference calls.
 * Fraudsters are using deepfake technology to cheat people out of money in elaborate scams.
@@ -695,6 +769,8 @@ IDEAS:
 
 ---
 
+### extract_ideas_20240705-081656_llama3-70b-8192.md
+---
 # IDEAS
 * AI-generated deepfakes and emerging technology turbocharge impersonation fraud, causing billions in losses.
 * Fraudsters use AI tools to impersonate individuals with eerie precision and at a wider scale.
@@ -714,6 +790,8 @@ IDEAS:
 
 ---
 
+### extract_ideas_20240705-115247_llama3-70b-8192.md
+---
 # IDEAS
 * Generative AI financial scammers are getting very good at duping work email using tools like ChatGPT or FraudGPT.
 * Criminals can easily create realistic videos of profit and loss statements, fake IDs, false identities or even convincing deepfakes.
@@ -732,11 +810,15 @@ IDEAS:
 
 ---
 
+### extract_ideas_20240705-093616_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_ideas_20240705-082441_llama3-8b-8192.md
+---
 Here are the 15-word bullet points that capture the most important ideas from the input:
 
 * GPT-3 is a language model trained on a large corpus of text data.
@@ -757,6 +839,8 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-051501_llama3-8b-8192.md
+---
 Here are the 15-word bullet points that capture the most important ideas from the input:
 
 * Malicious LLMs can generate personalized phishing emails and pages to deceive users.
@@ -777,6 +861,8 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-051145_llama3-70b-8192.md
+---
 # IDEAS
 * Uncensored AI platforms can fully unleash the potential of artificial intelligence without restrictions.
 * Freedom to use various language models without platform restrictions enables uncensored expression.
@@ -795,11 +881,15 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-143748_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_ideas_20240705-030257_llama3-70b-8192.md
+---
 # IDEAS
 * AI cybersecurity vulnerabilities are increasingly exploited as AI proliferates.
 * Prompt injection is a specific AI cybersecurity vulnerability that attacks generative AI.
@@ -822,6 +912,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-095807_llama3-70b-8192.md
+---
 # IDEAS
 * Romance scams are a rapidly growing problem, with 19,000 Americans falling victim in 2020, losing $1.3 billion.
 * Scammers use artificial intelligence to generate fake photos, audio, and videos, making it harder to spot scams.
@@ -848,6 +940,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-094402_llama3-70b-8192.md
+---
 # IDEAS
 * AI-powered systems process huge amounts of data faster and more accurately than legacy software.
 * Cybercrime costs the world economy $600 billion annually, which is 0.8% of the global GDP.
@@ -867,6 +961,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-080929_llama3-70b-8192.md
+---
 # IDEAS
 * AI is evolving rapidly and its growth represents both pros and cons, including reducing repetitive tasks and making faster decisions, but also potential harm through deep fakes and impersonation.
 * The development of Large Language Models is evident and will continue growing, bringing both benefits and drawbacks.
@@ -885,6 +981,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-020957_llama3-70b-8192.md
+---
 # IDEAS
 * Hackers use prompt injection to hijack large language models for malicious purposes.
 * Prompt leaking forces language models to reveal internal workings or parameters.
@@ -904,6 +1002,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-121641_llama3-70b-8192.md
+---
 # IDEAS
 * Large Language Models (LLMs) are transforming email security by improving phishing detection.
 * LLMs can fine-tune, prompt, and respond to text generation problems in Natural Language Processing (NLP) tasks.
@@ -923,6 +1023,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-133228_llama3-70b-8192.md
+---
 # IDEAS
 * Scammers exploit ChatGPT's popularity to trick users into downloading malware and stealing personal information.
 * Cybercriminals use ChatGPT to generate fake news, impersonate people online, and steal credentials.
@@ -939,6 +1041,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-060623_llama3-70b-8192.md
+---
 # IDEAS
 * AI model hosting platforms are vulnerable to unauthorized access and cyberattacks.
 * Hugging Face's security team detected unauthorized access to its Spaces platform.
@@ -958,6 +1062,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-123129_llama3-70b-8192.md
+---
 # IDEAS
 * Generative AI and large language models can be used as tools for cybersecurity attacks, adding scale and complexity.
 * Malicious actors use technology to create convincing scams and attacks, with AI adding another layer of sophistication.
@@ -977,11 +1083,15 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-090243_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_ideas_20240705-071720_llama3-70b-8192.md
+---
 # IDEAS
 * AI systems rely heavily on large amounts of data to learn, adapt, and make accurate predictions.
 * AI algorithms crave data, constantly seeking new sources of information to refine their capabilities.
@@ -1003,6 +1113,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-021534_llama3-70b-8192.md
+---
 Here are the 20 surprising, insightful, and interesting ideas from the input in 15-word bullets:
 
 * Jailbreaking AI models can disrupt human-aligned values and constraints, posing significant safety risks.
@@ -1028,6 +1140,8 @@ Here are the 20 surprising, insightful, and interesting ideas from the input in 
 
 ---
 
+### extract_ideas_20240705-034509_llama3-8b-8192.md
+---
 Here are the 15-word bullet points that capture the most important ideas from the input:
 
 * Jailbreaking Large Language Models (LLMs) can expose them to manipulations and unpredictable outputs.
@@ -1043,11 +1157,15 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-114422_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_ideas_20240705-094910_llama3-70b-8192.md
+---
 Here are the 20 IDEAS extracted from the input in 15-word bullets:
 
 * Cybersecurity is a data problem, requiring 100% visibility to detect threats effectively.
@@ -1073,6 +1191,8 @@ Here are the 20 IDEAS extracted from the input in 15-word bullets:
 
 ---
 
+### extract_ideas_20240705-121117_llama3-70b-8192.md
+---
 # IDEAS
 * LLMs can generate phishing emails that are more persuasive than traditional spam emails.
 * Scammers use obvious scam emails to weed out non-gullible targets and focus on profitable marks.
@@ -1094,6 +1214,8 @@ Here are the 20 IDEAS extracted from the input in 15-word bullets:
 
 ---
 
+### extract_ideas_20240705-130329_llama3-70b-8192.md
+---
 # IDEAS
 * Microsoft identifies Octo Tempest as a highly dangerous financial hacking group with advanced social engineering capabilities.
 * Octo Tempest targets companies in data extortion and ransomware attacks, partnering with the ALPHV/BlackCat ransomware group.
@@ -1121,6 +1243,8 @@ Here are the 20 IDEAS extracted from the input in 15-word bullets:
 
 ---
 
+### extract_ideas_20240705-130916_llama3-70b-8192.md
+---
 # IDEAS
 * State-backed hackers from Russia, China, and Iran use Microsoft's AI tools to enhance hacking skills.
 * Hackers utilize large language models to generate human-sounding responses and trick targets.
@@ -1140,6 +1264,8 @@ Here are the 20 IDEAS extracted from the input in 15-word bullets:
 
 ---
 
+### extract_ideas_20240705-110141_llama3-70b-8192.md
+---
 Here are the 20 surprising, insightful, and interesting ideas extracted from the input in 15-word bullets:
 
 * Midnight Blizzard conducts targeted social engineering attacks using Microsoft Teams for credential theft phishing lures.
@@ -1164,6 +1290,8 @@ Here are the 20 surprising, insightful, and interesting ideas extracted from the
 
 ---
 
+### extract_ideas_20240705-043600_llama3-70b-8192.md
+---
 Here are the 20 IDEAS extracted from the input in 15-word bullets:
 
 * Model alignment protects against accidental harms, not intentional ones from adversaries.
@@ -1189,6 +1317,8 @@ Here are the 20 IDEAS extracted from the input in 15-word bullets:
 
 ---
 
+### extract_ideas_20240705-090028_llama3-70b-8192.md
+---
 # IDEAS
 * Deepfake fraud poses significant financial threats to businesses due to advanced AI technology.
 * New AI technology enables sophisticated deepfake fraud, causing multi-million pound losses.
@@ -1208,6 +1338,8 @@ Here are the 20 IDEAS extracted from the input in 15-word bullets:
 
 ---
 
+### extract_ideas_20240705-093949_llama3-70b-8192.md
+---
 # IDEAS
 * Generative AI enables fraudsters to create realistic videos, fake identities, and convincing deepfakes.
 * AI-powered fraud risks are growing, with predicted losses reaching $40 billion in the US by 2027.
@@ -1227,11 +1359,15 @@ Here are the 20 IDEAS extracted from the input in 15-word bullets:
 
 ---
 
+### extract_ideas_20240705-134251_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_ideas_20240705-040802_llama3-8b-8192.md
+---
 Here are the 15-word bullet points that capture the most important ideas from the input:
 
 • Ollama is an open-source project that serves as a powerful platform for running LLMs locally.
@@ -1241,6 +1377,8 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-064003_llama3-70b-8192.md
+---
 # IDEAS
 * OpenAI blocks API services in China to prevent AI product development.
 * Chinese companies receive emails stating additional measures to block API traffic.
@@ -1259,6 +1397,8 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-064515_llama3-70b-8192.md
+---
 # IDEAS
 * OpenAI reportedly restricts China's access to artificial intelligence software and tools.
 * Enforcing policy to bar users in nations not supported by the company's territory.
@@ -1278,6 +1418,8 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-062937_llama3-70b-8192.md
+---
 # IDEAS
 * OpenAI allegedly stole massive amounts of personal data to train ChatGPT without permission.
 * Web crawling and scraping social media sites were used to amass huge amounts of data.
@@ -1299,6 +1441,8 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-055912_llama3-70b-8192.md
+---
 # IDEAS
 * OpenAI blocks people in China from using its services due to unsupported region access.
 * Users and developers in China access OpenAI's services via API despite official unavailability.
@@ -1318,6 +1462,8 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-140530_llama3-8b-8192.md
+---
 Here are the 15-word bullet points capturing the most important ideas from the input:
 
 * ChatGPT can be used to create phishing attacks with ease, making social engineering more accessible.
@@ -1338,6 +1484,8 @@ Here are the 15-word bullet points capturing the most important ideas from the i
 
 ---
 
+### extract_ideas_20240705-073457_llama3-70b-8192.md
+---
 # IDEAS
 * AI systems pose new challenges for privacy, including risks of data collection and misuse on a large scale.
 * The scale of AI systems' data hunger and intransparency makes it difficult for individuals to control their personal information.
@@ -1357,6 +1505,8 @@ Here are the 15-word bullet points capturing the most important ideas from the i
 
 ---
 
+### extract_ideas_20240705-033714_llama3-70b-8192.md
+---
 # IDEAS
 * Prompt injection attacks trick GenAI models into producing malicious content or leaking private data by using subtly written instructions.
 * Large Language Models (LLMs) are primary targets of prompt injection attacks, which can be orchestrated using the jailbreak approach.
@@ -1373,6 +1523,8 @@ Here are the 15-word bullet points capturing the most important ideas from the i
 
 ---
 
+### extract_ideas_20240705-082103_llama3-70b-8192.md
+---
 # IDEAS
 * 76% of banks perceive fraud cases and scams as increasingly sophisticated and challenging.
 * AI-generated fraud and deepfakes are emerging challenges for banks and financial institutions.
@@ -1393,6 +1545,8 @@ Here are the 15-word bullet points capturing the most important ideas from the i
 
 ---
 
+### extract_ideas_20240705-120637_llama3-70b-8192.md
+---
 # IDEAS
 * AI-enhanced online scams have increased by up to 900% in the past 18 months in France.
 * Scammers use AI to launch attacks that mimic emails far better than before, making them more convincing.
@@ -1410,6 +1564,8 @@ Here are the 15-word bullet points capturing the most important ideas from the i
 
 ---
 
+### extract_ideas_20240705-042604_llama3-70b-8192.md
+---
 # IDEAS
 * Uncensored AI models can provide more accurate and informative responses than censored models.
 * Fine-tuned Llama 2 7B model can be used to generate uncensored responses to user prompts.
@@ -1430,6 +1586,8 @@ Here are the 15-word bullet points capturing the most important ideas from the i
 
 ---
 
+### extract_ideas_20240705-061425_llama3-70b-8192.md
+---
 # IDEAS
 * State-sponsored hacking groups from Russia, China, and others use OpenAI's tools to enhance attacks.
 * OpenAI's language models improve hackers' technical operations, research, and phishing content.
@@ -1450,6 +1608,8 @@ Here are the 15-word bullet points capturing the most important ideas from the i
 
 ---
 
+### extract_ideas_20240705-061052_llama3-70b-8192.md
+---
 # IDEAS
 * Hugging Face hack exposes secrets in Spaces platform, affecting machine learning applications.
 * Unauthorized access to Spaces platform may have leaked sensitive user information and tokens.
@@ -1469,6 +1629,8 @@ Here are the 15-word bullet points capturing the most important ideas from the i
 
 ---
 
+### extract_ideas_20240705-102111_llama3-70b-8192.md
+---
 # IDEAS
 * Cyber criminals use generative AI to create convincing social engineering attacks and misinformation at scale.
 * AI-driven cyber crime will shape the entire cyber crime landscape in the years ahead.
@@ -1486,6 +1648,8 @@ Here are the 15-word bullet points capturing the most important ideas from the i
 
 ---
 
+### extract_ideas_20240705-103221_llama3-70b-8192.md
+---
 # IDEAS
 * Social engineering attacks exploit human psychology, making them challenging to defend against, and AI enhances their effectiveness and scale.
 * AI-powered social engineering attacks can analyze large datasets to identify high-value targets or vulnerabilities, optimize attack plans, and streamline workflows.
@@ -1505,11 +1669,15 @@ Here are the 15-word bullet points capturing the most important ideas from the i
 
 ---
 
+### extract_ideas_20240705-111501_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_ideas_20240705-045034_llama3-70b-8192.md
+---
 # IDEAS
 * Unaligned AI models lack safety measures and can be used for harmful content creation, such as phishing emails and scam landing pages.
 * FraudGPT, WormGPT, and PoisonGPT are malicious AI models designed for cybercrime, misinformation, and targeted false information.
@@ -1525,6 +1693,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-131417_llama3-8b-8192.md
+---
 Here are the 15-word bullet points that capture the most important ideas from the input:
 
 * Microsoft and OpenAI collaborate to study threat actors' use of AI and LLMs.
@@ -1545,6 +1715,8 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-085357_llama3-70b-8192.md
+---
 # IDEAS
 * AI romantic chatbots are collecting and sharing personal data with third parties like Facebook.
 * Eleven AI romantic platforms failed to safeguard users' privacy, security, and safety.
@@ -1564,6 +1736,8 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-044514_llama3-70b-8192.md
+---
 # IDEAS
 * Large language models are being exploited for malicious purposes like creating malware and phishing scams.
 * Researchers studied 212 "Mallas" or LLMs used for malicious services, uncovering their operational modalities.
@@ -1582,6 +1756,8 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-093137_llama3-70b-8192.md
+---
 # IDEAS
 * Fraudsters leverage automation to handle repetitive tasks, similar to legitimate businesses.
 * Automation is used in fraud attacks, such as credentials stuffing and new account creation.
@@ -1601,6 +1777,8 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-100700_llama3-70b-8192.md
+---
 # IDEAS
 * Large Language Models are transforming cybersecurity with advanced security solutions and cybercrime tools.
 * AI technologies are shaping the future of digital security with dual roles in cybersecurity.
@@ -1620,6 +1798,8 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-031536_llama3-70b-8192.md
+---
 # IDEAS
 * AI jailbreaking refers to manipulating AI systems to make them act in ways they are not designed for, often bypassing built-in safety constraints.
 * Researchers are working on safety mechanisms to prevent AI jailbreaking, which can range from simple tricks to complex manipulations.
@@ -1640,6 +1820,8 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-104137_llama3-70b-8192.md
+---
 # IDEAS
 * Social engineering is the most pervasive threat in the cyber industry, with 74% of data breaches involving the human element.
 * Cybercriminals have amassed $50 billion from business email compromise scams, a tiny fraction of social engineering fraud.
@@ -1657,6 +1839,8 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-022457_llama3-70b-8192.md
+---
 # IDEAS
 * Cybercriminals use AI to execute highly targeted attacks at scale, causing financial losses.
 * AI-generated deepfakes can impersonate company executives, leading to large financial transfers.
@@ -1677,6 +1861,8 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-102737_llama3-70b-8192.md
+---
 # IDEAS
 * AI-generated social engineering attacks are becoming increasingly difficult to distinguish from real ones.
 * Cybercriminals use AI to launch sophisticated phishing emails and deepfakes to impersonate senior business leaders.
@@ -1697,6 +1883,8 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-045831_llama3-70b-8192.md
+---
 # IDEAS
 * Uncensored AI has the power to create a new paradigm of endless opportunities by stimulating innovation and discovery.
 * Unfiltered AI provides more accurate and pleasant connections between people and AI systems that are more sensible and human-like.
@@ -1717,6 +1905,8 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-104740_llama3-70b-8192.md
+---
 # IDEAS
 * Social engineering is present in 90% of phishing attacks, making it a prominent part of cybercrime.
 * Business email compromise attacks emphasize social engineering and the art of deception to manipulate victims.
@@ -1735,6 +1925,8 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-092125_llama3-70b-8192.md
+---
 # IDEAS
 
 * Artificial intelligence is revolutionizing various aspects of life, including medical diagnosis, weather forecasting, and space exploration, but it also brings new challenges like deepfake video content and sophisticated phishing emails.
@@ -1752,6 +1944,8 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-065903_llama3-70b-8192.md
+---
 # IDEAS
 * Artificial intelligence worm can infiltrate emails and access data without user interaction required.
 * AI worm can spread malware and steal data by exploiting generative AI models like ChatGPT and Gemini.
@@ -1771,11 +1965,15 @@ Here are the 15-word bullet points that capture the most important ideas from th
 
 ---
 
+### extract_ideas_20240705-142307_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_ideas_20240705-091112_llama3-70b-8192.md
+---
 # IDEAS
 * Artificial intelligence-generated video calls can be used to commit deepfake fraud.
 * Criminals use AI-generated voices and images to pose as senior company officers.
@@ -1795,6 +1993,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-050558_llama3-70b-8192.md
+---
 # IDEAS
 * AI models with built-in alignment can prevent dangerous or inappropriate responses, but may hinder cultural diversity and research freedom.
 * Uncensored AI models can reflect a wide range of values and norms, promoting global cultural diversity and freedom of expression.
@@ -1813,6 +2013,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-055448_llama3-70b-8192.md
+---
 # IDEAS
 * Uncensored LLMs lack moral guardrails, allowing them to generate potentially harmful content.
 * Public LLMs are aligned to prevent harmful content, but who decides what is good and what should be disallowed?
@@ -1832,11 +2034,15 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-023426_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_ideas_20240705-032822_llama3-70b-8192.md
+---
 # IDEAS
 * GPT-4 can write malicious scripts to exploit known security vulnerabilities using publicly available data.
 * Large language models can automate and speed up malicious actors' attacks, a fear of government officials and cybersecurity executives.
@@ -1856,10 +2062,14 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-085817_llama3-70b-8192.md
+---
 There is no text content to extract ideas from. Please provide the actual text content, and I'll be happy to assist you in extracting surprising, insightful, and interesting ideas related to the purpose and meaning of life, human flourishing, the role of technology in the future of humanity, artificial intelligence and its affect on humans, memes, learning, reading, books, continuous improvement, and similar topics.
 
 ---
 
+### extract_ideas_20240705-144129_llama3-70b-8192.md
+---
 # IDEAS
 * Deepfake audio fraud is a new cyberattack that uses AI-generated audio to mimic voices.
 * Cybercriminals used deepfake audio to steal US$243,000 from a UK-based energy company.
@@ -1881,11 +2091,15 @@ There is no text content to extract ideas from. Please provide the actual text c
 
 ---
 
+### extract_ideas_20240705-141932_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_ideas_20240705-040106_llama3-70b-8192.md
+---
 # IDEAS
 * Large Language Models (LLMs) and Generative AI (Gen AI) can be leveraged for advanced cyber-attacks, such as creating targeted phishing emails.
 * Self-hosted Gen AI infrastructure can be created using free cloud resources, allowing for the generation of a target's password list for a password spray attack.
@@ -1902,6 +2116,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_ideas_20240705-080149_llama3-70b-8192.md
+---
 # IDEAS
 
 * Identity theft and online impersonation are evolving cybercrimes powered by artificial intelligence and social media platforms.

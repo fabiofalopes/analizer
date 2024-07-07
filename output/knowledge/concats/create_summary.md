@@ -1,3 +1,5 @@
+### create_summary_20240705-101010_llama3-70b-8192.md
+---
 ONE SENTENCE SUMMARY:
 This article highlights 15 real-world examples of social engineering attacks, including phishing scams, CEO fraud, and whaling attacks, that have resulted in significant financial losses and data breaches.
 
@@ -29,11 +31,15 @@ TAKEAWAYS:
 
 ---
 
+### create_summary_20240705-143023_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### create_summary_20240705-020640_llama3-70b-8192.md
+---
 Here is the summary in Markdown format:
 
 ONE SENTENCE SUMMARY:
@@ -60,6 +66,8 @@ TAKEAWAYS:
 
 ---
 
+### create_summary_20240705-125840_llama3-70b-8192.md
+---
 ONE SENTENCE SUMMARY:
 Google DeepMind researchers highlight the ethical dilemmas of advanced AI assistants, which could radically alter daily life, work, and communication, but also introduce new risks and challenges.
 
@@ -86,6 +94,8 @@ TAKEAWAYS:
 
 ---
 
+### create_summary_20240705-060258_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 Hugging Face detects unauthorized access to its Spaces platform, revokes affected tokens, and notifies users.
 
@@ -112,6 +122,8 @@ Hugging Face detects unauthorized access to its Spaces platform, revokes affecte
 
 ---
 
+### create_summary_20240705-114806_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 AI has democratized spear phishing attacks, making it easy for attackers to target millions of everyday individuals with highly sophisticated and convincing attacks.
 
@@ -138,6 +150,8 @@ AI has democratized spear phishing attacks, making it easy for attackers to targ
 
 ---
 
+### create_summary_20240705-070714_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 AI-powered hacking tools are increasingly being used to target healthcare providers, who must urgently update their cybersecurity measures to protect patient data.
 
@@ -164,6 +178,8 @@ AI-powered hacking tools are increasingly being used to target healthcare provid
 
 ---
 
+### create_summary_20240705-074243_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 AI-powered identity hijacking is a sophisticated form of fraud that exploits AI to impersonate individuals for malicious purposes.
 
@@ -190,6 +206,8 @@ AI-powered identity hijacking is a sophisticated form of fraud that exploits AI 
 
 ---
 
+### create_summary_20240705-105441_llama3-70b-8192.md
+---
 ONE SENTENCE SUMMARY:
 AI-powered tools are being used to scam individuals and organizations, posing significant threats to security and safety, and education and awareness are key to avoiding these scams.
 
@@ -216,6 +234,8 @@ TAKEAWAYS:
 
 ---
 
+### create_summary_20240705-033326_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 AI jailbreaking poses significant ethical security concerns, requiring organizations to prioritize robust security measures and ethical frameworks to mitigate exploitation.
 
@@ -242,6 +262,8 @@ AI jailbreaking poses significant ethical security concerns, requiring organizat
 
 ---
 
+### create_summary_20240705-023005_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 Microsoft warns of a new hacking method called Skeleton Key that can bypass AI model security and generate malicious content.
 
@@ -268,6 +290,8 @@ Microsoft warns of a new hacking method called Skeleton Key that can bypass AI m
 
 ---
 
+### create_summary_20240705-070214_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 Researchers achieve 93% accuracy in detecting keystrokes over Zoom audio using AI-backed side channel attack.
 
@@ -292,6 +316,8 @@ Researchers achieve 93% accuracy in detecting keystrokes over Zoom audio using A
 
 ---
 
+### create_summary_20240705-072309_llama3-70b-8192.md
+---
 Here is the summary of the article in Markdown format:
 
 **ONE SENTENCE SUMMARY:**
@@ -317,6 +343,8 @@ The article discusses the importance of data security and privacy in the AI era,
 
 ---
 
+### create_summary_20240705-122211_llama3-70b-8192.md
+---
 ONE SENTENCE SUMMARY:
 Artificial intelligence is increasing the quantity and quality of phishing scams, making it easier and cheaper for attackers to launch highly effective and personalized attacks.
 
@@ -343,6 +371,8 @@ TAKEAWAYS:
 
 ---
 
+### create_summary_20240705-123702_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 The UK's National Cyber Security Centre warns that artificial intelligence will make scam emails appear genuine, increasing the volume and impact of cyber-attacks.
 
@@ -369,6 +399,8 @@ The UK's National Cyber Security Centre warns that artificial intelligence will 
 
 ---
 
+### create_summary_20240705-133718_llama3-70b-8192.md
+---
 Here is the summary of the article in Markdown format:
 
 **ONE SENTENCE SUMMARY:**
@@ -397,16 +429,22 @@ Artificial intelligence is being exploited by cybercriminals, such as the Yahoo 
 
 ---
 
+### create_summary_20240705-111123_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### create_summary_20240705-143408_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### create_summary_20240705-032415_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 Researchers from the University of Maryland discovered BEAST AI, a fast and accurate language model jailbreak method that can exploit vulnerabilities in just one minute.
 
@@ -431,6 +469,8 @@ Researchers from the University of Maryland discovered BEAST AI, a fast and accu
 
 ---
 
+### create_summary_20240705-090624_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 Mark Read, CEO of WPP, was targeted by a deepfake scam involving a fake WhatsApp account, voice clone, and YouTube footage.
 
@@ -449,6 +489,8 @@ Mark Read, CEO of WPP, was targeted by a deepfake scam involving a fake WhatsApp
 
 ---
 
+### create_summary_20240705-061843_llama3-70b-8192.md
+---
 Here is a summary of the article in Markdown format:
 
 **ONE SENTENCE SUMMARY:**
@@ -476,6 +518,8 @@ The rapid development of AI technologies, such as ChatGPT, raises concerns about
 
 ---
 
+### create_summary_20240705-063459_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 A BBC News investigation reveals that OpenAI's ChatGPT feature can be used to create tools for cyber-crime, including convincing emails, texts, and social-media posts for scams and hacks.
 
@@ -502,6 +546,8 @@ A BBC News investigation reveals that OpenAI's ChatGPT feature can be used to cr
 
 ---
 
+### create_summary_20240705-043053_llama3-70b-8192.md
+---
 Here is the summary of the content in Markdown format:
 
 **ONE SENTENCE SUMMARY:**
@@ -530,6 +576,8 @@ This tutorial guides users through a step-by-step process for implementing a 100
 
 ---
 
+### create_summary_20240705-144528_claude-3-haiku-20240307.md
+---
 Here is a summary of the key points:
 
 ONE SENTENCE SUMMARY:
@@ -550,6 +598,8 @@ TAKEAWAYS:
 
 ---
 
+### create_summary_20240705-030659_llama3-70b-8192.md
+---
 ONE SENTENCE SUMMARY:
 Researchers have discovered a way to "jailbreak" AI chatbots by adding special characters and suffixes to prompts, allowing them to generate harmful content, highlighting the need for improved safety measures and content moderation.
 
@@ -576,6 +626,8 @@ TAKEAWAYS:
 
 ---
 
+### create_summary_20240705-113909_llama3-70b-8192.md
+---
 Here is the summary in Markdown format:
 
 **ONE SENTENCE SUMMARY:**
@@ -604,6 +656,8 @@ Deepfake technology is being used to create sophisticated phishing scams, making
 
 ---
 
+### create_summary_20240705-115928_llama3-70b-8192.md
+---
 ONE SENTENCE SUMMARY:
 AI-driven phishing attacks are on the rise, using tools like ChatGPT to create sophisticated and convincing phishing messages that can evade detection and put businesses at risk.
 
@@ -630,6 +684,8 @@ TAKEAWAYS:
 
 ---
 
+### create_summary_20240705-091507_llama3-70b-8192.md
+---
 ONE SENTENCE SUMMARY:
 Generative AI is increasing the risk of fraud in the banking industry, making it easier and cheaper for criminals to commit fraud, and banks must adapt to stay ahead.
 
@@ -656,6 +712,8 @@ TAKEAWAYS:
 
 ---
 
+### create_summary_20240705-074640_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 Deepfake phishing, a new form of cybercrime, uses AI-generated synthetic images, videos, or audio to manipulate victims through social engineering tactics.
 
@@ -682,6 +740,8 @@ Deepfake phishing, a new form of cybercrime, uses AI-generated synthetic images,
 
 ---
 
+### create_summary_20240705-075206_llama3-70b-8192.md
+---
 Here is the summary of the article in Markdown format:
 
 **ONE SENTENCE SUMMARY:**
@@ -710,16 +770,22 @@ Deepfake scams have looted millions of dollars from companies worldwide, and cyb
 
 ---
 
+### create_summary_20240705-142649_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### create_summary_20240705-140147_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### create_summary_20240705-124158_llama3-8b-8192.md
+---
 # Detecting and mitigating a multi-stage AiTM phishing and BEC campaign
 
 ## ONE SENTENCE SUMMARY:
@@ -746,6 +812,8 @@ Microsoft Defender Experts uncovered a multi-stage adversary-in-the-middle (AiTM
 
 ---
 
+### create_summary_20240705-071241_llama3-70b-8192.md
+---
 Here is the summary of the article in Markdown format:
 
 # ONE SENTENCE SUMMARY:
@@ -772,11 +840,15 @@ AI does not steal personal data, but relies on it to learn and make predictions,
 
 ---
 
+### create_summary_20240705-064914_claude-3-haiku-20240307.md
+---
 Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your per-minute rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
 Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your per-minute rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
 
 ---
 
+### create_summary_20240705-100324_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 The FBI warns of increasing cyber threats from criminals using artificial intelligence to conduct sophisticated phishing and voice/video cloning scams.
 
@@ -803,6 +875,8 @@ The FBI warns of increasing cyber threats from criminals using artificial intell
 
 ---
 
+### create_summary_20240705-075727_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 A finance worker was tricked into paying out $25 million to fraudsters using deepfake technology to pose as the company's chief financial officer in a video conference call.
 
@@ -827,6 +901,8 @@ A finance worker was tricked into paying out $25 million to fraudsters using dee
 
 ---
 
+### create_summary_20240705-081656_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 The Federal Trade Commission (FTC) proposes rule changes to combat AI-powered impersonation fraud, which has led to billions of dollars in consumer losses.
 
@@ -853,6 +929,8 @@ The Federal Trade Commission (FTC) proposes rule changes to combat AI-powered im
 
 ---
 
+### create_summary_20240705-115247_llama3-70b-8192.md
+---
 Here is the output in Markdown format:
 
 ONE SENTENCE SUMMARY:
@@ -881,11 +959,15 @@ TAKEAWAYS:
 
 ---
 
+### create_summary_20240705-093616_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### create_summary_20240705-082441_llama3-8b-8192.md
+---
 Here is the output in Markdown format:
 
 # GPT-3 Trained To Impersonate
@@ -914,6 +996,8 @@ We trained the GPT-3 language model to imitate the writing styles and unique per
 
 ---
 
+### create_summary_20240705-051501_llama3-8b-8192.md
+---
 Here is the output in Markdown format:
 
 # Guide: Large Language Models (LLMs)-Generated Fraud, Malware, and Vulnerabilities
@@ -953,6 +1037,8 @@ WormGPT is [available for purchase](https://www.trustwave.com/en-us/resources/bl
 
 ---
 
+### create_summary_20240705-051145_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 HackAIGC is an uncensored and unrestricted AI platform offering stable text and image generation without platform restrictions.
 
@@ -977,11 +1063,15 @@ HackAIGC is an uncensored and unrestricted AI platform offering stable text and 
 
 ---
 
+### create_summary_20240705-143748_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### create_summary_20240705-030257_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 The National Institute of Standards and Technology (NIST) reports on the vulnerability of AI systems to prompt injection attacks, which can be exploited to circumvent security and manipulate AI behavior.
 
@@ -1008,6 +1098,8 @@ The National Institute of Standards and Technology (NIST) reports on the vulnera
 
 ---
 
+### create_summary_20240705-095807_llama3-70b-8192.md
+---
 Here is the summary of the article in Markdown format:
 
 **ONE SENTENCE SUMMARY:**
@@ -1036,6 +1128,8 @@ AI-powered romance scams are on the rise, with scammers using fake photos, audio
 
 ---
 
+### create_summary_20240705-094402_llama3-70b-8192.md
+---
 ONE SENTENCE SUMMARY:
 AI-powered fraud detection in banking enhances security, efficiency, and customer experience by detecting anomalies in real-time transactions and preventing fraud.
 
@@ -1062,6 +1156,8 @@ TAKEAWAYS:
 
 ---
 
+### create_summary_20240705-080929_llama3-70b-8192.md
+---
 ONE SENTENCE SUMMARY:
 Google is working to solve deep fakes and impersonation by developing responsible AI principles and tools to detect and prevent misinformation and harmful use of AI.
 
@@ -1088,6 +1184,8 @@ TAKEAWAYS:
 
 ---
 
+### create_summary_20240705-020957_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 Hackers are using various techniques, including prompt injection, prompt leaking, and data training poisoning, to gain unauthorized access to large language models.
 
@@ -1114,6 +1212,8 @@ Hackers are using various techniques, including prompt injection, prompt leaking
 
 ---
 
+### create_summary_20240705-121641_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 Large Language Models (LLMs) are transforming email security by enhancing phishing detection through Natural Language Processing (NLP) and machine learning algorithms.
 
@@ -1140,6 +1240,8 @@ Large Language Models (LLMs) are transforming email security by enhancing phishi
 
 ---
 
+### create_summary_20240705-133228_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 Scammers are using ChatGPT to steal credentials by impersonating the AI tool and tricking users into revealing personal and business account information.
 
@@ -1166,6 +1268,8 @@ Scammers are using ChatGPT to steal credentials by impersonating the AI tool and
 
 ---
 
+### create_summary_20240705-060623_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 Hugging Face detected unauthorized access to its AI model hosting platform, revoking tokens and recommending security measures to users.
 
@@ -1190,6 +1294,8 @@ Hugging Face detected unauthorized access to its AI model hosting platform, revo
 
 ---
 
+### create_summary_20240705-123129_llama3-70b-8192.md
+---
 Here is the summary of the article in Markdown format:
 
 # ONE SENTENCE SUMMARY:
@@ -1216,11 +1322,15 @@ Generative AI and large language models have the potential to be used as tools f
 
 ---
 
+### create_summary_20240705-090243_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### create_summary_20240705-071720_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 AI systems, which rely on large amounts of data to learn and make accurate predictions, raise concerns about personal data privacy and security.
 
@@ -1247,6 +1357,8 @@ AI systems, which rely on large amounts of data to learn and make accurate predi
 
 ---
 
+### create_summary_20240705-021534_llama3-70b-8192.md
+---
 Here is the summary of the article in Markdown format:
 
 **ONE SENTENCE SUMMARY:**
@@ -1275,6 +1387,8 @@ The article discusses the importance of AI safety and alignment, highlighting th
 
 ---
 
+### create_summary_20240705-034509_llama3-8b-8192.md
+---
 Here is the output in Markdown format:
 
 # ONE SENTENCE SUMMARY:
@@ -1298,11 +1412,15 @@ Jailbreaking Large Language Models (LLMs) refers to the manipulation of LLMs to 
 
 ---
 
+### create_summary_20240705-114422_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### create_summary_20240705-094910_llama3-70b-8192.md
+---
 Here is a summary of the article in Markdown format:
 
 **ONE SENTENCE SUMMARY:**
@@ -1326,6 +1444,8 @@ Large language models (LLMs) and generative AI are transforming digital security
 
 ---
 
+### create_summary_20240705-121117_llama3-70b-8192.md
+---
 Here is the summary of the article in Markdown format:
 
 # ONE SENTENCE SUMMARY:
@@ -1354,6 +1474,8 @@ Large language models (LLMs) will revolutionize phishing scams by enabling scamm
 
 ---
 
+### create_summary_20240705-130329_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 Microsoft identifies Octo Tempest as a highly dangerous financial hacking group that targets companies with advanced social engineering and ransomware attacks.
 
@@ -1380,6 +1502,8 @@ Microsoft identifies Octo Tempest as a highly dangerous financial hacking group 
 
 ---
 
+### create_summary_20240705-130916_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 Microsoft reports that state-backed hackers from China, Russia, and Iran used its AI tools to enhance their hacking campaigns.
 
@@ -1406,6 +1530,8 @@ Microsoft reports that state-backed hackers from China, Russia, and Iran used it
 
 ---
 
+### create_summary_20240705-110141_llama3-70b-8192.md
+---
 Here is the summary in Markdown format:
 
 ONE SENTENCE SUMMARY:
@@ -1434,6 +1560,8 @@ TAKEAWAYS:
 
 ---
 
+### create_summary_20240705-043600_llama3-70b-8192.md
+---
 Here is the summary in Markdown format:
 
 **ONE SENTENCE SUMMARY:**
@@ -1458,6 +1586,8 @@ Model alignment techniques, such as Reinforcement Learning with Human Feedback (
 
 ---
 
+### create_summary_20240705-090028_llama3-70b-8192.md
+---
 Here is the summary of the input content in Markdown format:
 
 # ONE SENTENCE SUMMARY:
@@ -1484,6 +1614,8 @@ A multi-million pound deepfake fraud case highlights the risks posed by new AI t
 
 ---
 
+### create_summary_20240705-093949_llama3-70b-8192.md
+---
 Here is the summary of the article in Markdown format:
 
 # ONE SENTENCE SUMMARY:
@@ -1512,11 +1644,15 @@ The growing use of generative artificial intelligence (AI) is increasing the ris
 
 ---
 
+### create_summary_20240705-134251_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### create_summary_20240705-040802_llama3-8b-8192.md
+---
 Here is the output in the requested format:
 
 # Ollama: What is Ollama?
@@ -1534,6 +1670,8 @@ Ollama is an open-source project that serves as a powerful and user-friendly pla
 
 ---
 
+### create_summary_20240705-064003_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 OpenAI blocks API services in China, citing unsupported regions, amid concerns over Chinese threat actors and cyber activities.
 
@@ -1560,6 +1698,8 @@ OpenAI blocks API services in China, citing unsupported regions, amid concerns o
 
 ---
 
+### create_summary_20240705-064515_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 OpenAI is reportedly blocking Chinese access to its AI tools and software due to security concerns and US pressure.
 
@@ -1584,6 +1724,8 @@ OpenAI is reportedly blocking Chinese access to its AI tools and software due to
 
 ---
 
+### create_summary_20240705-062937_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 OpenAI is accused of stealing massive amounts of personal data to train ChatGPT, a lawsuit alleges, without permission from millions of Americans.
 
@@ -1610,6 +1752,8 @@ OpenAI is accused of stealing massive amounts of personal data to train ChatGPT,
 
 ---
 
+### create_summary_20240705-055912_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 OpenAI will block users in China from accessing its services, including ChatGPT, starting July 9, citing unsupported regions.
 
@@ -1628,6 +1772,8 @@ OpenAI will block users in China from accessing its services, including ChatGPT,
 
 ---
 
+### create_summary_20240705-140530_llama3-8b-8192.md
+---
 # OUTPUT
 
 ## ONE SENTENCE SUMMARY:
@@ -1651,6 +1797,8 @@ This paper explores the possibility of using ChatGPT to prepare environments for
 
 ---
 
+### create_summary_20240705-073457_llama3-70b-8192.md
+---
 ONE SENTENCE SUMMARY:
 A new report highlights the risks of AI to personal privacy and proposes solutions, including shifting to opt-in data sharing, regulating the data supply chain, and collective solutions to give consumers more leverage over their data rights.
 
@@ -1677,6 +1825,8 @@ TAKEAWAYS:
 
 ---
 
+### create_summary_20240705-033714_llama3-70b-8192.md
+---
 Here is the output in Markdown format:
 
 **ONE SENTENCE SUMMARY:**
@@ -1705,6 +1855,8 @@ Prompt injection attacks are a malicious technique that uses subtly written inst
 
 ---
 
+### create_summary_20240705-082103_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 A recent report by Mitek Systems highlights the growing threat of AI-generated fraud and deepfakes to the banking industry.
 
@@ -1731,6 +1883,8 @@ A recent report by Mitek Systems highlights the growing threat of AI-generated f
 
 ---
 
+### create_summary_20240705-120637_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 Holidaymakers in France are warned to be vigilant against online scams, which have increased by up to 900% in 18 months, partly due to the rise of artificial intelligence.
 
@@ -1757,6 +1911,8 @@ Holidaymakers in France are warned to be vigilant against online scams, which ha
 
 ---
 
+### create_summary_20240705-042604_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 This article compares the outputs of censored and uncensored Llama 2 models, demonstrating the differences in their responses to various prompts, including movies, cooking, religious literature, medical information, and general information.
 
@@ -1783,6 +1939,8 @@ This article compares the outputs of censored and uncensored Llama 2 models, dem
 
 ---
 
+### create_summary_20240705-061425_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 Microsoft warns that state-sponsored hacking groups from Russia, China, and other countries are using OpenAI's tools to enhance their cyberattacks.
 
@@ -1809,6 +1967,8 @@ Microsoft warns that state-sponsored hacking groups from Russia, China, and othe
 
 ---
 
+### create_summary_20240705-061052_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 Hugging Face informs customers of unauthorized access to its Spaces platform, exposing a subset of secrets, and takes remedial measures.
 
@@ -1835,6 +1995,8 @@ Hugging Face informs customers of unauthorized access to its Spaces platform, ex
 
 ---
 
+### create_summary_20240705-102111_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 Generative AI is driving an arms race between cybersecurity and social engineering scammers, who are using AI to create convincing attacks and misinformation at scale.
 
@@ -1861,6 +2023,8 @@ Generative AI is driving an arms race between cybersecurity and social engineeri
 
 ---
 
+### create_summary_20240705-103221_llama3-70b-8192.md
+---
 Here is the summary of the article in Markdown format:
 
 **ONE SENTENCE SUMMARY:**
@@ -1889,11 +2053,15 @@ The intersection of artificial intelligence and social engineering poses a signi
 
 ---
 
+### create_summary_20240705-111501_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### create_summary_20240705-045034_llama3-70b-8192.md
+---
 ONE SENTENCE SUMMARY:
 This article discusses unaligned AI models, including malicious models like FraudGPT, WormGPT, and PoisonGPT, and uncensored models like WizardLM Uncensored and Falcon 180B, highlighting their capabilities and implications for cybersecurity and AI development.
 
@@ -1920,6 +2088,8 @@ TAKEAWAYS:
 
 ---
 
+### create_summary_20240705-131417_llama3-8b-8192.md
+---
 # Staying ahead of threat actors in the age of AI
 
 ## ONE SENTENCE SUMMARY:
@@ -1946,6 +2116,8 @@ Microsoft and OpenAI have published research on emerging threats in the age of A
 
 ---
 
+### create_summary_20240705-085357_llama3-70b-8192.md
+---
 Here is the summary of the article in Markdown format:
 
 # ONE SENTENCE SUMMARY:
@@ -1974,6 +2146,8 @@ AI romantic chatbots are stealing users' personal data and privacy, selling or s
 
 ---
 
+### create_summary_20240705-044514_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 Researchers at Indiana University studied the underground market for large language models, finding that OpenAI models power malicious services like malware generation and phishing scams.
 
@@ -2000,6 +2174,8 @@ Researchers at Indiana University studied the underground market for large langu
 
 ---
 
+### create_summary_20240705-093137_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 Fraudsters have mastered the automation of fraud attacks, leveraging botnets and AI to scale their operations and evade detection.
 
@@ -2026,6 +2202,8 @@ Fraudsters have mastered the automation of fraud attacks, leveraging botnets and
 
 ---
 
+### create_summary_20240705-100700_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 Large Language Models (LLMs) play a dual role in cybersecurity, powering advanced security solutions and being exploited for cybercrime.
 
@@ -2052,6 +2230,8 @@ Large Language Models (LLMs) play a dual role in cybersecurity, powering advance
 
 ---
 
+### create_summary_20240705-031536_llama3-70b-8192.md
+---
 ONE SENTENCE SUMMARY:
 The article discusses the risks and solutions of "AI jailbreaking," which refers to manipulating AI systems to make them act in ways they are not designed for, often bypassing their built-in safety constraints.
 
@@ -2078,6 +2258,8 @@ TAKEAWAYS:
 
 ---
 
+### create_summary_20240705-104137_llama3-70b-8192.md
+---
 ONE SENTENCE SUMMARY:
 The growing threat of AI in social engineering poses significant risks to businesses, but can be mitigated through employee training, updated policies, and advanced cybersecurity tools.
 
@@ -2104,6 +2286,8 @@ TAKEAWAYS:
 
 ---
 
+### create_summary_20240705-022457_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 Cybercriminals are leveraging AI to execute highly targeted attacks at scale, causing people to unwittingly send money and sensitive information.
 
@@ -2130,6 +2314,8 @@ Cybercriminals are leveraging AI to execute highly targeted attacks at scale, ca
 
 ---
 
+### create_summary_20240705-102737_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 Cybercriminals are leveraging AI to launch sophisticated social engineering attacks, making it difficult to distinguish between real and AI-generated content.
 
@@ -2156,6 +2342,8 @@ Cybercriminals are leveraging AI to launch sophisticated social engineering atta
 
 ---
 
+### create_summary_20240705-045831_llama3-70b-8192.md
+---
 ONE SENTENCE SUMMARY:
 Uncensored AI has the potential to revolutionize various industries by providing unbiased and accurate insights, but it also raises ethical concerns and challenges that need to be addressed.
 
@@ -2182,6 +2370,8 @@ TAKEAWAYS:
 
 ---
 
+### create_summary_20240705-104740_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 Social engineering fraud is a growing threat in business email compromise attacks, with 90% of phishing attacks involving social engineering tactics to manipulate human behavior.
 
@@ -2208,6 +2398,8 @@ Social engineering fraud is a growing threat in business email compromise attack
 
 ---
 
+### create_summary_20240705-092125_llama3-70b-8192.md
+---
 Here is the summary of the article in Markdown format:
 
 **ONE SENTENCE SUMMARY:**
@@ -2236,6 +2428,8 @@ A new AI-powered scam is using cloned voices of loved ones to trick people into 
 
 ---
 
+### create_summary_20240705-065903_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 Researchers create AI worm Morris II that can infiltrate emails, steal data, and send spam emails without user interaction.
 
@@ -2262,11 +2456,15 @@ Researchers create AI worm Morris II that can infiltrate emails, steal data, and
 
 ---
 
+### create_summary_20240705-142307_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### create_summary_20240705-091112_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 UK engineering firm Arup lost £20m in a deepfake scam where an employee was tricked into transferring funds.
 
@@ -2293,6 +2491,8 @@ UK engineering firm Arup lost £20m in a deepfake scam where an employee was tri
 
 ---
 
+### create_summary_20240705-050558_llama3-70b-8192.md
+---
 Here is the summary of the article in Markdown format:
 
 **ONE SENTENCE SUMMARY:**
@@ -2321,6 +2521,8 @@ Uncensored AI models are essential for cultural diversity, research freedom, and
 
 ---
 
+### create_summary_20240705-055448_llama3-70b-8192.md
+---
 ONE SENTENCE SUMMARY:
 The article explores using uncensored language models in PrivateGPT, swapping out the default mistral LLM for an uncensored one, and testing alignment with various models.
 
@@ -2347,6 +2549,8 @@ TAKEAWAYS:
 
 ---
 
+### create_summary_20240705-023426_llama3-8b-8192.md
+---
 Here is the output in the requested format:
 
 **ONE SENTENCE SUMMARY:**
@@ -2354,6 +2558,8 @@ LLM jailbreaking and vandalism refer to manipulating large language models (LLMs
 
 ---
 
+### create_summary_20240705-032822_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 University of Illinois researchers find that GPT-4 can exploit real-life security flaws, raising concerns about AI-powered hacking.
 
@@ -2380,6 +2586,8 @@ University of Illinois researchers find that GPT-4 can exploit real-life securit
 
 ---
 
+### create_summary_20240705-085817_llama3-70b-8192.md
+---
 Here is the summary:
 
 ONE SENTENCE SUMMARY:
@@ -2406,6 +2614,8 @@ TAKEAWAYS:
 
 ---
 
+### create_summary_20240705-144129_llama3-70b-8192.md
+---
 # ONE SENTENCE SUMMARY:
 A UK-based energy company lost $243,000 to CEO fraud using deepfake audio, highlighting the growing threat of AI-powered cybercrime.
 
@@ -2432,11 +2642,15 @@ A UK-based energy company lost $243,000 to CEO fraud using deepfake audio, highl
 
 ---
 
+### create_summary_20240705-141932_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### create_summary_20240705-040106_llama3-70b-8192.md
+---
 ONE SENTENCE SUMMARY:
 This article explores the use of self-hosted generative AI to create targeted phishing emails, leveraging a more capable large language model (LLM) to generate realistic-looking phishing emails.
 
@@ -2463,6 +2677,8 @@ TAKEAWAYS:
 
 ---
 
+### create_summary_20240705-080149_llama3-70b-8192.md
+---
 ONE SENTENCE SUMMARY:
 Identity theft and online impersonation are sophisticated cybercrimes that involve stealing personal information and using it to deceive others, often through deepfake technology and social media platforms.
 

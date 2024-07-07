@@ -1,3 +1,5 @@
+### extract_article_wisdom_20240705-101010_llama3-8b-8192.md
+---
 Here is the output in Markdown format:
 
 **SUMMARY**
@@ -50,11 +52,15 @@ URL 1: https://www.tessian.com/blog/examples-of-social-engineering-attacks/
 
 ---
 
+### extract_article_wisdom_20240705-143023_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_article_wisdom_20240705-020640_llama3-70b-8192.md
+---
 **SUMMARY**
 Dr. Milan Milanović shares a Facebook document on a tool that automatically fixes bugs, introducing SUPFIX, an automated tool that detects and repairs software bugs.
 
@@ -88,6 +94,8 @@ Dr. Milan Milanović shares a Facebook document on a tool that automatically fix
 
 ---
 
+### extract_article_wisdom_20240705-125840_llama3-70b-8192.md
+---
 # SUMMARY
 A new paper by Google DeepMind researchers discusses the ethical dilemmas of advanced AI agents, which could radically alter the nature of work, education, and creative pursuits.
 
@@ -127,6 +135,8 @@ A new paper by Google DeepMind researchers discusses the ethical dilemmas of adv
 
 ---
 
+### extract_article_wisdom_20240705-060258_llama3-70b-8192.md
+---
 # SUMMARY
 Hugging Face, an AI company, detected unauthorized access to its Spaces platform, potentially exposing secrets and tokens, and is taking measures to mitigate the incident.
 
@@ -164,6 +174,8 @@ Hugging Face, an AI company, detected unauthorized access to its Spaces platform
 
 ---
 
+### extract_article_wisdom_20240705-114806_llama3-70b-8192.md
+---
 # SUMMARY
 AI has democratized spear phishing attacks, making them easily accessible to everyday individuals, by Appdome.
 
@@ -203,6 +215,8 @@ AI has democratized spear phishing attacks, making them easily accessible to eve
 
 ---
 
+### extract_article_wisdom_20240705-070714_llama3-70b-8192.md
+---
 # SUMMARY
 AI helps hackers steal data, healthcare providers must get ready now by ICT&health Int.
 
@@ -247,6 +261,8 @@ AI helps hackers steal data, healthcare providers must get ready now by ICT&heal
 
 ---
 
+### extract_article_wisdom_20240705-074243_llama3-70b-8192.md
+---
 # SUMMARY
 AI Identity Hijacking: The New Face of Fraud by Waleed A. Hamada, discussing the rise of AI-powered identity hijacking and its consequences.
 
@@ -287,6 +303,8 @@ AI Identity Hijacking: The New Face of Fraud by Waleed A. Hamada, discussing the
 
 ---
 
+### extract_article_wisdom_20240705-105441_llama3-70b-8192.md
+---
 **SUMMARY**
 Drata's blog post discusses the misuse of AI in scams and social engineering, highlighting the dangers of AI-powered tools in cyberattacks and the importance of education and awareness in avoiding these scams.
 
@@ -332,6 +350,8 @@ Drata's blog post discusses the misuse of AI in scams and social engineering, hi
 
 ---
 
+### extract_article_wisdom_20240705-033326_llama3-70b-8192.md
+---
 # SUMMARY
 AI Jailbreaking & Ethical Security Concerns by Phishing Box, discussing the importance of safeguarding AI systems against vulnerabilities and cybercriminals.
 
@@ -371,6 +391,8 @@ AI Jailbreaking & Ethical Security Concerns by Phishing Box, discussing the impo
 
 ---
 
+### extract_article_wisdom_20240705-023005_llama3-70b-8192.md
+---
 # SUMMARY
 Microsoft warns of a new type of Skeleton Key attacks that can hack AI models, bypassing security systems and returning malicious content, as reported by TechRadar.
 
@@ -416,6 +438,8 @@ Microsoft warns of a new type of Skeleton Key attacks that can hack AI models, b
 
 ---
 
+### extract_article_wisdom_20240705-070214_llama3-70b-8192.md
+---
 # SUMMARY
 Researchers Joshua Harrison, Ehsan Toreini, and Marhyam Mehrnezhad claim 93% accuracy in detecting keystrokes over Zoom audio, using a deep learning model to interpret sound profiles of individual keys.
 
@@ -460,6 +484,8 @@ Researchers Joshua Harrison, Ehsan Toreini, and Marhyam Mehrnezhad claim 93% acc
 
 ---
 
+### extract_article_wisdom_20240705-072309_llama3-70b-8192.md
+---
 **SUMMARY**
 Article discussing data security and privacy concerns in the AI era, featuring expert opinions from industry leaders on data privacy, consent, and intellectual property violation on AI platforms.
 
@@ -504,6 +530,8 @@ Article discussing data security and privacy concerns in the AI era, featuring e
 
 ---
 
+### extract_article_wisdom_20240705-122211_llama3-70b-8192.md
+---
 **SUMMARY**
 This article, created by Fredrik Heiding, Bruce Schneier, and Arun Vishwanath, discusses how artificial intelligence (AI) is increasing the quantity and quality of phishing scams, making them more advanced, harder to spot, and significantly more dangerous.
 
@@ -557,6 +585,8 @@ This article, created by Fredrik Heiding, Bruce Schneier, and Arun Vishwanath, d
 
 ---
 
+### extract_article_wisdom_20240705-123702_llama3-70b-8192.md
+---
 # SUMMARY
 The National Cyber Security Centre (NCSC) warns that artificial intelligence (AI) will make scam emails look genuine, increasing the volume of online attacks and making it difficult to identify phishing messages.
 
@@ -598,6 +628,8 @@ The National Cyber Security Centre (NCSC) warns that artificial intelligence (AI
 
 ---
 
+### extract_article_wisdom_20240705-133718_llama3-70b-8192.md
+---
 # SUMMARY
 Artificial Intelligence and Organized Crime Sitting In a Tree… by unknown, discusses the use of AI by cybercriminals, specifically the Yahoo Boys, to automate and enhance social engineering scams.
 
@@ -649,16 +681,22 @@ Artificial Intelligence and Organized Crime Sitting In a Tree… by unknown, dis
 
 ---
 
+### extract_article_wisdom_20240705-111123_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_article_wisdom_20240705-143408_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_article_wisdom_20240705-032415_llama3-70b-8192.md
+---
 # SUMMARY
 Researchers from the University of Maryland discovered BEAST AI, which can jailbreak language models within 1 minute with high accuracy, exposing security flaws and potential illicit activities.
 
@@ -707,6 +745,8 @@ Researchers from the University of Maryland discovered BEAST AI, which can jailb
 
 ---
 
+### extract_article_wisdom_20240705-090624_llama3-70b-8192.md
+---
 # SUMMARY
 Mark Read, CEO of WPP, the largest global advertising and public relations agency, was targeted by a deepfake scam involving a fake WhatsApp account, a voice clone, and YouTube footage used in a virtual meeting.
 
@@ -755,6 +795,8 @@ Mark Read, CEO of WPP, the largest global advertising and public relations agenc
 
 ---
 
+### extract_article_wisdom_20240705-061843_llama3-70b-8192.md
+---
 **SUMMARY**
 This article discusses the implications of ChatGPT, a large language model, on security, privacy, and ethics, highlighting the potential risks and consequences of its misuse.
 
@@ -799,6 +841,8 @@ This article discusses the implications of ChatGPT, a large language model, on s
 
 ---
 
+### extract_article_wisdom_20240705-063459_llama3-70b-8192.md
+---
 # SUMMARY
 A BBC News investigation reveals that OpenAI's ChatGPT feature can be used to create tools for cyber-crime, allowing users to build customised AI assistants for scams and hacks.
 
@@ -849,6 +893,8 @@ A BBC News investigation reveals that OpenAI's ChatGPT feature can be used to cr
 
 ---
 
+### extract_article_wisdom_20240705-043053_llama3-70b-8192.md
+---
 # SUMMARY
 A guide to implementing a local Retrieval Augmented Generation (RAG) system over audio files using Whisper, Ollama, and FAISS, created by Ingrid Stevens.
 
@@ -898,6 +944,8 @@ A guide to implementing a local Retrieval Augmented Generation (RAG) system over
 
 ---
 
+### extract_article_wisdom_20240705-144528_claude-3-haiku-20240307.md
+---
 Here is the summary, key ideas, quotes, facts, references, and recommendations from the provided text:
 
 SUMMARY:
@@ -946,6 +994,8 @@ RECOMMENDATIONS:
 
 ---
 
+### extract_article_wisdom_20240705-030659_llama3-70b-8192.md
+---
 # SUMMARY
 Cracking the Code: How Researchers Jailbroke AI Chatbots by P. Raquel B., a Senior Cybersecurity Engineer, discusses how researchers discovered a way to trick AI chatbots into generating harmful content by adding suffixes and special characters to prompts.
 
@@ -998,6 +1048,8 @@ Cracking the Code: How Researchers Jailbroke AI Chatbots by P. Raquel B., a Seni
 
 ---
 
+### extract_article_wisdom_20240705-113909_llama3-70b-8192.md
+---
 # SUMMARY
 Cyber Security Asean discusses the rise of deepfake technology and its potential to make phishing attacks more sophisticated and dangerous, highlighting the need for cybersecurity awareness and education to combat these threats.
 
@@ -1048,6 +1100,8 @@ Cyber Security Asean discusses the rise of deepfake technology and its potential
 
 ---
 
+### extract_article_wisdom_20240705-115928_llama3-70b-8192.md
+---
 SUMMARY:
 Graphus blog post discusses the rise of AI-driven phishing attacks and how they can impact businesses, highlighting the importance of awareness and protection against these types of attacks.
 
@@ -1087,6 +1141,8 @@ RECOMMENDATIONS:
 
 ---
 
+### extract_article_wisdom_20240705-091507_llama3-70b-8192.md
+---
 **SUMMARY**
 Deloitte Insights discusses the rising risk of deepfake banking fraud with the increasing use of generative AI, making it easier and cheaper for criminals to commit fraud, and provides recommendations for banks to prepare for this new era of fraud prevention.
 
@@ -1132,6 +1188,8 @@ Deloitte Insights discusses the rising risk of deepfake banking fraud with the i
 
 ---
 
+### extract_article_wisdom_20240705-074640_llama3-70b-8192.md
+---
 # SUMMARY
 Stu Sjouwerman, CEO of KnowBe4 Inc., discusses the dangers of deepfake phishing, a new form of cybercrime that uses AI-fueled technology to manipulate victims.
 
@@ -1178,6 +1236,8 @@ Stu Sjouwerman, CEO of KnowBe4 Inc., discusses the dangers of deepfake phishing,
 
 ---
 
+### extract_article_wisdom_20240705-075206_llama3-70b-8192.md
+---
 **SUMMARY**
 Deepfake scams have looted millions of dollars from companies worldwide, and cybersecurity experts warn it could get worse as criminals exploit generative AI for fraud, as reported by Dylan Butts on CNBC.
 
@@ -1221,16 +1281,22 @@ Deepfake scams have looted millions of dollars from companies worldwide, and cyb
 
 ---
 
+### extract_article_wisdom_20240705-142649_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_article_wisdom_20240705-140147_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_article_wisdom_20240705-124158_llama3-8b-8192.md
+---
 # SUMMARY
 
 * Microsoft Defender Experts uncovered a multi-stage adversary-in-the-middle (AiTM) phishing and business email compromise (BEC) attack against banking and financial services organizations.
@@ -1285,6 +1351,8 @@ Error code: 400 - {'error': {'message': 'Please reduce the length of the message
 
 ---
 
+### extract_article_wisdom_20240705-071241_llama3-70b-8192.md
+---
 # SUMMARY
 AI Amplified discusses whether AI steals personal data, exploring the relationship between AI and personal data privacy in the digitally connected world.
 
@@ -1328,11 +1396,15 @@ AI Amplified discusses whether AI steals personal data, exploring the relationsh
 
 ---
 
+### extract_article_wisdom_20240705-064914_claude-3-haiku-20240307.md
+---
 Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your per-minute rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
 Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your per-minute rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
 
 ---
 
+### extract_article_wisdom_20240705-100324_llama3-70b-8192.md
+---
 # SUMMARY
 The FBI San Francisco division warns of the increasing threat of cyber criminals utilizing artificial intelligence (AI) tools to conduct sophisticated phishing/social engineering attacks and voice/video cloning scams.
 
@@ -1367,6 +1439,8 @@ The FBI San Francisco division warns of the increasing threat of cyber criminals
 
 ---
 
+### extract_article_wisdom_20240705-075727_llama3-70b-8192.md
+---
 # SUMMARY
 A finance worker at a multinational firm was tricked into paying out $25 million to fraudsters using deepfake technology to pose as the company's chief financial officer in a video conference call, according to Hong Kong police.
 
@@ -1416,6 +1490,8 @@ A finance worker at a multinational firm was tricked into paying out $25 million
 
 ---
 
+### extract_article_wisdom_20240705-081656_llama3-70b-8192.md
+---
 # SUMMARY
 The Federal Trade Commission (FTC) proposes rule changes to combat AI impersonation fraud, which has led to billions of dollars in consumer losses, with FTC Chair Lina Khan and Commissioners Rebecca Kelly Slaughter and Alvaro Bedoya seeking to strengthen anti-fraud measures.
 
@@ -1457,6 +1533,8 @@ The Federal Trade Commission (FTC) proposes rule changes to combat AI impersonat
 
 ---
 
+### extract_article_wisdom_20240705-115247_llama3-70b-8192.md
+---
 **SUMMARY**
 Generative AI financial scams are getting very good at duping work email, with criminals using tools like ChatGPT or FraudGPT to create realistic videos, fake IDs, and convincing deepfakes of company executives, leading to a surge in financial scams that are difficult to detect.
 
@@ -1508,11 +1586,15 @@ Generative AI financial scams are getting very good at duping work email, with c
 
 ---
 
+### extract_article_wisdom_20240705-093616_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_article_wisdom_20240705-082441_llama3-8b-8192.md
+---
 Here is the output in Markdown format:
 
 # GPT-3 Trained To Impersonate
@@ -1560,6 +1642,8 @@ Note: The output is in Markdown format, with headings, bullet points, and quotes
 
 ---
 
+### extract_article_wisdom_20240705-051501_llama3-8b-8192.md
+---
 Here is the output in Markdown format:
 
 # Guide: Large Language Models (LLMs)-Generated Fraud, Malware, and Vulnerabilities
@@ -1609,6 +1693,8 @@ LLMs can generate persuasive
 
 ---
 
+### extract_article_wisdom_20240705-051145_llama3-70b-8192.md
+---
 # SUMMARY
 HackAIGC, created in 2024, is an uncensored and unrestricted AI platform offering stable text and image generation without platform restrictions.
 
@@ -1643,11 +1729,15 @@ HackAIGC, created in 2024, is an uncensored and unrestricted AI platform offerin
 
 ---
 
+### extract_article_wisdom_20240705-143748_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_article_wisdom_20240705-030257_llama3-70b-8192.md
+---
 # SUMMARY
 The National Institute of Standards and Technology (NIST) report on AI cybersecurity vulnerabilities, specifically prompt injection attacks on generative AI models.
 
@@ -1697,6 +1787,8 @@ The National Institute of Standards and Technology (NIST) report on AI cybersecu
 
 ---
 
+### extract_article_wisdom_20240705-095807_llama3-70b-8192.md
+---
 # SUMMARY
 CBS News Texas I-Team reports on how AI is revolutionizing internet fraud and romance scams, with 19,000 Americans falling victim to romance scams in 2020, losing $1.3 billion.
 
@@ -1737,6 +1829,8 @@ CBS News Texas I-Team reports on how AI is revolutionizing internet fraud and ro
 
 ---
 
+### extract_article_wisdom_20240705-094402_llama3-70b-8192.md
+---
 # SUMMARY
 Infosys BPM discusses the importance of AI in banking fraud detection and prevention, highlighting its efficiency, accuracy, and real-time detection capabilities.
 
@@ -1778,6 +1872,8 @@ Infosys BPM discusses the importance of AI in banking fraud detection and preven
 
 ---
 
+### extract_article_wisdom_20240705-080929_llama3-70b-8192.md
+---
 # SUMMARY
 This article, "How Google Is Solving Deep Fakes and Impersonation" by Arnold Wafula, discusses the role of AI responsibility in the growing AI space, highlighting the potential drawbacks of AI, such as social surveillance, deep fakes, job losses, unfair bias, voice phishing, impersonation, misinformation, and environmental impact.
 
@@ -1836,6 +1932,8 @@ This article, "How Google Is Solving Deep Fakes and Impersonation" by Arnold Waf
 
 ---
 
+### extract_article_wisdom_20240705-020957_llama3-70b-8192.md
+---
 # SUMMARY
 Article about hacking large language models, created on June 29, 2024, discussing various techniques used to gain access to AI models for malicious purposes.
 
@@ -1882,6 +1980,8 @@ Article about hacking large language models, created on June 29, 2024, discussin
 
 ---
 
+### extract_article_wisdom_20240705-121641_llama3-70b-8192.md
+---
 # SUMMARY
 How Large Language Models Are Transforming Email Security by Vade Secure, discussing the role of Large Language Models (LLMs) in phishing detection and email security.
 
@@ -1927,6 +2027,8 @@ How Large Language Models Are Transforming Email Security by Vade Secure, discus
 
 ---
 
+### extract_article_wisdom_20240705-133228_llama3-70b-8192.md
+---
 # SUMMARY
 Terranova Security discusses how scammers are using ChatGPT to steal credentials, and provides tips on how to defend against these scams.
 
@@ -1968,6 +2070,8 @@ Terranova Security discusses how scammers are using ChatGPT to steal credentials
 
 ---
 
+### extract_article_wisdom_20240705-060623_llama3-70b-8192.md
+---
 # SUMMARY
 Hugging Face detected unauthorized access to its AI model hosting platform, Spaces, and revoked tokens as a precaution, recommending users refresh keys and tokens and consider switching to fine-grained access tokens.
 
@@ -2015,6 +2119,8 @@ Hugging Face detected unauthorized access to its AI model hosting platform, Spac
 
 ---
 
+### extract_article_wisdom_20240705-123129_llama3-70b-8192.md
+---
 # SUMMARY
 Torq's blog post discusses the potential cybersecurity threats posed by generative AI and large language models (LLMs), and how they can be used to create convincing scams and attacks, but also highlights the importance of innovative protection measures to maintain organizations' security posture.
 
@@ -2059,11 +2165,15 @@ Torq's blog post discusses the potential cybersecurity threats posed by generati
 
 ---
 
+### extract_article_wisdom_20240705-090243_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_article_wisdom_20240705-071720_llama3-70b-8192.md
+---
 # SUMMARY
 Created by 4imag.com, this article discusses the concerns about AI stealing personal data, the importance of responsible AI development, and the need for data privacy measures.
 
@@ -2112,6 +2222,8 @@ Created by 4imag.com, this article discusses the concerns about AI stealing pers
 
 ---
 
+### extract_article_wisdom_20240705-021534_llama3-70b-8192.md
+---
 **SUMMARY**
 The article "Jailbreaking AI. Why AI safety and alignment matters?" by Martins discusses the importance of AI safety and alignment, highlighting the risks of jailbreaking AI models and the need for human-aligned values in AI development.
 
@@ -2155,6 +2267,8 @@ The article "Jailbreaking AI. Why AI safety and alignment matters?" by Martins d
 
 ---
 
+### extract_article_wisdom_20240705-034509_llama3-8b-8192.md
+---
 Here is the output in Markdown format:
 
 # SUMMARY
@@ -2190,11 +2304,15 @@ Lakera's guide to jailbreaking large language models (LLMs) explores the vulnera
 
 ---
 
+### extract_article_wisdom_20240705-114422_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_article_wisdom_20240705-094910_llama3-70b-8192.md
+---
 **SUMMARY**
 This article discusses the transformative power of large language models (LLMs) and generative AI in cybersecurity. It highlights the challenges of cybersecurity, including identity-based attacks, phishing, and the increasing number of connected devices. The article explores three use cases of LLMs and generative AI in cybersecurity: copilots that boost the efficiency and capabilities of security teams, generative AI that improves common vulnerability defense, and foundation models for cybersecurity.
 
@@ -2227,6 +2345,8 @@ This article discusses the transformative power of large language models (LLMs) 
 
 ---
 
+### extract_article_wisdom_20240705-121117_llama3-70b-8192.md
+---
 # SUMMARY
 This article, written by Bruce Schneier, discusses the potential risks of large language models (LLMs) being used to generate phishing emails and scams, making them more convincing and profitable for scammers.
 
@@ -2273,6 +2393,8 @@ This article, written by Bruce Schneier, discusses the potential risks of large 
 
 ---
 
+### extract_article_wisdom_20240705-130329_llama3-70b-8192.md
+---
 # SUMMARY
 Microsoft reports on Octo Tempest, a dangerous financial hacking group with advanced social engineering capabilities, targeting companies in data extortion and ransomware attacks.
 
@@ -2341,6 +2463,8 @@ Microsoft reports on Octo Tempest, a dangerous financial hacking group with adva
 
 ---
 
+### extract_article_wisdom_20240705-130916_llama3-70b-8192.md
+---
 # SUMMARY
 Microsoft report reveals state-backed hackers from China, Russia, and Iran using its AI tools, leading to a blanket ban on their use.
 
@@ -2379,6 +2503,8 @@ Microsoft report reveals state-backed hackers from China, Russia, and Iran using
 
 ---
 
+### extract_article_wisdom_20240705-110141_llama3-70b-8192.md
+---
 **SUMMARY**
 Microsoft Threat Intelligence has identified targeted social engineering attacks using credential theft phishing lures sent as Microsoft Teams chats by the threat actor Midnight Blizzard (previously tracked as NOBELIUM).
 
@@ -2431,6 +2557,8 @@ Microsoft Threat Intelligence has identified targeted social engineering attacks
 
 ---
 
+### extract_article_wisdom_20240705-043600_llama3-70b-8192.md
+---
 **SUMMARY**
 Model alignment protects against accidental harms, not intentional ones by Arvind Narayanan, Sayash Kapoor, and Seth Lazar, discussing the limitations and effectiveness of model alignment techniques in preventing harms from language models.
 
@@ -2476,6 +2604,8 @@ Model alignment protects against accidental harms, not intentional ones by Arvin
 
 ---
 
+### extract_article_wisdom_20240705-090028_llama3-70b-8192.md
+---
 Here is the output in Markdown format:
 
 **SUMMARY**
@@ -2515,6 +2645,8 @@ Stewarts reports on a multi-million pound deepfake fraud, highlighting the dange
 
 ---
 
+### extract_article_wisdom_20240705-093949_llama3-70b-8192.md
+---
 # SUMMARY
 Report highlights growing AI fraud risks, created by ICC Commercial Crime Services (CCS), discussing the rise of fraudulent activity due to the COVID-19 pandemic and the emergence of generative artificial intelligence (AI).
 
@@ -2555,16 +2687,22 @@ Report highlights growing AI fraud risks, created by ICC Commercial Crime Servic
 
 ---
 
+### extract_article_wisdom_20240705-134251_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_article_wisdom_20240705-040802_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_article_wisdom_20240705-064003_llama3-70b-8192.md
+---
 # SUMMARY
 OpenAI blocks API services in China, citing unsupported regions, amidst concerns over Chinese threat actors and cyber activities, as reported by Medianama on June 29, 2024.
 
@@ -2609,6 +2747,8 @@ OpenAI blocks API services in China, citing unsupported regions, amidst concerns
 
 ---
 
+### extract_article_wisdom_20240705-064515_llama3-70b-8192.md
+---
 # SUMMARY
 OpenAI is reportedly blocking Chinese access to its AI tools, enforcing a policy to bar users in nations it doesn't support, amid concerns over Chinese espionage and intellectual property theft.
 
@@ -2648,6 +2788,8 @@ OpenAI is reportedly blocking Chinese access to its AI tools, enforcing a policy
 
 ---
 
+### extract_article_wisdom_20240705-062937_llama3-70b-8192.md
+---
 **SUMMARY**
 OpenAI allegedly stole "massive amounts of personal data" to train ChatGPT, a lawsuit claims, by crawling the web and storing chat-log data without people's permission.
 
@@ -2695,6 +2837,8 @@ OpenAI allegedly stole "massive amounts of personal data" to train ChatGPT, a la
 
 ---
 
+### extract_article_wisdom_20240705-055912_llama3-70b-8192.md
+---
 # SUMMARY
 OpenAI plans to block users in China from accessing its services, including ChatGPT, due to unsupported access in the region.
 
@@ -2729,6 +2873,8 @@ OpenAI plans to block users in China from accessing its services, including Chat
 
 ---
 
+### extract_article_wisdom_20240705-140530_llama3-8b-8192.md
+---
 # SUMMARY
 
 * The paper discusses the possibility of using ChatGPT for preparing environments for executing social engineering based attacks.
@@ -2772,6 +2918,8 @@ OpenAI plans to block users in China from accessing its services, including Chat
 
 ---
 
+### extract_article_wisdom_20240705-073457_llama3-70b-8192.md
+---
 **SUMMARY**
 A new report by Jennifer King and Caroline Meinhardt analyzes the risks of AI to privacy and offers potential solutions, including a shift to opt-in data sharing and a supply chain approach to data privacy.
 
@@ -2819,6 +2967,8 @@ A new report by Jennifer King and Caroline Meinhardt analyzes the risks of AI to
 
 ---
 
+### extract_article_wisdom_20240705-033714_llama3-70b-8192.md
+---
 **SUMMARY**
 Prompt injection attacks trick GenAI models into producing malicious content, leaking private data, or targeting other systems, using subtly written instructions.
 
@@ -2857,6 +3007,8 @@ Prompt injection attacks trick GenAI models into producing malicious content, le
 
 ---
 
+### extract_article_wisdom_20240705-082103_llama3-70b-8192.md
+---
 # SUMMARY
 Mitek Systems' Identity Intelligence Index 2024 report highlights AI fraud and deepfakes as top challenges for banks, with 76% of banks perceiving fraud cases as sophisticated.
 
@@ -2895,6 +3047,8 @@ Mitek Systems' Identity Intelligence Index 2024 report highlights AI fraud and d
 
 ---
 
+### extract_article_wisdom_20240705-120637_llama3-70b-8192.md
+---
 # SUMMARY
 Holidaymakers in France are warned to stay alert due to a surge in online fraud and scams facilitated by artificial intelligence (AI), with online phishing scams increasing by up to 900% in the past 18 months, according to Marnie Wilking, top security officer at Booking.com.
 
@@ -2935,6 +3089,8 @@ Holidaymakers in France are warned to stay alert due to a surge in online fraud 
 
 ---
 
+### extract_article_wisdom_20240705-042604_llama3-70b-8192.md
+---
 # SUMMARY
 This blog post, created by Ollama Blog on June 29, 2024, compares the outputs of Llama 2 uncensored model with its censored model, highlighting the differences in their responses to various prompts.
 
@@ -2975,6 +3131,8 @@ This blog post, created by Ollama Blog on June 29, 2024, compares the outputs of
 
 ---
 
+### extract_article_wisdom_20240705-061425_llama3-70b-8192.md
+---
 # SUMMARY
 Microsoft warns that state-sponsored hacking groups from Russia, China, and other U.S. adversaries have used OpenAI's tools to improve their attacks, according to a report published by Microsoft.
 
@@ -3012,6 +3170,8 @@ Microsoft warns that state-sponsored hacking groups from Russia, China, and othe
 
 ---
 
+### extract_article_wisdom_20240705-061052_llama3-70b-8192.md
+---
 # SUMMARY
 Hugging Face hack exposes secrets, company responds with security improvements and notifications, created by SecurityWeek on June 29, 2024.
 
@@ -3058,6 +3218,8 @@ Hugging Face hack exposes secrets, company responds with security improvements a
 
 ---
 
+### extract_article_wisdom_20240705-102111_llama3-70b-8192.md
+---
 # SUMMARY
 Summary: This article discusses the predictions for social engineering in 2024, particularly with the rise of generative AI, and how it will shape the cyber crime landscape. Created by IBM, the article highlights the potential risks and threats of generative AI in social engineering attacks.
 
@@ -3106,6 +3268,8 @@ Summary: This article discusses the predictions for social engineering in 2024, 
 
 ---
 
+### extract_article_wisdom_20240705-103221_llama3-70b-8192.md
+---
 # SUMMARY
 The article discusses the intersection of artificial intelligence (AI) and social engineering, exploring how threat actors are using AI to enhance their tactics and how Offensive Security (OffSec) teams can improve defenses against these next-generation threats. The article highlights the use of AI-powered tools such as large language models, chatbots, and deepfake technology to perpetrate social engineering attacks.
 
@@ -3160,11 +3324,15 @@ The article discusses the intersection of artificial intelligence (AI) and socia
 
 ---
 
+### extract_article_wisdom_20240705-111501_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_article_wisdom_20240705-045034_llama3-70b-8192.md
+---
 **SUMMARY**
 This chapter discusses unaligned AI models, which lack safety measures and can be used for harmful purposes, such as generating phishing emails and spreading misinformation. The chapter covers models like FraudGPT, WormGPT, PoisonGPT, WizardLM Uncensored, and Falcon 180B, highlighting their features and potential risks.
 
@@ -3218,6 +3386,8 @@ This chapter discusses unaligned AI models, which lack safety measures and can b
 
 ---
 
+### extract_article_wisdom_20240705-131417_llama3-8b-8192.md
+---
 # Staying ahead of threat actors in the age of AI
 
 ## SUMMARY
@@ -3286,6 +3456,8 @@ This chapter discusses unaligned AI models, which lack safety measures and can b
 
 ---
 
+### extract_article_wisdom_20240705-085357_llama3-70b-8192.md
+---
 # SUMMARY
 Euronews article on AI romantic chatbots and their lack of privacy safeguards, created on June 29, 2024.
 
@@ -3333,6 +3505,8 @@ Euronews article on AI romantic chatbots and their lack of privacy safeguards, c
 
 ---
 
+### extract_article_wisdom_20240705-044514_llama3-70b-8192.md
+---
 # SUMMARY
 Researchers from Indiana University Bloomington studied the underground market for large language models, finding that OpenAI models power malicious services, and providing recommendations to make LLMs safer for public use.
 
@@ -3382,6 +3556,8 @@ Researchers from Indiana University Bloomington studied the underground market f
 
 ---
 
+### extract_article_wisdom_20240705-093137_llama3-70b-8192.md
+---
 # SUMMARY
 The Automation of Fraud Attacks by Arkose Labs discusses how fraudsters leverage automation to commit fraud attacks, using botnets and artificial intelligence to scale their operations and evade detection.
 
@@ -3433,6 +3609,8 @@ The Automation of Fraud Attacks by Arkose Labs discusses how fraudsters leverage
 
 ---
 
+### extract_article_wisdom_20240705-100700_llama3-70b-8192.md
+---
 **SUMMARY**
 ElNiak's article discusses the dual role of Large Language Models (LLMs) in cybersecurity, exploring their potential to power advanced security solutions and their vulnerability to exploitation for cybercrime.
 
@@ -3471,6 +3649,8 @@ ElNiak's article discusses the dual role of Large Language Models (LLMs) in cybe
 
 ---
 
+### extract_article_wisdom_20240705-031536_llama3-70b-8192.md
+---
 **SUMMARY**
 The article discusses the potential risks and solutions of "AI jailbreaking," which refers to manipulating an AI system to make it act in ways it is not designed for, often bypassing its built-in safety constraints. Researchers at Anthropic, a San Francisco-based AI safety start-up, demonstrated the vulnerability of AI models by creating a chatbot that referred to the Golden Gate Bridge in nearly every response.
 
@@ -3529,6 +3709,8 @@ The article discusses the potential risks and solutions of "AI jailbreaking," wh
 
 ---
 
+### extract_article_wisdom_20240705-104137_llama3-70b-8192.md
+---
 **SUMMARY**
 The article discusses the growing threat of AI in social engineering, how it can be used to create highly convincing and targeted phishing attacks, and how businesses can mitigate these risks by developing security intuition in employees, updating policies and processes, and leveraging advanced cybersecurity tools.
 
@@ -3598,6 +3780,8 @@ The article discusses the growing threat of AI in social engineering, how it can
 
 ---
 
+### extract_article_wisdom_20240705-022457_llama3-70b-8192.md
+---
 # SUMMARY
 The article discusses how cybercriminals are using AI to execute highly targeted attacks at scale, causing people to unwittingly send money and sensitive information. Created by CNBC, the article highlights the growth of business email compromise (BEC) attacks and the use of generative AI tools to eliminate grammatical errors and imitate writing styles.
 
@@ -3648,6 +3832,8 @@ The article discusses how cybercriminals are using AI to execute highly targeted
 
 ---
 
+### extract_article_wisdom_20240705-102737_llama3-70b-8192.md
+---
 # SUMMARY
 Deputy Editor, Infosecurity Magazine discusses how cybercriminals are using AI to launch sophisticated social engineering attacks, making it difficult to distinguish between real and AI-generated content, with expert Jenny Radcliffe warning that AI will be a "game-changer" in these attacks.
 
@@ -3693,6 +3879,8 @@ Deputy Editor, Infosecurity Magazine discusses how cybercriminals are using AI t
 
 ---
 
+### extract_article_wisdom_20240705-045831_llama3-70b-8192.md
+---
 # SUMMARY
 The Power of Uncensored AI: Unleashing the Potential of Artificial Intelligence by Skysol Digital Solutions discusses the benefits and challenges of uncensored AI, its potential in various industries, and the importance of ethical considerations and responsible use.
 
@@ -3742,6 +3930,8 @@ The Power of Uncensored AI: Unleashing the Potential of Artificial Intelligence 
 
 ---
 
+### extract_article_wisdom_20240705-104740_llama3-70b-8192.md
+---
 # SUMMARY
 The Rise of Social Engineering Fraud in Business Email Compromise by Microsoft Security discusses the increasing threat of social engineering in business email compromise (BEC) attacks, highlighting four prominent threat groups and providing guidance on how to protect against social engineering fraud.
 
@@ -3788,6 +3978,8 @@ The Rise of Social Engineering Fraud in Business Email Compromise by Microsoft S
 
 ---
 
+### extract_article_wisdom_20240705-092125_llama3-70b-8192.md
+---
 **SUMMARY**
 The article discusses a new AI-powered scam where scammers use voice cloning technology to impersonate loved ones, demanding money from victims. The scam is becoming increasingly prevalent, with many people falling victim to it. The article highlights the story of a couple, Robin and Steve, who were targeted by such a scam, and how they managed to outsmart the scammers. It also explores the technology behind voice cloning and its potential uses, both positive and negative.
 
@@ -3844,6 +4036,8 @@ The article discusses a new AI-powered scam where scammers use voice cloning tec
 
 ---
 
+### extract_article_wisdom_20240705-065903_llama3-70b-8192.md
+---
 # SUMMARY
 Researchers create AI worm Morris II that can infiltrate emails, access data, and spread malware without user interaction, demonstrating a new type of cyberattack.
 
@@ -3885,11 +4079,15 @@ Researchers create AI worm Morris II that can infiltrate emails, access data, an
 
 ---
 
+### extract_article_wisdom_20240705-142307_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_article_wisdom_20240705-091112_llama3-70b-8192.md
+---
 # SUMMARY
 Arup, a UK engineering firm, fell victim to a £20m deepfake scam in which an employee was tricked into sending money to criminals via an AI-generated video call.
 
@@ -3930,6 +4128,8 @@ Arup, a UK engineering firm, fell victim to a £20m deepfake scam in which an em
 
 ---
 
+### extract_article_wisdom_20240705-050558_llama3-70b-8192.md
+---
 # SUMMARY
 Uncensored AI Models: The Importance of Composable Alignment in Cultural Diversity and Research Freedom by Andrea Belvedere, discussing the need for uncensored AI models and composable alignment to promote cultural diversity, research freedom, and responsible AI use.
 
@@ -3968,6 +4168,8 @@ Uncensored AI Models: The Importance of Composable Alignment in Cultural Diversi
 
 ---
 
+### extract_article_wisdom_20240705-055448_llama3-70b-8192.md
+---
 # SUMMARY
 Uncensored Models in PrivateGPT by Jack Reeve, exploring the use of uncensored language models in PrivateGPT, swapping out the default mistral LLM for an uncensored one.
 
@@ -4009,11 +4211,15 @@ Uncensored Models in PrivateGPT by Jack Reeve, exploring the use of uncensored l
 
 ---
 
+### extract_article_wisdom_20240705-023426_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_article_wisdom_20240705-032822_llama3-70b-8192.md
+---
 # SUMMARY
 University of Illinois researchers find GPT-4 can exploit real-life security flaws, created by Axios on June 29, 2024.
 
@@ -4058,6 +4264,8 @@ University of Illinois researchers find GPT-4 can exploit real-life security fla
 
 ---
 
+### extract_article_wisdom_20240705-085817_llama3-70b-8192.md
+---
 # SUMMARY
 Untitled article from Valuation Review, discussing real estate valuation and industry news.
 
@@ -4081,6 +4289,8 @@ Untitled article from Valuation Review, discussing real estate valuation and ind
 
 ---
 
+### extract_article_wisdom_20240705-144129_llama3-70b-8192.md
+---
 # SUMMARY
 A UK-based energy company lost US$243,000 to an unusual CEO fraud case involving deepfake audio, where fraudsters used AI-generated audio to mimic the CEO's voice and trick the manager into transferring funds.
 
@@ -4119,11 +4329,15 @@ A UK-based energy company lost US$243,000 to an unusual CEO fraud case involving
 
 ---
 
+### extract_article_wisdom_20240705-141932_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_article_wisdom_20240705-040106_llama3-70b-8192.md
+---
 **SUMMARY**
 Article by D Kaufman on using self-hosted generative AI to create targeted phishing emails, exploring the capabilities of Large Language Models (LLMs) and Generative AI (Gen AI) for advanced cyber-attacks.
 
@@ -4164,6 +4378,8 @@ Article by D Kaufman on using self-hosted generative AI to create targeted phish
 
 ---
 
+### extract_article_wisdom_20240705-080149_llama3-70b-8192.md
+---
 SUMMARY:
 This article discusses identity theft and online impersonation, created by Smart Protection on June 29, 2024. It explores the evolution of cybercrime, the consequences of identity theft, and the importance of constant monitoring to mitigate cyber threats.
 

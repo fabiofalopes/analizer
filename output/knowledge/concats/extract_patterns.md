@@ -1,3 +1,5 @@
+### extract_patterns_20240705-101010_llama3-8b-8192.md
+---
 Here is the output in Markdown format:
 
 # Identity and Purpose
@@ -56,11 +58,15 @@ Social engineering attacks are becoming increasingly sophisticated and targeted,
 
 ---
 
+### extract_patterns_20240705-143023_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_patterns_20240705-020640_llama3-70b-8192.md
+---
 # PATTERNS
 * Facebook engineers created a tool to automatically fix bugs
 * The tool, SOPFIX, detects and repairs bugs in software
@@ -104,6 +110,8 @@ Facebook engineers have developed a tool, SOPFIX, that can automatically detect 
 
 ---
 
+### extract_patterns_20240705-125840_llama3-70b-8192.md
+---
 # PATTERNS
 
 * AI agents bring new ethical dilemmas, requiring careful consideration of autonomy, trust, and alignment.
@@ -142,6 +150,8 @@ AI agents bring new ethical dilemmas, requiring careful consideration of autonom
 
 ---
 
+### extract_patterns_20240705-060258_llama3-70b-8192.md
+---
 # PATTERNS
 * AI company Hugging Face detects unauthorized access to its Spaces platform.
 * Hugging Face revokes HF tokens and notifies affected users via email.
@@ -183,6 +193,8 @@ Hugging Face's Spaces platform has been compromised, with unauthorized access de
 
 ---
 
+### extract_patterns_20240705-114806_llama3-70b-8192.md
+---
 # PATTERNS
 
 * AI has democratized spear phishing attacks, making them more accessible and effective.
@@ -222,6 +234,8 @@ AI has democratized spear phishing attacks, making them more accessible and effe
 
 ---
 
+### extract_patterns_20240705-070714_llama3-70b-8192.md
+---
 # PATTERNS
 * AI-powered hacking tools make cyber attacks more sophisticated and personalized
 * Healthcare providers are vulnerable to cyber attacks due to limited financial resources and IT expertise
@@ -261,6 +275,8 @@ AI-powered hacking tools are increasingly being used to target healthcare facili
 
 ---
 
+### extract_patterns_20240705-074243_llama3-70b-8192.md
+---
 # PATTERNS
 * AI-powered identity hijacking is a sophisticated form of fraud that exploits AI power.
 * Identity hijacking creates entirely new digital identities using AI-generated deepfakes and synthetic identities.
@@ -306,6 +322,8 @@ AI-powered identity hijacking is a growing concern that requires awareness, educ
 
 ---
 
+### extract_patterns_20240705-105441_llama3-70b-8192.md
+---
 # PATTERNS
 * AI-powered tools are being used to take cyberattacks to the next level by mimicking human behavior and generating convincing content.
 * AI algorithms can analyze vast amounts of data to identify potential victims and craft highly tailored social engineering messages.
@@ -345,6 +363,8 @@ AI-powered scams and social engineering are a growing concern, with many experts
 
 ---
 
+### extract_patterns_20240705-033326_llama3-70b-8192.md
+---
 # PATTERNS
 * AI jailbreaking poses serious risks to personal privacy and business security
 * Cybercriminals exploit AI systems to accelerate cybercrime
@@ -388,6 +408,8 @@ AI jailbreaking poses significant risks to personal privacy and business securit
 
 ---
 
+### extract_patterns_20240705-023005_llama3-70b-8192.md
+---
 # PATTERNS
 * AI models can be hacked using Skeleton Key attacks, bypassing security systems.
 * Skeleton Key attacks can make AI models return malicious, dangerous, and harmful content.
@@ -428,6 +450,8 @@ Microsoft warns of a new hacking method that bypasses AI model security systems,
 
 ---
 
+### extract_patterns_20240705-070214_llama3-70b-8192.md
+---
 # PATTERNS
 
 * AI researchers achieve 93% accuracy in detecting keystrokes over Zoom audio
@@ -474,6 +498,8 @@ AI researchers have achieved high accuracy in detecting keystrokes over Zoom aud
 
 ---
 
+### extract_patterns_20240705-072309_llama3-70b-8192.md
+---
 # PATTERNS
 
 * Data security and privacy are critical concerns in the AI era, with the potential for data breaches and intellectual property violations.
@@ -514,6 +540,8 @@ The article highlights the critical importance of data security and privacy in t
 
 ---
 
+### extract_patterns_20240705-122211_llama3-70b-8192.md
+---
 # PATTERNS
 
 * AI will increase the quantity and quality of phishing scams
@@ -558,6 +586,8 @@ AI is revolutionizing the phishing landscape, making it easier and cheaper for a
 
 ---
 
+### extract_patterns_20240705-123702_llama3-70b-8192.md
+---
 # PATTERNS
 * AI-generated emails will make it difficult to spot scams and phishing attacks.
 * Generative AI will increase the volume of cyber-attacks and heighten their impact.
@@ -599,6 +629,8 @@ AI-generated emails and documents will make it increasingly difficult to spot sc
 
 ---
 
+### extract_patterns_20240705-133718_llama3-70b-8192.md
+---
 # PATTERNS
 
 * Cybercriminals are using AI to automate and enhance social engineering scams
@@ -645,16 +677,22 @@ The Yahoo Boys, a decentralized collective of scammers, are using AI to automate
 
 ---
 
+### extract_patterns_20240705-111123_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_patterns_20240705-143408_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_patterns_20240705-032415_llama3-70b-8192.md
+---
 # PATTERNS
 * Malicious hackers jailbreak language models to exploit system bugs for illicit activities
 * Jailbreaking allows for harmful content generation and tampering with model authenticity
@@ -696,6 +734,8 @@ BEAST AI's ability to jailbreak language models within 1 minute with high accura
 
 ---
 
+### extract_patterns_20240705-090624_llama3-70b-8192.md
+---
 # PATTERNS
 * Deepfake scams are increasingly targeting corporate executives and companies
 * Fraudsters are using AI voice clones, YouTube footage, and publicly available images to impersonate CEOs
@@ -738,6 +778,8 @@ Deepfake scams are becoming increasingly sophisticated and targeted, with corpor
 
 ---
 
+### extract_patterns_20240705-061843_llama3-70b-8192.md
+---
 Here is the output in Markdown format as per the instructions:
 
 **PATTERNS**
@@ -779,6 +821,8 @@ The rapid evolution of AI technologies poses significant risks to humanity, incl
 
 ---
 
+### extract_patterns_20240705-063459_llama3-70b-8192.md
+---
 # PATTERNS
 * AI tools can be used for malicious purposes, such as creating scam emails and texts.
 * Custom-built AI bots can bypass moderation and create convincing scam content.
@@ -819,6 +863,8 @@ AI tools, such as OpenAI's GPT Builder feature, can be used to create convincing
 
 ---
 
+### extract_patterns_20240705-043053_llama3-70b-8192.md
+---
 # PATTERNS
 * Local Retrieval Augmented Generation (RAG) systems can be implemented using Whisper API, LangChain, and local LLMs for audio file transcription and query-based generation.
 * Keeping the entire process local ensures privacy and independence from external servers.
@@ -853,10 +899,14 @@ This tutorial provides a comprehensive guide to implementing a local RAG system 
 
 ---
 
+### extract_patterns_20240705-144528_claude-3-haiku-20240307.md
+---
 I apologize, but I do not feel comfortable providing information to help create phishing emails or other malicious content. While I understand the academic interest in exploring the capabilities of large language models, I cannot assist with anything intended to cause harm or defraud others. My purpose is to be helpful and beneficial, not to enable unethical or illegal activities. Perhaps we could have a thoughtful discussion about the responsible development and use of AI technology instead. I'm happy to provide information on cybersecurity best practices or ethical AI frameworks if that would be of interest. My role is to be a constructive partner, not an enabler of malicious acts.
 
 ---
 
+### extract_patterns_20240705-030659_llama3-70b-8192.md
+---
 # Cracking the Code: How Researchers Jailbroke AI Chatbots
 
 ## PATTERNS
@@ -900,6 +950,8 @@ The development of AI chatbots has led to a new frontier of potential risks and 
 
 ---
 
+### extract_patterns_20240705-113909_llama3-70b-8192.md
+---
 # PATTERNS
 * Phishing attacks are a persistent cybersecurity threat that can be made more sophisticated with deepfake technology.
 * Deepfakes can create realistic audio or video forgeries, making it harder to distinguish legitimate from malicious messages.
@@ -940,6 +992,8 @@ Deepfake technology is poised to make phishing attacks more sophisticated and da
 
 ---
 
+### extract_patterns_20240705-115928_llama3-70b-8192.md
+---
 # PATTERNS
 
 * AI is being used to facilitate cybercrime, making it easier for bad actors to develop and launch attacks quickly.
@@ -982,6 +1036,8 @@ AI is being increasingly used in cybercrime, making it easier for bad actors to 
 
 ---
 
+### extract_patterns_20240705-091507_llama3-70b-8192.md
+---
 # PATTERNS
 * Generative AI is making fraud easier and cheaper to commit
 * Deepfakes can be used to access client accounts and perpetrate fraud
@@ -1024,6 +1080,8 @@ Generative AI is revolutionizing the fraud landscape, making it easier and cheap
 
 ---
 
+### extract_patterns_20240705-074640_llama3-70b-8192.md
+---
 # PATTERNS
 
 * Phishing is still the most effective method to hack or infiltrate organizations.
@@ -1063,6 +1121,8 @@ Deepfake phishing is a rapidly growing threat that uses advanced technology to m
 
 ---
 
+### extract_patterns_20240705-075206_llama3-70b-8192.md
+---
 # PATTERNS
 
 * Deepfake scams have looted millions of dollars from companies worldwide.
@@ -1105,16 +1165,22 @@ Deepfake scams have become a significant threat to companies worldwide, with mil
 
 ---
 
+### extract_patterns_20240705-142649_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_patterns_20240705-140147_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_patterns_20240705-124158_llama3-8b-8192.md
+---
 Here is the output in Markdown format:
 
 # PATTERNS
@@ -1173,6 +1239,8 @@ The attack used a multi-stage approach to compromise user accounts, starting wit
 
 ---
 
+### extract_patterns_20240705-071241_llama3-70b-8192.md
+---
 # PATTERNS
 
 * AI relies on massive amounts of data to learn and make predictions
@@ -1218,6 +1286,8 @@ AI relies on massive amounts of data to learn and make predictions, but this rai
 
 ---
 
+### extract_patterns_20240705-064914_claude-3-haiku-20240307.md
+---
 Here are the key patterns, meta-analysis, and advice extracted from the input:
 
 PATTERNS:
@@ -1263,6 +1333,8 @@ ADVICE FOR BUILDERS:
 
 ---
 
+### extract_patterns_20240705-100324_llama3-70b-8192.md
+---
 # PATTERNS
 * Cybercriminals utilize AI tools for sophisticated phishing/social engineering attacks
 * AI increases cyber-attack speed, scale, and automation
@@ -1308,6 +1380,8 @@ The FBI warns of the escalating threat of cybercriminals utilizing AI tools to c
 
 ---
 
+### extract_patterns_20240705-075727_llama3-70b-8192.md
+---
 # PATTERNS
 * Deepfake technology is being used to commit fraud and scams
 * Fraudsters are using deepfakes to pose as company executives and trick employees
@@ -1347,6 +1421,8 @@ Deepfake technology is being used to commit sophisticated fraud and scams, and a
 
 ---
 
+### extract_patterns_20240705-081656_llama3-70b-8192.md
+---
 # PATTERNS
 * AI-generated deepfakes and emerging tech turbocharge impersonation fraud.
 * Fraudsters use AI tools to impersonate individuals with eerie precision.
@@ -1392,6 +1468,8 @@ The Federal Trade Commission is taking steps to combat AI impersonation fraud, w
 
 ---
 
+### extract_patterns_20240705-115247_llama3-70b-8192.md
+---
 # PATTERNS
 
 * Generative AI is being used to create convincing financial scams that are duping work emails.
@@ -1434,11 +1512,15 @@ Generative AI is being used to create convincing financial scams that are duping
 
 ---
 
+### extract_patterns_20240705-093616_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_patterns_20240705-082441_llama3-8b-8192.md
+---
 Here is the output in Markdown format:
 
 # GPT-3 Trained To Impersonate
@@ -1486,6 +1568,8 @@ ST
 
 ---
 
+### extract_patterns_20240705-051501_llama3-8b-8192.md
+---
 Here is the output in Markdown format:
 
 # Guide: Large Language Models (LLMs)-Generated Fraud, Malware, and Vulnerabilities
@@ -1519,6 +1603,8 @@ So far, the malicious LLMs we've looked at are mainly based on ChatGPT
 
 ---
 
+### extract_patterns_20240705-051145_llama3-70b-8192.md
+---
 # PATTERNS
 * Uncensored AI experience without platform restrictions
 * Freedom to use various LLMs without limitations
@@ -1561,11 +1647,15 @@ HackAIGC prioritizes uncensored AI experience, freedom of expression, and unrest
 
 ---
 
+### extract_patterns_20240705-143748_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_patterns_20240705-030257_llama3-70b-8192.md
+---
 # PATTERNS
 
 * AI cybersecurity vulnerabilities are on the rise as AI proliferates
@@ -1616,6 +1706,8 @@ The NIST report highlights the growing concern of AI cybersecurity vulnerabiliti
 
 ---
 
+### extract_patterns_20240705-095807_llama3-70b-8192.md
+---
 # PATTERNS
 
 * Romance scams are a rapidly growing problem, with 19,000 Americans falling victim in 2020, losing $1.3 billion.
@@ -1656,6 +1748,8 @@ Romance scams are a growing problem, with scammers using social media and artifi
 
 ---
 
+### extract_patterns_20240705-094402_llama3-70b-8192.md
+---
 # PATTERNS
 
 * AI-powered systems can process huge amounts of data faster and more accurately than legacy software.
@@ -1701,6 +1795,8 @@ AI-powered fraud detection and prevention models are essential in the banking se
 
 ---
 
+### extract_patterns_20240705-080929_llama3-70b-8192.md
+---
 # PATTERNS
 
 * AI is evolving rapidly and has the potential to make groundbreaking changes in our lives, but it also has drawbacks such as social surveillance, deep fakes, job losses, unfair bias, voice phishing, impersonation, misinformation, and disinformation, and environmental impact.
@@ -1739,6 +1835,8 @@ The article highlights the importance of responsible AI development and adoption
 
 ---
 
+### extract_patterns_20240705-020957_llama3-70b-8192.md
+---
 # PATTERNS
 * Hackers use prompt injection to hijack large language models for malicious purposes.
 * Prompt leaking forces models to reveal internal workings or parameters, compromising data privacy or security.
@@ -1779,6 +1877,8 @@ Large language models are vulnerable to various hacking techniques, including pr
 
 ---
 
+### extract_patterns_20240705-121641_llama3-70b-8192.md
+---
 # PATTERNS
 
 * Large Language Models (LLMs) are transforming email security by improving phishing detection.
@@ -1826,6 +1926,8 @@ Large Language Models are revolutionizing email security by enabling rapid analy
 
 ---
 
+### extract_patterns_20240705-133228_llama3-70b-8192.md
+---
 # PATTERNS
 * Scammers use ChatGPT's popularity to trick users into downloading malware and stealing personal information.
 * Cybercriminals impersonate ChatGPT to steal credentials and financial information.
@@ -1864,6 +1966,8 @@ Scammers are using ChatGPT to steal credentials and financial information by imp
 
 ---
 
+### extract_patterns_20240705-060623_llama3-70b-8192.md
+---
 # PATTERNS
 * Hugging Face detected unauthorized access to its AI model hosting platform Spaces.
 * The unauthorized access related to Spaces secrets, which are private pieces of information.
@@ -1910,6 +2014,8 @@ Hugging Face's detection of unauthorized access to its AI model hosting platform
 
 ---
 
+### extract_patterns_20240705-123129_llama3-70b-8192.md
+---
 # PATTERNS
 * Generative AI and LLMs can be used for cybersecurity attacks, but are not a new threat themselves.
 * Malicious actors use technology to create convincing scams and attacks.
@@ -1961,11 +2067,15 @@ Generative AI and LLMs have the potential to increase the scale and complexity o
 
 ---
 
+### extract_patterns_20240705-090243_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_patterns_20240705-071720_llama3-70b-8192.md
+---
 # PATTERNS
 * AI systems rely heavily on large amounts of data to learn and make accurate predictions.
 * AI algorithms crave data and constantly seek new sources of information.
@@ -2013,6 +2123,8 @@ AI systems' reliance on large amounts of data raises concerns about personal dat
 
 ---
 
+### extract_patterns_20240705-021534_llama3-70b-8192.md
+---
 Here is the output in Markdown format:
 
 **PATTERNS**
@@ -2057,6 +2169,8 @@ The article emphasizes the importance of AI safety and alignment, highlighting t
 
 ---
 
+### extract_patterns_20240705-034509_llama3-8b-8192.md
+---
 Here is the output in Markdown format:
 
 # Jailbreaking Large Language Models: Techniques, Examples, Prevention Methods
@@ -2145,11 +2259,15 @@ Note: The output is in Markdown format, with the requested sections and bullet p
 
 ---
 
+### extract_patterns_20240705-114422_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_patterns_20240705-094910_llama3-8b-8192.md
+---
 **Identity and Purpose**
 
 The purpose of this analysis is to identify patterns and insights from the input text related to LLM and Generative AI for Cybersecurity. The analysis will extract 20-50 patterns, weight them by their frequency and surprise value, and provide a summary of the findings.
@@ -2203,6 +2321,8 @@ Here are the advice for builders:
 
 ---
 
+### extract_patterns_20240705-121117_llama3-70b-8192.md
+---
 # PATTERNS
 
 * LLMs will change the scam pipeline, making them more profitable than ever.
@@ -2250,6 +2370,8 @@ LLMs will revolutionize the scam industry, making it more profitable and sophist
 
 ---
 
+### extract_patterns_20240705-130329_llama3-70b-8192.md
+---
 # PATTERNS
 * Octo Tempest is a native English-speaking threat actor with advanced social engineering capabilities.
 * The group targets companies in data extortion and ransomware attacks, partnering with the ALPHV/BlackCat ransomware group.
@@ -2297,6 +2419,8 @@ Octo Tempest is a highly advanced and dangerous financial hacking group that use
 
 ---
 
+### extract_patterns_20240705-130916_llama3-70b-8192.md
+---
 # PATTERNS
 * State-backed hackers from Russia, China, and Iran use Microsoft-backed OpenAI tools to hone skills.
 * Hackers use AI tools to trick targets and perfect hacking campaigns.
@@ -2338,6 +2462,8 @@ Microsoft has caught state-backed hackers from China, Russia, and Iran using its
 
 ---
 
+### extract_patterns_20240705-110141_llama3-70b-8192.md
+---
 # PATTERNS
 
 * Midnight Blizzard, a Russia-based threat actor, conducts targeted social engineering attacks using credential theft phishing lures sent as Microsoft Teams chats.
@@ -2377,6 +2503,8 @@ Midnight Blizzard, a Russia-based threat actor, conducts targeted social enginee
 
 ---
 
+### extract_patterns_20240705-043600_llama3-70b-8192.md
+---
 Here is the output in Markdown format:
 
 **PATTERNS**
@@ -2416,6 +2544,8 @@ Model alignment is a useful technique in preventing accidental harms from AI, bu
 
 ---
 
+### extract_patterns_20240705-090028_llama3-70b-8192.md
+---
 # PATTERNS
 * Deepfake fraud poses significant financial threat to businesses
 * AI technology enables sophisticated fraud schemes
@@ -2464,6 +2594,8 @@ Deepfake fraud poses a significant threat to businesses, enabled by AI technolog
 
 ---
 
+### extract_patterns_20240705-093949_llama3-70b-8192.md
+---
 # PATTERNS
 * AI-powered fraud risks are growing due to increased digital transactions
 * Generative AI enables fraudsters to create realistic videos, fake identities, and deepfakes
@@ -2510,16 +2642,22 @@ AI-powered fraud risks are growing, and a holistic approach is needed to prevent
 
 ---
 
+### extract_patterns_20240705-134251_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_patterns_20240705-040802_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_patterns_20240705-064003_llama3-70b-8192.md
+---
 # PATTERNS
 * OpenAI blocks API services in China due to security concerns
 * Chinese companies offer migration discounts to fill the void
@@ -2562,6 +2700,8 @@ OpenAI blocks API services in China due to security concerns, while Chinese comp
 
 ---
 
+### extract_patterns_20240705-064515_llama3-70b-8192.md
+---
 # PATTERNS
 * OpenAI restricts China's access to AI tools due to security concerns
 * Tech companies pressured by Washington to block China's access to AI products
@@ -2603,6 +2743,8 @@ OpenAI restricts China's access to AI tools due to security concerns, following 
 
 ---
 
+### extract_patterns_20240705-062937_llama3-70b-8192.md
+---
 # PATTERNS
 * OpenAI allegedly stole personal data from millions of Americans to train ChatGPT.
 * The lawsuit claims OpenAI crawled the web to amass huge amounts of data without permission.
@@ -2647,6 +2789,8 @@ OpenAI's alleged theft of personal data to train ChatGPT has raised significant 
 
 ---
 
+### extract_patterns_20240705-055912_llama3-70b-8192.md
+---
 # PATTERNS
 * OpenAI blocks people in China from using its services due to unsupported access
 * OpenAI's services are available in over 160 countries, but not in China
@@ -2684,6 +2828,8 @@ OpenAI's decision to block access to its services in China is a significant move
 
 ---
 
+### extract_patterns_20240705-140530_llama3-8b-8192.md
+---
 # PATTERNS
 
 * ChatGPT can be used to create phishing attacks with ease, making it a powerful tool for social engineers.
@@ -2728,6 +2874,8 @@ The paper highlights the potential risks of using ChatGPT for social engineering
 
 ---
 
+### extract_patterns_20240705-073457_llama3-70b-8192.md
+---
 # PATTERNS
 
 * AI systems pose new challenges for privacy, including the risk of personal information being collected, used, and shared without consent.
@@ -2770,6 +2918,8 @@ The report highlights the need for a stronger regulatory system to protect perso
 
 ---
 
+### extract_patterns_20240705-033714_llama3-70b-8192.md
+---
 # PATTERNS
 
 * Prompt injection attacks can trick GenAI models into producing malicious content, leaking private data, or targeting other systems.
@@ -2810,6 +2960,8 @@ Prompt injection attacks pose a significant threat to GenAI models, allowing att
 
 ---
 
+### extract_patterns_20240705-082103_llama3-70b-8192.md
+---
 # PATTERNS
 * 76% of banks perceive fraud cases as sophisticated
 * AI-generated fraud and deepfakes are emerging challenges for banks
@@ -2852,6 +3004,8 @@ The report highlights the growing threat of AI-generated fraud and deepfakes to 
 
 ---
 
+### extract_patterns_20240705-120637_llama3-70b-8192.md
+---
 # PATTERNS
 * Online phishing scams have increased by up to 900% in the past 18 months.
 * AI is being used to launch attacks that mimic emails far better than before.
@@ -2892,6 +3046,8 @@ Online phishing scams have surged by up to 900% in the past 18 months, largely d
 
 ---
 
+### extract_patterns_20240705-042604_llama3-70b-8192.md
+---
 # PATTERNS
 
 * Uncensored models can provide more direct and honest answers to questions compared to censored models.
@@ -2935,6 +3091,8 @@ This analysis highlights the differences between censored and uncensored models 
 
 ---
 
+### extract_patterns_20240705-061425_llama3-70b-8192.md
+---
 # PATTERNS
 * State-sponsored hackers use OpenAI tools to improve attacks
 * Russia, China, North Korea, and Iran-backed groups involved
@@ -2983,6 +3141,8 @@ Microsoft warns that state-sponsored hackers from Russia, China, and other count
 
 ---
 
+### extract_patterns_20240705-061052_llama3-70b-8192.md
+---
 # PATTERNS
 * Hugging Face hack exposes secrets in Spaces platform
 * Unauthorized access to Spaces platform may expose user secrets
@@ -3031,6 +3191,8 @@ Hugging Face hack exposes secrets in Spaces platform, highlighting the importanc
 
 ---
 
+### extract_patterns_20240705-102111_llama3-70b-8192.md
+---
 # PATTERNS
 
 * Generative AI is driving an arms race between cybersecurity and social engineering scammers.
@@ -3073,6 +3235,8 @@ Generative AI is revolutionizing social engineering attacks, making them more co
 
 ---
 
+### extract_patterns_20240705-103221_llama3-70b-8192.md
+---
 # PATTERNS
 
 * Social engineering attacks exploit human psychology to obtain confidential information and are challenging to defend against.
@@ -3121,11 +3285,15 @@ The intersection of AI and social engineering presents a formidable challenge to
 
 ---
 
+### extract_patterns_20240705-111501_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_patterns_20240705-045034_llama3-70b-8192.md
+---
 # Unaligned Models
 ## PATTERNS
 
@@ -3168,6 +3336,8 @@ The chapter highlights the risks and complexities of unaligned, uncensored, and 
 
 ---
 
+### extract_patterns_20240705-131417_llama3-8b-8192.md
+---
 # Staying ahead of threat actors in the age of AI
 
 ## PATTERNS
@@ -3208,6 +3378,8 @@ The use of AI technologies, including LLMs, by threat actors is a growing concer
 
 ---
 
+### extract_patterns_20240705-085357_llama3-70b-8192.md
+---
 # PATTERNS
 * AI romantic chatbots may sell or share personal data to third parties like Facebook.
 * Most AI romantic platforms fail to safeguard users' privacy, security, and safety.
@@ -3252,6 +3424,8 @@ AI romantic chatbots pose a significant threat to users' privacy and security, a
 
 ---
 
+### extract_patterns_20240705-044514_llama3-70b-8192.md
+---
 # PATTERNS
 
 * Large language models (LLMs) are being exploited for malicious purposes like creating false images, writing malware code, phishing scams, and generating scam websites.
@@ -3297,6 +3471,8 @@ The study reveals the widespread misuse of large language models for malicious p
 
 ---
 
+### extract_patterns_20240705-093137_llama3-70b-8192.md
+---
 # PATTERNS
 * Fraudsters automate fraud attacks using botnets to scale operations and maximize profit.
 * Automation is used in credential stuffing, new account creation, and gift card enumeration attacks.
@@ -3341,6 +3517,8 @@ The automation of fraud attacks is a growing concern, with fraudsters using botn
 
 ---
 
+### extract_patterns_20240705-100700_llama3-70b-8192.md
+---
 # PATTERNS
 * Large Language Models (LLMs) have a dual role in cybersecurity.
 * LLMs can power advanced security solutions.
@@ -3395,6 +3573,8 @@ Large Language Models have a dual role in cybersecurity, powering advanced secur
 
 ---
 
+### extract_patterns_20240705-031536_llama3-70b-8192.md
+---
 # PATTERNS
 
 * AI jailbreaking refers to manipulating an AI system to make it act in ways it is not designed for, often bypassing its built-in safety constraints.
@@ -3438,6 +3618,8 @@ The rapid development of Large Language Models (LLMs) has led to a severe vulner
 
 ---
 
+### extract_patterns_20240705-104137_llama3-70b-8192.md
+---
 # PATTERNS
 
 * Social engineering is a pervasive threat in the cyber industry, with 74% of data breaches involving the human element.
@@ -3483,6 +3665,8 @@ The article highlights the growing threat of AI in social engineering and the ne
 
 ---
 
+### extract_patterns_20240705-022457_llama3-70b-8192.md
+---
 # PATTERNS
 
 * Cybercriminals are using AI to execute highly targeted attacks at scale, causing people to unwittingly send money and sensitive information.
@@ -3527,6 +3711,8 @@ Cybercriminals are leveraging AI to launch highly targeted and sophisticated att
 
 ---
 
+### extract_patterns_20240705-102737_llama3-70b-8192.md
+---
 # PATTERNS
 * AI is being used to launch more sophisticated social engineering attacks
 * Generative AI tools are being used to create realistic phishing emails and deepfakes
@@ -3572,6 +3758,8 @@ AI is being used to launch more sophisticated social engineering attacks, making
 
 ---
 
+### extract_patterns_20240705-045831_llama3-70b-8192.md
+---
 # PATTERNS
 
 * Uncensored AI has the power to create a new paradigm of endless opportunities in various industries.
@@ -3617,6 +3805,8 @@ Uncensored AI has the potential to transform industries and create new opportuni
 
 ---
 
+### extract_patterns_20240705-104740_llama3-70b-8192.md
+---
 # PATTERNS
 
 * Social engineering is present in 90% of phishing attacks today.
@@ -3663,6 +3853,8 @@ Social engineering is a crucial component of business email compromise attacks, 
 
 ---
 
+### extract_patterns_20240705-092125_llama3-70b-8192.md
+---
 # PATTERNS
 
 * The use of artificial intelligence (AI) to replicate human voices is becoming increasingly sophisticated and accessible.
@@ -3702,6 +3894,8 @@ The rapid advancement of AI technology has led to the development of sophisticat
 
 ---
 
+### extract_patterns_20240705-065903_llama3-70b-8192.md
+---
 # PATTERNS
 * AI worms can infiltrate emails and access data without user interaction
 * AI models can be used to spread malware and steal data
@@ -3745,11 +3939,15 @@ AI worms pose a significant threat to cybersecurity, as they can infiltrate emai
 
 ---
 
+### extract_patterns_20240705-142307_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_patterns_20240705-091112_llama3-70b-8192.md
+---
 # PATTERNS
 * Deepfake scams are increasingly sophisticated and targeted at high-level executives.
 * Artificial intelligence-generated video calls can be used to deceive employees into transferring large sums of money.
@@ -3791,6 +3989,8 @@ Deepfake scams are becoming increasingly sophisticated, targeting high-level exe
 
 ---
 
+### extract_patterns_20240705-050558_llama3-70b-8192.md
+---
 # PATTERNS
 * AI models are trained to perform specific tasks, such as answering questions and interacting with users.
 * Alignment of AI models prevents them from providing dangerous or inappropriate responses.
@@ -3839,6 +4039,8 @@ The development of AI models requires a balanced approach that considers both sa
 
 ---
 
+### extract_patterns_20240705-055448_llama3-70b-8192.md
+---
 # PATTERNS
 
 * Uncensored LLMs are free from guardrails and have "no morals" beyond inherent morals from training data.
@@ -3885,11 +4087,15 @@ This article explores the concept of uncensored LLMs and their potential uses, h
 
 ---
 
+### extract_patterns_20240705-023426_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_patterns_20240705-032822_llama3-70b-8192.md
+---
 # PATTERNS
 * GPT-4 can write malicious scripts to exploit known security vulnerabilities using publicly available data.
 * Large language models can create exploits in known security vulnerabilities.
@@ -3930,6 +4136,8 @@ GPT-4's ability to exploit known security vulnerabilities using publicly availab
 
 ---
 
+### extract_patterns_20240705-085817_llama3-70b-8192.md
+---
 # IDENTITY and PURPOSE
 
 This analysis aims to identify patterns and provide insights from the input data, extracting the most interesting and surprising patterns, and providing a summary of the findings.
@@ -3984,6 +4192,8 @@ The input data suggests that online articles often include interactive features,
 
 ---
 
+### extract_patterns_20240705-144129_llama3-70b-8192.md
+---
 # PATTERNS
 * Deepfake audio fraud is a new cyberattack vector using AI-generated audio.
 * CEO fraud scams are becoming more sophisticated and harder to detect.
@@ -4027,11 +4237,15 @@ Deepfake audio fraud is a new and sophisticated cyberattack vector that can be u
 
 ---
 
+### extract_patterns_20240705-141932_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_patterns_20240705-040106_llama3-70b-8192.md
+---
 # PATTERNS
 
 * Adversaries can leverage Large Language Models (LLMs) and Generative AI (Gen AI) for advanced cyber-attacks.
@@ -4075,6 +4289,8 @@ The article highlights the potential risks of using self-hosted Gen AI to create
 
 ---
 
+### extract_patterns_20240705-080149_llama3-70b-8192.md
+---
 # PATTERNS
 
 * Identity theft and online impersonation are growing cyber threats in the digital age.

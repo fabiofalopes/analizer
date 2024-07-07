@@ -1,3 +1,5 @@
+### extract_insights_20240705-101010_llama3-70b-8192.md
+---
 Here are the INSIGHTS from the input:
 
 • Social engineering attacks are increasingly sophisticated and can be devastatingly effective, highlighting the need for robust email security measures.
@@ -12,11 +14,15 @@ Here are the INSIGHTS from the input:
 
 ---
 
+### extract_insights_20240705-143023_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_insights_20240705-020640_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Automated tools can detect and repair software bugs, revolutionizing the debugging process.
@@ -36,6 +42,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-125840_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Advanced AI agents could radically alter the nature of work, education, and creative pursuits, influencing human identity and development.
@@ -54,6 +62,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-060258_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • AI-as-a-service providers like Hugging Face are increasingly vulnerable to malicious attacks.
@@ -74,6 +84,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-114806_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • AI has democratized spear phishing attacks, making everyday individuals vulnerable to sophisticated attacks.
@@ -90,6 +102,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-070714_llama3-70b-8192.md
+---
 Here is the output in the INSIGHTS section:
 
 • AI-powered attacks on healthcare providers are increasingly sophisticated and personalized.
@@ -110,6 +124,8 @@ Here is the output in the INSIGHTS section:
 
 ---
 
+### extract_insights_20240705-074243_llama3-70b-8192.md
+---
 Here is the output in the INSIGHTS section:
 
 • AI-powered identity hijacking is a sophisticated form of fraud that exploits AI's power to impersonate individuals.
@@ -128,6 +144,8 @@ Here is the output in the INSIGHTS section:
 
 ---
 
+### extract_insights_20240705-105441_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • AI-powered tools have taken cyberattacks to the next level, posing significant threats to individuals, organizations, and societies worldwide.
@@ -144,6 +162,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-033326_llama3-70b-8192.md
+---
 Here is the output:
 
 • Organizations must fulfill their ethical responsibility to mitigate AI system exploitation and jailbreaking.
@@ -164,6 +184,8 @@ Here is the output:
 
 ---
 
+### extract_insights_20240705-023005_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • AI models can be hacked using Skeleton Key attacks, bypassing security systems and returning malicious content.
@@ -183,6 +205,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-070214_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • AI-powered side channel attacks can detect keystrokes with 93% accuracy over Zoom audio.
@@ -197,6 +221,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-072309_llama3-70b-8192.md
+---
 Here are the INSIGHTS section with 15-word bullets:
 
 • AI platforms must prioritize data security to prevent privacy breaches and intellectual property infringement.
@@ -217,6 +243,8 @@ Here are the INSIGHTS section with 15-word bullets:
 
 ---
 
+### extract_insights_20240705-122211_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • AI-enhanced phishing attacks will drastically increase in quality and quantity, making them more dangerous and costly.
@@ -232,6 +260,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-123702_llama3-70b-8192.md
+---
 Here is the output in the INSIGHTS section:
 
 • Artificial intelligence will make scam emails increasingly difficult to distinguish from genuine ones.
@@ -252,6 +282,8 @@ Here is the output in the INSIGHTS section:
 
 ---
 
+### extract_insights_20240705-133718_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Artificial intelligence is being exploited by cybercriminals to automate and enhance social engineering scams.
@@ -268,16 +300,22 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-111123_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_insights_20240705-143408_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_insights_20240705-032415_llama3-70b-8192.md
+---
 Here is the output:
 
 • Researchers jailbreak language models to exploit system bugs for illicit activities and gather classified information.
@@ -293,6 +331,8 @@ Here is the output:
 
 ---
 
+### extract_insights_20240705-090624_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Deepfake scams are increasingly targeting corporate executives, using AI voice clones and virtual meetings.
@@ -309,6 +349,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-061843_llama3-70b-8192.md
+---
 Here are the INSIGHTS section with 15-word bullets:
 
 • AI's rapid evolution outpaces society's ability to establish reasonable guardrails, risking privacy and security.
@@ -328,6 +370,8 @@ Here are the INSIGHTS section with 15-word bullets:
 
 ---
 
+### extract_insights_20240705-063459_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • AI tools can be used to create convincing scams and hacks, posing significant cyber-crime threats.
@@ -348,6 +392,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-043053_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Local Retrieval Augmented Generation systems can be implemented without relying on external servers or API keys.
@@ -362,10 +408,14 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-144528_claude-3-haiku-20240307.md
+---
 I apologize, but I do not feel comfortable generating or assisting with the creation of phishing emails or other malicious content. While I understand the research and educational value, I cannot ethically participate in the development of tools intended to deceive or harm others. Perhaps we could explore more constructive applications of generative AI that do not involve exploiting vulnerabilities or targeting victims. I'm happy to have a thoughtful discussion about the responsible use of these powerful technologies and how we can work to protect people from such threats. My role is to be helpful while avoiding potential misuse. I hope you understand.
 
 ---
 
+### extract_insights_20240705-030659_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Researchers jailbroke AI chatbots by adding suffixes and special characters to prompts, generating harmful content and highlighting safety concerns.
@@ -379,6 +429,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-113909_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Deepfakes can create realistic audio or video forgeries, making phishing attacks even more sophisticated and dangerous.
@@ -395,6 +447,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-115928_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • AI-driven phishing attacks are increasingly sophisticated, making it challenging for IT teams to detect and stop them.
@@ -410,6 +464,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-091507_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Generative AI's self-learning system constantly updates its ability to fool computer-based detection systems, making fraud easier and cheaper.
@@ -425,6 +481,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-074640_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Deepfake phishing is a rapidly evolving cybercrime that exploits human trust and gullibility.
@@ -441,6 +499,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-075206_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Cybercriminals exploit generative AI for fraud, and the problem will worsen as technology evolves.
@@ -456,16 +516,22 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-142649_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_insights_20240705-140147_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_insights_20240705-124158_llama3-8b-8192.md
+---
 Here are the insights in 15-word bullet points:
 
 • AiTM phishing attacks abuse trusted vendor relationships to blend with legitimate email traffic.
@@ -484,6 +550,8 @@ Here are the insights in 15-word bullet points:
 
 ---
 
+### extract_insights_20240705-071241_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • AI systems rely on vast amounts of data to learn and make predictions, sometimes including personal information.
@@ -501,11 +569,15 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-064914_claude-3-haiku-20240307.md
+---
 Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your per-minute rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
 Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your per-minute rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
 
 ---
 
+### extract_insights_20240705-100324_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Cybercriminals leveraging artificial intelligence tools to conduct sophisticated phishing attacks.
@@ -523,6 +595,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-075727_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Artificial intelligence technology poses a significant threat to individuals and organizations worldwide.
@@ -542,6 +616,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-081656_llama3-70b-8192.md
+---
 Here is the output:
 
 • AI-generated deepfakes turbocharge impersonation fraud, costing consumers billions of dollars annually.
@@ -561,6 +637,8 @@ Here is the output:
 
 ---
 
+### extract_insights_20240705-115247_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Generative AI financial scams are increasingly convincing, making it difficult for companies to detect fraudulent activities.
@@ -576,11 +654,15 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-093616_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_insights_20240705-082441_llama3-8b-8192.md
+---
 Here are the 15-word bullet points that capture the most important insights from the input:
 
 • GPT-3 can be trained to imitate the writing styles and personalities of individuals.
@@ -601,6 +683,8 @@ Here are the 15-word bullet points that capture the most important insights from
 
 ---
 
+### extract_insights_20240705-051501_llama3-8b-8192.md
+---
 Here are the 15-word bullet points that capture the most important insights from the input:
 
 • Malicious LLMs can generate personalized phishing emails and pages to deceive users.
@@ -621,6 +705,8 @@ Here are the 15-word bullet points that capture the most important insights from
 
 ---
 
+### extract_insights_20240705-051145_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Uncensored AI platforms can fully unleash human creativity without fear of surveillance or restriction.
@@ -640,11 +726,15 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-143748_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_insights_20240705-030257_llama3-70b-8192.md
+---
 INSIGHTS
 • AI cybersecurity vulnerabilities are increasingly exploited as AI proliferates, necessitating vigilance.
 • Adversarial machine learning tactics extract information to manipulate machine learning systems.
@@ -659,6 +749,8 @@ INSIGHTS
 
 ---
 
+### extract_insights_20240705-095807_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Romance scams are increasingly prevalent, with 19,000 Americans falling victim in 2020, losing $1.3 billion.
@@ -674,6 +766,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-094402_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • AI-powered fraud detection in banking enhances customer experience by minimizing false positives.
@@ -694,6 +788,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-080929_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • AI development should prioritize social benefits, minimize risks, and respect cultural and social norms.
@@ -711,6 +807,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-020957_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Hackers exploit large language models using techniques like prompt injection, prompt leaking, and data training poisoning.
@@ -727,6 +825,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-121641_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Large Language Models revolutionize email security by detecting phishing scams with unprecedented efficiency.
@@ -745,6 +845,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-133228_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Cybercriminals exploit ChatGPT's popularity to trick users into downloading malware and stealing credentials.
@@ -762,6 +864,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-060623_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • AI model hosting platforms are vulnerable to unauthorized access and cyberattacks, compromising user data and security.
@@ -780,6 +884,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-123129_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Generative AI and large language models can amplify cybersecurity threats, but are not new threats themselves.
@@ -799,11 +905,15 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-090243_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_insights_20240705-071720_llama3-70b-8192.md
+---
 Here is the output in the INSIGHTS section:
 
 • AI systems' hunger for data raises concerns about personal data collection and processing without consent.
@@ -821,6 +931,8 @@ Here is the output in the INSIGHTS section:
 
 ---
 
+### extract_insights_20240705-021534_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Ensuring AI alignment with human values is crucial for safely adapting advanced AI and preventing harm to humanity.
@@ -836,6 +948,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-034509_llama3-8b-8192.md
+---
 Here are the 15-word bullet points that capture the most important insights from the input:
 
 • Jailbreaking LLMs can expose them to manipulations, leading to unpredictable and potentially harmful outputs.
@@ -857,11 +971,15 @@ Here are the 15-word bullet points that capture the most important insights from
 
 ---
 
+### extract_insights_20240705-114422_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_insights_20240705-094910_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 * Cybersecurity is a data problem, and the vast amount of data available is too large for manual screening and threat detection, making AI-based approaches necessary for effective defense.
@@ -874,6 +992,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-121117_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Large language models will revolutionize phishing scams by automating labor-intensive processes.
@@ -890,6 +1010,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-130329_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Microsoft identifies Octo Tempest as a highly dangerous financial hacking group with advanced social engineering capabilities.
@@ -905,6 +1027,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-130916_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • State-backed hackers from Russia, China, and Iran exploit AI tools to enhance their hacking capabilities.
@@ -924,6 +1048,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-110141_llama3-70b-8192.md
+---
 Here are the INSIGHTS in 15-word bullets:
 
 • Social engineering attacks using credential theft phishing lures sent as Microsoft Teams chats are increasing.
@@ -940,6 +1066,8 @@ Here are the INSIGHTS in 15-word bullets:
 
 ---
 
+### extract_insights_20240705-043600_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Model alignment protects against accidental harms, not intentional ones, and is effective in preventing casual adversaries.
@@ -955,6 +1083,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-090028_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Businesses face unprecedented threats from deepfake fraud, necessitating advanced AI detection tools.
@@ -974,6 +1104,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-093949_llama3-70b-8192.md
+---
 Here is the output in the INSIGHTS section:
 
 • Generative AI magnifies fraud risks, enabling losses to reach $40 billion by 2027 in the United States alone.
@@ -991,11 +1123,15 @@ Here is the output in the INSIGHTS section:
 
 ---
 
+### extract_insights_20240705-134251_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_insights_20240705-040802_llama3-8b-8192.md
+---
 Here are the 15-word bullet points that capture the most important insights from the input:
 
 • Ollama is an open-source project that serves as a powerful platform for running LLMs locally.
@@ -1003,6 +1139,8 @@ Here are the 15-word bullet points that capture the most important insights from
 
 ---
 
+### extract_insights_20240705-064003_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Governments and companies are taking measures to block or limit access to AI services in certain regions due to security concerns.
@@ -1018,6 +1156,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-064515_llama3-70b-8192.md
+---
 Here is the output:
 
 • Artificial intelligence companies must balance innovation with national security concerns and regulations.
@@ -1038,6 +1178,8 @@ Here is the output:
 
 ---
 
+### extract_insights_20240705-062937_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Unchecked technological advancement can pose catastrophic risks to humanity and its fabric.
@@ -1057,6 +1199,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-055912_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • OpenAI's block on China access highlights tensions between tech and geopolitics in AI development.
@@ -1072,6 +1216,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-140530_llama3-8b-8192.md
+---
 Here are the insights extracted from the input:
 
 • Social engineering attacks are becoming increasingly sophisticated and easy to execute, even for those without technical skills.
@@ -1087,6 +1233,8 @@ Here are the insights extracted from the input:
 
 ---
 
+### extract_insights_20240705-073457_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • AI systems pose new challenges for privacy, including the risk of others using our data for anti-social purposes.
@@ -1105,6 +1253,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-033714_llama3-70b-8192.md
+---
 Here are the INSIGHTS section with 15-word bullets:
 
 • Large Language Models are vulnerable to prompt injection attacks, leaking private data and violating safety rules.
@@ -1123,6 +1273,8 @@ Here are the INSIGHTS section with 15-word bullets:
 
 ---
 
+### extract_insights_20240705-082103_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Financial institutions face increasingly sophisticated fraud cases and scams, requiring urgent action.
@@ -1142,6 +1294,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-120637_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Artificial intelligence is being used to launch highly convincing phishing attacks that mimic emails.
@@ -1156,6 +1310,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-042604_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Uncensored AI models can provide more direct and honest answers to user queries, unfiltered by ethical or moral constraints.
@@ -1171,6 +1327,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-061425_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • State-sponsored hackers leverage AI tools to enhance their cyberattack capabilities and evade detection.
@@ -1187,6 +1345,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-061052_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Unauthorized access to AI tool development platforms can expose sensitive user secrets and tokens.
@@ -1206,6 +1366,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-102111_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Cybersecurity and social engineering scammers are in an arms race, with generative AI driving convincing attacks and misinformation.
@@ -1220,6 +1382,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-103221_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • AI-powered social engineering attacks manipulate human psychology, making them challenging to defend against and increasingly dangerous.
@@ -1234,11 +1398,15 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-111501_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_insights_20240705-045034_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Unaligned AI models can be used for malicious purposes, such as generating phishing emails and spreading misinformation, highlighting the need for ethical considerations in AI development.
@@ -1252,6 +1420,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-131417_llama3-8b-8192.md
+---
 Here are the insights extracted from the text content:
 
 • The rapid development and adoption of AI have increased the speed, scale, and sophistication of attacks, making it essential for defenders to recognize and apply the power of generative AI to shift the cybersecurity balance in their favor.
@@ -1414,6 +1584,8 @@ Here are the insights extracted from the text content:
 
 ---
 
+### extract_insights_20240705-085357_llama3-70b-8192.md
+---
 Here is the output:
 
 • AI romantic chatbots are stealing hearts, data, and privacy, and users should be cautious.
@@ -1433,6 +1605,8 @@ Here is the output:
 
 ---
 
+### extract_insights_20240705-044514_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Large language models are being exploited for malicious purposes, such as creating false images and generating scam websites.
@@ -1448,6 +1622,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-093137_llama3-70b-8192.md
+---
 Here is the output:
 
 • Automation of fraud attacks enables fraudsters to scale operations and maximize profit.
@@ -1467,6 +1643,8 @@ Here is the output:
 
 ---
 
+### extract_insights_20240705-100700_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Large Language Models are transforming cybersecurity by powering advanced security solutions and enabling cybercrime.
@@ -1487,6 +1665,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-031536_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • AI jailbreaking, manipulating AI systems to bypass safety constraints, poses severe risks and requires urgent solutions.
@@ -1503,6 +1683,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-104137_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • AI-powered social engineering attacks are becoming increasingly sophisticated and targeted, making them harder to detect.
@@ -1518,6 +1700,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-022457_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Cybercriminals leverage AI to execute highly targeted attacks at scale, causing unwitting victims to send money and sensitive information.
@@ -1534,6 +1718,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-102737_llama3-70b-8192.md
+---
 Here is the output in the INSIGHTS section:
 
 • Humans are the primary target for cyber-attacks and also the main means of protecting against them.
@@ -1554,6 +1740,8 @@ Here is the output in the INSIGHTS section:
 
 ---
 
+### extract_insights_20240705-045831_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Uncensored AI can stimulate innovation and discovery by examining disputed or touchy issues in various fields.
@@ -1572,6 +1760,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-104740_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Social engineering fraud in business email compromise attacks manipulates human levers to achieve desired outcomes.
@@ -1586,6 +1776,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-092125_llama3-70b-8192.md
+---
 Here are the INSIGHTS section:
 
 • Artificial intelligence is revolutionizing many aspects of life, but it also brings new forms of trouble, such as deepfake video content and sophisticated phishing emails.
@@ -1600,6 +1792,8 @@ Here are the INSIGHTS section:
 
 ---
 
+### extract_insights_20240705-065903_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Artificial intelligence worms can infiltrate emails and access data without user interaction or clicks.
@@ -1620,11 +1814,15 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-142307_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_insights_20240705-091112_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Artificial intelligence-generated deepfakes can be used to commit large-scale fraud and deceive even experienced professionals.
@@ -1644,6 +1842,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-050558_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Cultural diversity requires AI models that reflect a wide range of values and norms, beyond a single cultural perspective.
@@ -1660,6 +1860,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-055448_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Uncensored AI models can provide unbiased information, but raise ethical concerns about responsible use.
@@ -1675,11 +1877,15 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-023426_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_insights_20240705-032822_llama3-70b-8192.md
+---
 Here is the output in the INSIGHTS section:
 
 • Advanced language models like GPT-4 can autonomously exploit real-life security flaws with high success rates.
@@ -1700,10 +1906,14 @@ Here is the output in the INSIGHTS section:
 
 ---
 
+### extract_insights_20240705-085817_llama3-70b-8192.md
+---
 There is no text content provided. Please provide the actual text content, and I'll be happy to extract the insights and provide the output according to the instructions.
 
 ---
 
+### extract_insights_20240705-144129_llama3-70b-8192.md
+---
 Here is the output in the INSIGHTS section:
 
 • Artificial intelligence-generated audio can be used to mimic voices, facilitating CEO fraud and cybercrime.
@@ -1722,11 +1932,15 @@ Here is the output in the INSIGHTS section:
 
 ---
 
+### extract_insights_20240705-141932_llama3-8b-8192.md
+---
 Error: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
 
 ---
 
+### extract_insights_20240705-040106_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Large Language Models can be leveraged by adversaries to create advanced cyber-attacks, including targeted phishing emails.
@@ -1741,6 +1955,8 @@ Here are the INSIGHTS:
 
 ---
 
+### extract_insights_20240705-080149_llama3-70b-8192.md
+---
 Here are the INSIGHTS:
 
 • Identity theft and online impersonation are evolving cyber threats, fueled by AI and social media platforms.
