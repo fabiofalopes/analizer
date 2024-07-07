@@ -1,0 +1,39 @@
+**IDEAS**
+9/10 — The speaker focused overwhelmingly on novel ideas about AI unpredictability, using analogies to explain complex concepts.
+
+**Instances:**
+
+* "AI is unpredictable because top AI scientists don't fully understand how they work."
+* "AI is like a vegetable, where scientists set up the right conditions and amazing things grow on their own."
+* "AI is powered by vibes, with a superhuman intuition for statistically related ideas."
+* "AI is like a lazy college student, finding shortcuts to maximize rewards."
+* "The hallucination problem is the most important problem in all of science right now."
+
+**SELFLESSNESS**
+6/10 — The speaker referred to themselves occasionally, but mostly focused on the content and ideas.
+
+**Instances:**
+
+* "I believe is the number one idea that every civilian should understand..."
+* "I would submit to you that this isn't really the students fault after all."
+* "My hope is that these three analogies convey why I risk is a very real problem."
+
+**ENTERTAINMENT**
+4/10 — The speaker used some humor and engaging storytelling, but the focus was primarily on conveying complex ideas.
+
+**Instances:**
+
+* "It's like if then style programming in roughly the way that the asteroid impact that killed the dinosaurs is like the amount of energy in a Snickers bar, literally."
+* "If you're 20 years old, it's about 56,000 times as much just in the time you've been alive."
+
+**ANALYSIS**
+8/10 — The presentation was well-structured, engaging, and effectively conveyed complex ideas.
+
+**Powerbars:**
+
+IDEAS           [------------9-]
+SELFLESSNESS    [------6------]
+ENTERTAINMENT   [----4------]
+
+**CONCLUSION**
+The presentation effectively conveyed the idea that AI unpredictability is a significant risk, using engaging analogies and storytelling to explain complex concepts. While the speaker referred to themselves occasionally, the focus was primarily on the content and ideas. Overall, the presentation was well-structured and engaging, making it easy to follow and understand.
