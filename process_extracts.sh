@@ -34,9 +34,8 @@ for PATTERN in "${PATTERNS[@]}"; do
   done
 
   # Process each concatenated file with the desired model and save the output
-  #for concat_file in "$CONCATS_DIR"/*"${PATTERN}.md"; do
-  #  OUTPUT_FILE="$KNOWLEDGE_DIR/academic_reflection_$(basename #"$concat_file" .md).txt"
-  #  cat "$concat_file" | fabric -sp "write_academic_reflection" > #"$OUTPUT_FILE"
-  #done
-#done
-
+#  for concat_file in "$CONCATS_DIR"/*"${PATTERN}.md"; do
+#    OUTPUT_FILE="$KNOWLEDGE_DIR/academic_reflection_$(basename "$concat_file" .md).txt"
+#    cat "$concat_file" | fabric model gpt-4 -S -P "write_academic_reflection" > "$OUTPUT_FILE"
+#  done
+done
