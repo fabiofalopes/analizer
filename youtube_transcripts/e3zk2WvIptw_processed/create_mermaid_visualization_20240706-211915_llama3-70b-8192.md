@@ -1,5 +1,6 @@
 Here is the Mermaid syntax visualization for the input:
-```
+```mermaid
+
 graph LR
     classDef blackWhite fill:#000,stroke:#fff
     classDef highContrast fill:#fff,stroke:#000
