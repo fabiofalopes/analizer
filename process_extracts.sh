@@ -2,7 +2,7 @@
 
 # Hardcoded variables
 PATTERNS=("extract_ideas" "create_summary" "analyze_claims")
-ROOT_FOLDER="/path/to/root/folder"
+ROOT_FOLDER="/home/kali/projectos/analizer/output"
 OUTPUT_DIR="$ROOT_FOLDER/processed"
 KNOWLEDGE_DIR="$ROOT_FOLDER/knowledge"
 CONCATS_DIR="$KNOWLEDGE_DIR/concats"
