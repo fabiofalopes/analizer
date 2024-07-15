@@ -17,6 +17,7 @@ process_and_extract() {
   local file="$1"
   local output_dir="$2"
   local model_list=(
+    "claude-3-5-sonnet-20240620"
     "llama3-70b-8192"
     "mixtral-8x7b-32768"
     "llama3-8b-8192"
@@ -35,7 +36,7 @@ process_and_extract() {
     #capture_thinkers_work
     #create_idea_compass
     create_keynote
-    create_mermaid_visualization
+    #create_mermaid_visualization
     create_summary
     #create_reading_plan
     extract_wisdom

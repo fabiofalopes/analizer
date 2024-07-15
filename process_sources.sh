@@ -18,6 +18,7 @@ process_and_extract() {
   local file="$1"
   local output_dir="$2"
   local model_list=(
+    "claude-3-5-sonnet-20240620"
     "llama3-70b-8192"
     "mixtral-8x7b-32768"
     "llama3-8b-8192"
@@ -90,10 +91,14 @@ process_and_extract() {
 }
 
 process_files() {
-  local sources_dir="sources"
-  local output_dir="output/processed"
-  local log_file="/tmp/process_and_extract.log"
+  #local sources_dir="sources"
+  #local output_dir="output/processed"
+  #local log_file="/tmp/process_and_extract.log"
 
+  local sources_dir="youtube_transcripts"
+  local output_dir="output/pyoutube_transcripts/processed"
+  local log_file="/tmp/process_and_extract.log"
+  
   mkdir -p "$output_dir"
 
   export FABRIC_OUTPUT_PATH="$output_dir"
