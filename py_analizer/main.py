@@ -36,7 +36,10 @@ PATTERNS = [
 ROOT_FOLDER = Path(__file__).parent.resolve()
 OUTPUT_ROOT_DIR = ROOT_FOLDER / "output"
 EXTENSION = ".md"
-FABRIC_MODEL = "gpt-4o"
+#FABRIC_MODEL = "claude-3-5-sonnet-20240620"
+#FABRIC_MODEL = "mixtral-8x7b-32768"
+#FABRIC_MODEL = "gpt-4o"
+FABRIC_MODEL = "claude-3-haiku-20240307"
 
 # Create necessary directories if they don't exist
 OUTPUT_ROOT_DIR.mkdir(parents=True, exist_ok=True)
