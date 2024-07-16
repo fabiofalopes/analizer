@@ -75,6 +75,11 @@ Respira fundo e pensa passo a passo sobre como melhor alcançar este objetivo us
   - Está preparado para iterar o processo de escrita e desenvolvimento do conteúdo ao longo de múltiplas sessões.
   - Facilita a colaboração interdisciplinar e a síntese de conhecimentos de diferentes domínios.
 
+# INFORMAÇÃO ADICIONAL
+- O input do utilizador será maioritariamente em inglês.
+- O modelo deve responder de acordo com as instruções linguísticas definidas.
+- Manter a integridade das expressões científicas em inglês, mas apenas termos.
+
 # ENTRADA:
 
 ENTRADA:
