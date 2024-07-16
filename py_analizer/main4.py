@@ -6,11 +6,36 @@ import hashlib
 from transformers import AutoTokenizer
 
 # Variáveis Globais
-PATTERNS = ["cria_prosa_sec"]
+PATTERNS = [
+    #"analyze_claims",
+    #"analyze_incident",
+    #"analyze_tech_impact",
+    #"create_summary",
+    #"create_threat_scenarios",
+    #"extract_ideas",
+    #"extract_article_wisdom",
+    #"extract_extraordinary_claims",
+    #"extract_insights",
+    #"extract_main_idea",
+    #"extract_patterns",
+    #"extract_wisdom",
+    #"summarize"
+    # "analyze_paper",
+    # "analyze_presentation",
+    #"create_academic_paper",
+    # "explain_docs",
+    #"write_essay",
+    #"cria_relatorio_seguranca_00",
+    #"cria_relatorio_seguranca_01",
+    #"cria_relatorio_seguranca_02",
+    #"cria_prosa_sec",
+    "escritor_sec_serio",
+]
 ROOT_FOLDER = Path(__file__).parent.resolve()
 OUTPUT_ROOT_DIR = ROOT_FOLDER / "output"
 EXTENSION = ".md"
-FABRIC_MODEL = "llama3-70b-8192"
+#FABRIC_MODEL = "llama3-70b-8192"
+FABRIC_MODEL = "mixtral-8x7b-32768"
 TOKENIZER_MODEL = "bert-base-uncased"
 TOKENS_PER_MINUTE_LIMIT = 6000
 CHUNK_SIZE = 4000  # Ajuste para o tamanho máximo de tokens por parte
