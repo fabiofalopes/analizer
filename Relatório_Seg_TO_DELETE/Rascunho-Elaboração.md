@@ -1,0 +1,34 @@
+### Introdução
+
+Nos últimos anos, a inteligência artificial (IA) tem emergido como uma das tecnologias mais transformadoras e influentes da era moderna. Desde a disponibilização generalizada de ferramentas como o ChatGPT, a IA tornou-se um tema central no discurso tecnológico e social. Esta ubiquidade trouxe consigo uma série de desafios e oportunidades, especialmente no domínio da segurança cibernética. Em particular, o phishing e a engenharia social, técnicas frequentemente utilizadas por atacantes para manipular e enganar utilizadores, têm sido significativamente potenciadas pelos avanços na IA.
+
+O phishing, uma forma de fraude que visa obter informações sensíveis através da simulação de entidades confiáveis, e a engenharia social, que explora vulnerabilidades humanas para obter acesso a sistemas ou informações, são ameaças persistentes no cenário digital. Com o advento de tecnologias como os modelos de linguagem de grande escala (LLMs), incluindo os desenvolvidos pela OpenAI, as capacidades desses ataques têm-se tornado cada vez mais sofisticadas. Estes modelos, capazes de gerar textos extremamente convincentes, tornaram-se ferramentas poderosas tanto para defensores quanto para atacantes.
+
+Historicamente, a utilização de IA em segurança cibernética não é novidade. Desde a década de 2010, algoritmos avançados têm sido implementados para detectar e prevenir ameaças. No entanto, a recente explosão na capacidade computacional e a disponibilidade de modelos de IA acessíveis ao público em geral trouxeram uma nova dimensão a estas questões. Ferramentas que antes eram exclusivas de investigadores e profissionais de segurança estão agora ao alcance de qualquer indivíduo com acesso à internet. Esta democratização da tecnologia apresenta um cenário de "pau de dois bicos", onde as mesmas ferramentas que aumentam a segurança são igualmente utilizadas para lançar ataques mais eficazes.
+
+Os ataques de phishing, que outrora poderiam ser facilmente identificados por erros gramaticais ou linguagem não natural, agora beneficiam de textos gerados por IA que são quase indistinguíveis da comunicação humana. A sofisticação destes ataques aumenta a probabilidade de sucesso, mesmo entre utilizadores mais vigilantes. Além disso, a IA está a ser utilizada para criar deepfakes – vídeos ou áudios falsos que imitam perfeitamente uma pessoa real – complicando ainda mais a capacidade de detecção de fraudes.
+
+A questão central que este trabalho pretende abordar é se as ferramentas de IA, na sua forma atual, representam mais uma ameaça do que uma solução para a segurança cibernética. Queremos explorar o impacto que estas tecnologias têm tido e poderão vir a ter no futuro, bem como as possíveis estratégias para mitigar os riscos associados. É crucial entender se existe uma "saída" viável deste cenário ou se estamos inexoravelmente a caminhar para um ambiente digital onde a segurança é constantemente ameaçada por ataques cada vez mais sofisticados.
+
+Apesar dos avanços tecnológicos, é importante recordar que a IA não é uma novidade recente. O impacto da IA já se fazia sentir, de forma menos visível, através de algoritmos de recomendação em redes sociais e outros sistemas. No entanto, com a introdução de ferramentas como o ChatGPT, a IA tornou-se mais tangível e compreensível para o utilizador comum. Este fenómeno trouxe à luz a extensão real da influência da IA na vida quotidiana e, por conseguinte, aumentou a consciência sobre os potenciais riscos.
+
+Em última análise, a utilização de IA em ataques de phishing e engenharia social não só eleva o nível de sofisticação desses ataques como também desafia as defesas tradicionais. Este trabalho visa fornecer uma visão abrangente dos desenvolvimentos atuais e futuros no campo da IA aplicada à segurança cibernética, destacando tanto os benefícios quanto os perigos. É imperativo que se desenvolvam contramedidas eficazes para proteger utilizadores e sistemas num mundo onde as fronteiras entre humano e máquina estão cada vez mais ténues.
+
+---
+
+O impacto da IA já se fazia sentir antes da apresentação destes últimos avanços, como os LLMs, devido a várias razões:
+
+1. **Algoritmos de Recomendação**: As redes sociais e plataformas de conteúdo utilizavam algoritmos avançados de IA para personalizar a experiência do utilizador, promovendo conteúdos relevantes com base nos seus interesses e comportamentos. Estes algoritmos já demonstravam capacidades sofisticadas de análise de dados e predição, influenciando decisões e moldando comportamentos em grande escala.
+    
+2. **Sistemas de Segurança e Deteção de Fraudes**: Empresas financeiras e outras entidades utilizavam IA para detetar padrões incomuns e prevenir fraudes. Estes sistemas analisavam grandes volumes de transações e comportamentos de utilizadores para identificar atividades suspeitas, aumentando a segurança e eficiência das operações.
+    
+3. **Automação de Processos**: Em diversas indústrias, a IA era implementada para automatizar processos repetitivos e baseados em regras, melhorando a produtividade e reduzindo erros humanos. Desde linhas de produção em fábricas até ao processamento de documentos em escritórios, a IA desempenhava um papel crucial na otimização de operações.
+    
+4. **Análise de Sentimentos e Processamento de Linguagem Natural**: Ferramentas de análise de sentimentos e processamento de linguagem natural (NLP) já eram utilizadas para entender opiniões de clientes, monitorar a reputação de marcas e analisar grandes volumes de texto. Estas tecnologias permitiam às empresas extrair insights valiosos a partir de dados textuais não estruturados.
+    
+5. **Sistemas de Previsão e Planeamento**: A IA era aplicada em modelos de previsão para diversas finalidades, incluindo previsão de demanda, gestão de inventário e análise de tendências de mercado. Estas aplicações ajudavam as empresas a tomar decisões informadas e a planear estrategicamente.
+    
+6. **Assistentes Virtuais e Chatbots**: Antes dos LLMs como o ChatGPT, já existiam assistentes virtuais e chatbots que utilizavam IA para interagir com os utilizadores, fornecendo suporte ao cliente e automatizando respostas a perguntas frequentes. Embora menos sofisticados, estes sistemas mostravam a viabilidade e utilidade da IA em interfaces de utilizador.
+    
+
+Estes exemplos ilustram como a IA já estava profundamente integrada em várias facetas da sociedade e da economia, moldando experiências e operações bem antes da recente onda de avanços tecnológicos. A introdução de LLMs e outras tecnologias avançadas simplesmente acelerou e ampliou o impacto que a IA já estava a ter, trazendo novas oportunidades e desafios para o campo da segurança cibernética e além.
