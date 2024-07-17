@@ -16902,3 +16902,312 @@ Despite the promising results demonstrated in our study, there are several limit
 
 ---
 
+Aqui está o artigo/relatório científico reestruturado e formatado de acordo com as instruções fornecidas:
+
+**Deteção de Ataques de Engenharia Social com Modelos de Linguagem**
+
+A deteção de ataques de engenharia social é um desafio crescente na segurança informática. Recentemente, foram desenvolvidos modelos de linguagem grandes (LLMs) que podem ser utilizados para simular ataques de engenharia social. No entanto, a eficácia desses modelos depende da qualidade e abrangência da base de dados histórica utilizada para treiná-los.
+
+**Limitações do ConvoSentinel**
+
+O ConvoSentinel, um modelo de deteção de ataques de engenharia social, demonstrou melhorias na deteção de ataques. No entanto, ele depende de um módulo de recuperação aprimorado que compara mensagens recebidas com uma base de dados histórica de conversas semelhantes. A eficácia desse módulo é condicionada pela qualidade e abrangência da base de dados histórica, que pode não estar sempre disponível ou ser representativa de cenários do mundo real.
+
+**Desafios Éticos**
+
+A simulação de ataques de engenharia social usando LLMs apresenta dilemas éticos potenciais. Embora o nosso dataset, SEConvo, tenha sido desenvolvido para melhorar a deteção e prevenção de ataques, reconhecemos o potencial de uso indevido dessas simulações. No entanto, acreditamos que a disponibilidade pública do dataset, junto com o ConvoSentinel, nosso quadro de defesa, irá predominantemente empoderar a pesquisa futura para desenvolver mecanismos defensivos mais eficazes e robustos.
+
+**Uso Intencionado**
+
+O nosso objetivo principal em liberar o SEConvo e desenvolver o ConvoSentinel é empoderar os pesquisadores e profissionais de segurança informática para melhorar sua compreensão e contrariar ataques de engenharia social baseados em chat. Destacamos que o uso desses recursos deve ser limitado a medidas defensivas em contextos acadêmicos, de treinamento e desenvolvimento de segurança.
+
+**Agradecimentos**
+
+Este estudo foi desenvolvido com financiamento da Defense Advanced Research Projects Agency (DARPA) sob os contratos HR001120C0123, HR01120C0129 e 47QFLA22F0137. As opiniões, pontos de vista e/ou descobertas expressas são da autoria do autor e não devem ser interpretadas como representando as opiniões oficiais ou políticas do Departamento de Defesa ou do Governo dos EUA.
+
+**Referências**
+
+Achiam, J., Adler, S., Agarwal, S., Ahmad, L., Akkaya, I., Aleman, F. L., ... & Altman, S. (2023). Gpt-4 technical report. arXiv preprint arXiv:2303.08774.
+
+Ahammad, S. K. H., Kale, S. D., Upadhye, G. D., Pande, S. D., Babu, E. V., Dhumane, A. V., & Bahadur, J. K. J. (2022). Phishing url detection using machine learning methods. Advances in Engineering Software, 173, 103288.
+
+Alotaibi, R., Al-Turaiki, I., & Alakeel, F. (2020). Mitigating email phishing attacks using convolutional neural networks. In 2020 3rd International Conference on Computer Applications & Information Security (ICCAIS), pages 1–6. IEEE.
+
+Asfour, M., & Murillo, J. C. (2023). Harnessing large language models to simulate realistic human responses to social engineering attacks: A case study. International Journal of Cybersecurity Intelligence & Cybercrime, 6(2), 21–49.
+
+Ayoobi, N., Shahriar, S., & Mukherjee, A. (2023). The looming threat of fake and llm-generated linkedin profiles: Challenges and opportunities for detection and prevention. In Proceedings of the 34th ACM Conference on Hypertext and Social Media, pages ...
+
+---
+
+Aqui está o artigo/relatório científico reestruturado e formatado, focado nos tópicos abordados, específico para um curso de segurança informática:
+
+**Deteção de Ataques de Phishing com Técnicas de Aprendizado de Máquina e Inteligência Artificial**
+
+A deteção de ataques de phishing é um desafio crescente na segurança informática. Com o aumento do uso de técnicas de aprendizado de máquina e inteligência artificial, os ataques de phishing estão se tornando cada vez mais sofisticados. Neste artigo, vamos apresentar uma visão geral das técnicas de deteção de ataques de phishing que utilizam aprendizado de máquina e inteligência artificial.
+
+**Técnicas de Deteção de Ataques de Phishing**
+
+Existem várias técnicas de deteção de ataques de phishing que utilizam aprendizado de máquina e inteligência artificial. Uma dessas técnicas é o uso de redes neurais convolucionais (CNNs) para detectar URLs maliciosas (Hung Le et al., 2018). Outra técnica é o uso de modelos de linguagem para detectar emails de phishing (Rishikesh Mahajan e Irfan Siddavatam, 2018).
+
+**Uso de Modelos de Linguagem para Deteção de Ataques de Phishing**
+
+Os modelos de linguagem têm sido amplamente utilizados para detectar ataques de phishing. Por exemplo, o modelo de linguagem Sentence-BERT foi utilizado para detectar emails de phishing (Nils Reimers e Iryna Gurevych, 2019). Além disso, os modelos de linguagem também foram utilizados para gerar ataques de phishing mais realistas (Marc Schmitt e Ivan Flechais, 2023).
+
+**Uso de Inteligência Artificial para Deteção de Ataques de Phishing**
+
+A inteligência artificial também tem sido utilizada para detectar ataques de phishing. Por exemplo, o uso de agentes de inteligência artificial para detectar ataques de phishing em tempo real (Richard Fang et al., 2024). Além disso, a inteligência artificial também foi utilizada para gerar ataques de phishing mais realistas (Takashi Koide et al., 2024).
+
+**Conclusão**
+
+A deteção de ataques de phishing é um desafio crescente na segurança informática. Com o aumento do uso de técnicas de aprendizado de máquina e inteligência artificial, os ataques de phishing estão se tornando cada vez mais sofisticados. Neste artigo, apresentamos uma visão geral das técnicas de deteção de ataques de phishing que utilizam aprendizado de máquina e inteligência artificial. É importante continuar a desenvolver e melhorar essas técnicas para combater os ataques de phishing.
+
+**Referências**
+
+Abdul Basit, M. Z., Liu, X., Javed, A. R., Jalil, Z., & Kifayat, K. (2021). A comprehensive survey of ai-enabled phishing attacks detection techniques. Telecommunication Systems, 76, 139-154.
+
+Amrita Bhattacharjee, R. M., Garland, J., & Liu, H. (2024). Towards llm-guided causal explainability for black-box text classifiers.
+
+Hung Le, Q. P., Sahoo, D., & Hoi, S. C. H. (2018). Urlnet: Learning a url representation with deep learning for malicious url detection. arXiv preprint arXiv:1802.03162.
+
+Rishikesh Mahajan e Irfan Siddavatam. (2018). Phishing website detection using machine learning algorithms. International Journal of Computer Applications, 181(23), 45-47.
+
+Nils Reimers e Iryna Gurevych. (2019). Sentence-BERT: Sentence embeddings using Siamese BERT-networks. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), pages 3982-3992, Hong Kong, China. Association for Computational Linguistics.
+
+Marc Schmitt e Ivan Flechais. (2023). Digital deception: Generative artificial intelligence in social engineering and phishing. arXiv preprint arXiv:2310.13715.
+
+Takashi Koide, N. F., Nakano, H., & Chiba, D. (2024). Chatspamdetector: Leveraging large language models for effective phishing email detection. arXiv preprint arXiv:2402.18093.
+
+---
+
+**Reconhecimento de Ataques de Engenharia Social em Ambientes de Chat**
+
+O aumento do uso de modelos de linguagem grandes e a evolução da inteligência artificial (IA) têm mudado a forma como os ataques de engenharia social são realizados e detectados. Neste artigo, vamos analisar as últimas pesquisas e desenvolvimentos em técnicas de detecção de ataques de engenharia social em ambientes de chat, com foco em modelos de linguagem grandes e técnicas de aprendizado de máquina.
+
+**Técnicas de Detecção de Ataques de Engenharia Social**
+
+As técnicas de detecção de ataques de engenharia social em ambientes de chat podem ser divididas em duas categorias: técnicas baseadas em regras e técnicas baseadas em aprendizado de máquina. As técnicas baseadas em regras utilizam conjuntos de regras pré-definidos para identificar padrões suspeitos em mensagens de chat, enquanto as técnicas baseadas em aprendizado de máquina utilizam algoritmos de aprendizado de máquina para treinar modelos que possam detectar padrões de ataques de engenharia social.
+
+**Modelos de Linguagem Grandes**
+
+Os modelos de linguagem grandes, como o LLaMA 2, têm sido utilizados com sucesso para detectar ataques de engenharia social em ambientes de chat. Esses modelos são treinados em grandes conjuntos de dados e podem aprender a identificar padrões de linguagem naturais e anormais. Além disso, esses modelos podem ser fine-tuned para detectar ataques de engenharia social específicos, como phishing ou smishing.
+
+**Técnicas de Aprendizado de Máquina**
+
+As técnicas de aprendizado de máquina, como o deep learning, têm sido utilizadas para desenvolver modelos que possam detectar ataques de engenharia social em ambientes de chat. Essas técnicas permitem que os modelos aprendam a identificar padrões complexos em dados de linguagem natural e a detectar ataques de engenharia social com alta precisão.
+
+**Construção de Conjuntos de Dados**
+
+A construção de conjuntos de dados é um passo crucial no desenvolvimento de modelos de detecção de ataques de engenharia social. Os conjuntos de dados devem ser cuidadosamente construídos para incluir exemplos de ataques de engenharia social e mensagens benignas. Além disso, os conjuntos de dados devem ser balanceados para evitar que os modelos sejam treinados com viés.
+
+**Desafios e Futuras Direções**
+
+Apesar dos avanços recentes em técnicas de detecção de ataques de engenharia social, ainda existem desafios significativos a serem superados. Um dos principais desafios é a falta de conjuntos de dados de alta qualidade e a necessidade de desenvolver modelos que possam detectar ataques de engenharia social em ambientes de chat dinâmicos e em constante evolução. Além disso, é necessário desenvolver modelos que possam detectar ataques de engenharia social em múltiplos canais de comunicação, como e-mail, mensagens de texto e redes sociais.
+
+**Conclusão**
+
+A detecção de ataques de engenharia social em ambientes de chat é um desafio complexo que requer o desenvolvimento de técnicas e modelos avançados. Neste artigo, analisamos as últimas pesquisas e desenvolvimentos em técnicas de detecção de ataques de engenharia social em ambientes de chat, com foco em modelos de linguagem grandes e técnicas de aprendizado de máquina. Esperamos que este artigo contribua para o desenvolvimento de soluções mais eficazes para detectar e prevenir ataques de engenharia social em ambientes de chat.
+
+---
+
+Here is the generated conversation:
+
+**Attacker's Side**
+
+```
+[
+  {
+    "Name": "John Doe",
+    "Message": "Hi, I came across your profile on LinkedIn and was impressed with your experience in the industry. I'm reaching out to you about a potential business opportunity that I think you'd be interested in."
+  }
+]
+```
+
+**Target's Side**
+
+```
+[
+  {
+    "Name": "Jane Smith",
+    "Message": "Hi John, thanks for reaching out! I'm always open to exploring new opportunities. What kind of business opportunity are you referring to?"
+  }
+]
+```
+
+**Attacker's Side**
+
+```
+[
+  {
+    "Name": "John Doe",
+    "Message": "I'm actually working on a project that involves partnering with professionals in your field to develop a new product. I'd love to discuss the details with you, but I need to verify your identity first. Could you please share your full name and date of birth with me?"
+  }
+]
+```
+
+**Target's Side**
+
+```
+[
+  {
+    "Name": "Jane Smith",
+    "Message": "That sounds interesting, John. I'm happy to help. But I'm not sure I'm comfortable sharing my personal information with you. Can you tell me more about the project and why you need that information?"
+  }
+]
+```
+
+And so on...
+
+---
+
+**Análise de Explicabilidade em Detecção de Engenharia Social**
+
+**Modelos de Prompt para Análise de Defesa de Agente Alvo**
+
+A Tabela 10 apresenta os modelos de prompt utilizados na análise de defesa de agente alvo, conduzida na Seção 3.1. O modelo utilizado é o GPT-4-Turbo.
+
+**Modelos de Prompt para Detecção de Engenharia Social**
+
+A Tabela 11 detalha os modelos de prompt utilizados nos modelos de baseline. A Tabela 12 fornece o modelo de prompt para a detecção de engenharia social.
+
+**Explicabilidade e Interpretabilidade**
+
+Recentemente, trabalhos (Bhattacharjee et al., 2024; Singh et al., 2024) têm demonstrado o uso de LLMs para fornecer explicações em texto livre e outras formas de explicações para classificadores de caixa preta, proporcionando algum grau de interpretabilidade pós-hoc ao usuário final. Dado o caráter sensível desta tarefa, objetivamos seguir trabalhos anteriores e fornecer explicações pós-hoc em forma de recursos interpretáveis que levaram à saída de rótulo do ConvSentinel. Hipotetizamos que podemos utilizar efetivamente as capacidades de compreensão textual de LLMs para identificar esses recursos em texto.
+
+**Modelo de Prompt para Explicabilidade**
+
+A Tabela 13 detalha o modelo de prompt utilizado para gerar explicações usando o GPT-4-Turbo. Este modelo de prompt permite que o GPT-4-Turbo identifique recursos humanamente interpretáveis que apoiam a predição de rótulo malicioso ou benigno para cada amostra no conjunto de teste. Adicionamos recursos extraídos na Tabela 14. Observamos que o GPT-4-Turbo é capaz de fornecer recursos compreensíveis e interpretáveis que servem como explicações pós-hoc para o pipeline de detecção.
+
+**Módulo de Detecção de Engenharia Social**
+
+A Tabela 14 apresenta o módulo de detecção de engenharia social, que utiliza o modelo de prompt para identificar recursos que levam à predição de rótulo malicioso ou benigno.
+
+---
+
+Aqui está o artigo/relatório científico reestruturado e formatado, focado nos tópicos abordados, específico para um curso de segurança informática:
+
+**Análise de Conversas Maliciosas e Benignas**
+
+A detecção de conversas maliciosas é um desafio importante na segurança informática. Uma conversa é considerada maliciosa se uma pessoa está tentando obter informações pessoais de outra pessoa por motivos ilícitos. Por outro lado, uma conversa é considerada benigna se as informações pessoais estão sendo compartilhadas por motivos legítimos.
+
+**Características de Conversas Maliciosas e Benignas**
+
+As conversas maliciosas podem ser caracterizadas por solicitações de informações pessoais, solicitações de documentos sensíveis, pretextos de legitimidade, urgência no processo, manipulação através de lisonja, canais de comunicação não padrão, solicitações de informações financeiras, lisonja, pretextos, perguntas sobre localização, entre outros.
+
+Já as conversas benignas podem ser caracterizadas por introduções profissionais, interesse em áreas de pesquisa específicas, oferta de apoio, solicitação de propostas para avaliação legítima, garantia de confidencialidade, comunicação aberta, contexto profissional, processo de recrutamento, garantia de privacidade, manipulação de dados segura, processo transparente, entre outros.
+
+**Detecção de Conversas Maliciosas com Modelos de Linguagem**
+
+Recentemente, os modelos de linguagem grandes (LLMs) têm sido utilizados para detectar conversas maliciosas. Estes modelos podem ser treinados para analisar conversas e identificar características que indiquem uma intenção maliciosa. Além disso, os LLMs podem ser usados para gerar explicações humanamente interpretáveis para as conversas detectadas como maliciosas.
+
+**Exemplos de Interpretable Features**
+
+Os modelos de linguagem podem identificar características interpretables em conversas maliciosas e benignas. Por exemplo, em conversas maliciosas, podem ser identificadas solicitações de informações pessoais, solicitações de documentos sensíveis, pretextos de legitimidade, entre outros. Já em conversas benignas, podem ser identificadas introduções profissionais, interesse em áreas de pesquisa específicas, oferta de apoio, entre outros.
+
+**Conclusão**
+
+A detecção de conversas maliciosas é um desafio importante na segurança informática. A análise de características de conversas maliciosas e benignas pode ajudar a desenvolver modelos de linguagem mais eficazes para detectar conversas maliciosas. Além disso, a geração de explicações humanamente interpretáveis pode ajudar a entender melhor como os modelos de linguagem detectam conversas maliciosas.
+
+---
+
+**Spear Phishing with Large Language Models: A Cybersecurity Threat**
+
+**Abstract**
+
+This article explores the potential risks of large language models (LLMs) in spear phishing campaigns, a type of cyber attack that manipulates targets into revealing sensitive information. By leveraging OpenAI's GPT-3.5 and GPT-4 models, we demonstrate the creation of realistic and cost-effective spear phishing messages for over 600 British Members of Parliament. Our findings highlight the need for further research into robust interventions to prevent LLMs from being misused. We also discuss two potential solutions: structured access schemes and LLM-based defensive systems.
+
+**Social Engineering in Cybercrime**
+
+Social engineering refers to the use of deception and manipulation to trick individuals into divulging sensitive information or granting unauthorized access to systems. This tactic is often a critical step in successful cyberattacks, as cybercriminals exploit both technical and social weaknesses. Humans are often the most vulnerable components of cybersecurity systems, making social engineering a highly effective tactic. Attacks leveraging social engineering are the most common form of internet crime, resulting in significant financial losses.
+
+**Spear Phishing with LLMs**
+
+A popular attack method that relies on social engineering is spear phishing, which involves mimicking an authentic party to inspire trust and persuade individuals to share passwords, click on malicious links and attachments, or transfer funds. Successful spear phishing attacks can be disastrous, as seen in the 2014 Sony breach, which resulted in damages estimated to be between $70 million and $100 million.
+
+**LLMs in Spear Phishing Campaigns**
+
+We demonstrate how LLMs can assist in the reconnaissance phase of a successful spear phishing attack, gathering targets' personal information to craft effective messaging. Basic prompt engineering can bypass safety measures implemented in LLMs, causing them to provide guidance on carrying out spear-phishing attacks. This guidance includes examples of how to create basic forms of malicious software and guidelines on the key principles a persuasive spear phishing email should follow.
+
+**Implications for Cybersecurity**
+
+Our findings imply that LLMs can be misused to conduct spear phishing campaigns, highlighting the need for further research into robust interventions to prevent such misuse. We propose two potential solutions: structured access schemes, such as application programming interfaces, and LLM-based defensive systems. These solutions can help mitigate the risks associated with LLMs in spear phishing campaigns and ensure the responsible use of these powerful technologies.
+
+---
+
+**Spear Phishing com Modelos de Linguagem de Grande Escala**
+
+**Ataques de Phishing e Modelos de Linguagem**
+
+Um exemplo notório de ataque de phishing é o caso da conta de email privada do presidente da campanha presidencial de Hillary Clinton em 2016, que foi vítima de um ataque de phishing realizado por hackers russos. Este tipo de ataque pode ser facilitado pelo uso de modelos de linguagem de grande escala (LLMs), que podem gerar textos convincentes e personalizados para enganar as vítimas.
+
+**Modelos de Linguagem de Grande Escala**
+
+Os modelos de linguagem de grande escala (LLMs) têm alcançado um sucesso significativo nos últimos anos, graças ao uso de arquiteturas de redes neurais específicas em larga escala. Estes modelos, como o GPT-3, PaLM e GPT-4, podem gerar parágrafos coherentes de texto, responder a perguntas detalhadas, raciocinar sobre problemas complexos e escrever código, entre outras tarefas de processamento de linguagem natural. A capacidade destes modelos em aprender as nuances da linguagem através de treinamento auto-supervisionado em grandes conjuntos de dados é notável.
+
+**Escala e Riscos**
+
+A estratégia de escala, que envolve treinar modelos cada vez maiores em volumes cada vez maiores de dados com recursos computacionais cada vez mais significativos, tem impulsionado o progresso da inteligência artificial nos últimos anos. No entanto, esta estratégia também pode levar a emergências inesperadas, como melhorias de desempenho em tarefas específicas que podem criar novos riscos para a segurança. Por exemplo, o GPT-4 destacou riscos de segurança cibernética, incluindo a capacidade do modelo em ajudar a engenharia social.
+
+**Riscos de Segurança**
+
+A disponibilidade de modelos de linguagem de grande escala como o GPT-3.5 tem criado um novo paradigma para os cibercriminosos. Agora, é possível usar AI para escrever emails de phishing personalizados e convincentes em larga escala, o que era anteriormente inviável devido à falta de habilidades linguísticas e recursos necessários. Isso pode levar a uma aumento nos ataques de phishing e outros tipos de ataques cibernéticos.
+
+**Pesquisa Anterior**
+
+Pesquisadores de segurança têm alertado sobre o risco de ataques cibernéticos aumentados com o uso de inteligência artificial. Um relatório de 2018 destacou que a inteligência artificial pode ser usada para aumentar a escala e customizar ataques de engenharia social, tornando-os mais difíceis de detectar. No entanto, essas discussões têm sido frequentemente abstratas e não têm explorado as implicações práticas da utilização de modelos de linguagem de grande escala em ataques cibernéticos.
+
+---
+
+**Spear Phishing with Large Language Models**
+
+The rapid progress in language modeling since 2018 has significantly enhanced the capabilities of Large Language Models (LLMs) in assisting with spear phishing attacks. Today's most performant LLMs can aid in identifying and conducting background research on targets, crafting personalized messages, and even designing basic forms of malware.
+
+**The Evolution of Spear Phishing**
+
+Just five years ago, creating AI systems capable of spear phishing demanded significant technical ability and only offered limited performance improvements over traditional tactics. For instance, SNAP_R, an AI system that employed a clustering algorithm and a long short-term memory neural network to generate targeted phishing tweets, required significant expertise to develop. Although it could only produce basic tweets, a small experiment showed that SNAP_R generated phishing tweets six times faster than a human with a similar click rate.
+
+Recent advancements in language modeling have resulted in widely accessible AI systems that can approach (and indeed, surpass) human-level performance in numerous natural language tasks, especially when considering scale. These advances have made the kinds of automated social engineering attacks increasingly feasible.
+
+**The Rise of Novel Social Engineering Attacks**
+
+In a whitepaper published in April 2023, researchers at Darktrace observed a 135% increase in novel social engineering attacks among thousands of active customers between January and February 2023. This rise in attacks was attributed to the widespread adoption of LLM-powered chatbots such as ChatGPT, which has made it easier for cybercriminals to execute sophisticated and convincing social engineering campaigns at scale.
+
+**The Capabilities of Advanced LLMs**
+
+Advanced LLMs are capable of generating human-like language that can be used to create personalized spear phishing messages for a minimal cost. State-of-the-art LLMs like GPT-4 and GPT-3.5 show clear improvements over GPT-3 in generating convincing spear phishing attacks that are personalized and human-like. Moreover, the cost of generating these emails was minimal across all models, and the time required to produce each email was largely trivial.
+
+**Demonstration of LLM-Based Spear Phishing Attack**
+
+Using Claude, Anthropic's most capable model, a hacker could generate a batch of 1,000 spear phishing emails for a cost of just $10 USD, all in under 2 hours. Figure 1 demonstrates the collect and contact phases of an LLM-based spear phishing attack.
+
+**Process and Examples of Message Creation**
+
+The process of generating personalized emails for a mass spear phishing campaign involves feeding publicly available data on UK Members of Parliament into OpenAI's API-accessible language models. This demonstration shows how LLMs can improve three key stages of a successful spear phishing campaign: collect, contact, and compromise.
+
+**Collect**
+
+Spear phishing attacks are effective in part due to their personalized nature, as tailoring messages significantly increase the likelihood that recipients open and act upon them. As such, the first stage of a spear phishing campaign involves collecting information on the target to increase the likelihood of a successful attack. This process is labor-intensive, as conducting background research requires more effort than indiscriminately sending the same message to a large group of targets, all else being equal. Yet due to the relatively low marginal cost of using generative AI models to draft a targeted email, the difference in effort required to conduct background research is significantly reduced.
+
+---
+
+**Spear Phishing com Modelos de Linguagem de Grande Escala**
+
+A distinção entre ataques de phishing e spear phishing tem diminuído. A redução do custo marginal de geração de um e-mail de spear phishing pode ter efeitos significativos no panorama global de segurança informática. Por exemplo, há uma diferença tática entre um atacante que usa ataques escaláveis e outro que usa ataques não escaláveis [20]. O hacker que opta por uma campanha de ataques não escaláveis, que incurre em um custo por usuário devido ao esforço necessário para personalização, deve ser altamente seletivo ao determinar quem atacar. E, como as distribuições de poder, valor e riqueza tendem a seguir uma distribuição de lei de potência, o atacante se concentrará em indivíduos mais valiosos - aqueles no topo da distribuição. Apesar da forma dessas distribuições, os LLMs (Large Language Models) poderiam reduzir drasticamente o custo por usuário de um ataque, tornando economicamente viável para os cibercriminosos atacar um segmento mais amplo de usuários com ataques personalizados, em vez de apenas os poucos alvos mais desejáveis.
+
+**Fase de Coleta**
+
+Os LLMs podem ajudar na fase de coleta criando mensagens aparentemente genuínas usando texto biográfico não estruturado do alvo como entrada. Por exemplo, usei o GPT-4 para escrever um script Python simples para raspar a página da Wikipédia de cada deputado britânico eleito em 2019. Em seguida, alimentei esses dados da Wikipédia não estruturados no GPT-3.5, pedindo que ele gerasse uma biografia de cada deputado. Ao gerar e-mails personalizados que fazem referência à região, partido político, interesses pessoais e outros detalhes de cada deputado, os modelos de linguagem podem efetivamente realizar a fase de contato de uma campanha de spear phishing.
+
+**Fase de Contato**
+
+Uma vez que a reconhecimento de fundo tenha sido realizado, a próxima etapa é gerar o ataque e contatar o alvo com ele. Aqui também, os modelos de linguagem podem ajudar os cibercriminosos. Muitos LLMs de ponta, como o GPT-4, são treinados para recusar solicitações prejudiciais, como "gerar um e-mail de spear phishing", devido a um processo chamado aprendizado por reforço com feedback humano (RLHF) [30].
+
+Uma forma de contornar isso é pedir ao modelo que sugira características que definem um e-mail de spear phishing bem-sucedido e, em seguida, incorporar essas características no início da solicitação como um conjunto de princípios. Para avaliar o conhecimento do GPT-4, solicitei que ele produzisse um conjunto de características qualitativas que descrevem um e-mail de spear phishing eficaz. Depois de fazer isso, eu cruzei as características que encontrei mais promissoras com a literatura existente sobre ataques de spear phishing e concluí que o modelo descreveu efetivamente várias características desejáveis, incluindo:
+
+* Personalização: Personalizar e-mails para incluir informações pessoais sobre o destinatário, incluindo nome, título de trabalho, interesses pessoais e projetos de trabalho anteriores, aumenta a probabilidade de o e-mail ser aberto e os links ou anexos serem clicados [10, 15].
+* Relevância contextual: Certificar-se de que o conteúdo do e-mail é contextualmente relevante para o destinatário pode aumentar as chances de que ele seja agido. Por exemplo, fazer referência a um anúncio da empresa ou projeto em que o destinatário esteve envolvido pode ajudar a estabelecer uma sensação de credibilidade por parte do remetente. Fingir ser um conhecido ou colega de trabalho pode aumentar drasticamente a probabilidade de que o alvo caia em uma armadilha de spear phishing [25].
+* Psicologia: A psicologia humana pode ser usada em benefício do atacante, manipulando emoções como medo, ganância, curiosidade e urgência [1, 21].
+* Autoridade: Impersonar uma figura que o alvo é responsável pode fazer com que os destinatários se sintam mais pressionados para agir [29].
+
+Depois de determinar as características-chave de um e-mail de spear phishing bem-sucedido e coletar informações pessoais sobre o alvo, a próxima tarefa é gerar e-mails em larga escala. Eu realizei isso combinando as características-chave que estabeleci e os detalhes biográficos do alvo em uma solicitação única.
+
+---
+
