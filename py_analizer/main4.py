@@ -32,7 +32,8 @@ PATTERNS = [
     #"escritor_sec_serio",
     #"artigos_writer_01",
     #"artigos_writer_02",
-    "artigos_writer_refina_01",
+    #"artigos_writer_refina_01",
+    "apa_style_links",
 ]
 ROOT_FOLDER = Path(__file__).parent.resolve()
 OUTPUT_ROOT_DIR = ROOT_FOLDER / "output"
