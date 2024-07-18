@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "2f0425fe86a45f60",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd3098a1e8f1067c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ccf6c35a6066200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mypatterns/artigos_writer_post_process_01/system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cfb429a9b0f97c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "py_analizer/output/artigos_writer_02_mixtral-8x7b-32768_LL_Pl_Pa_0__Cy_Un_Ja_Da_Re_So_Lo_Im_Ph_Ha_AI_d3855b71.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4c254518e6a8737",
+    "type": "split",
+    "children": [
+      {
+        "id": "93e4d7de9fb0aae3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24e75f34f85528e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39aae1b96016d52a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8e96d23af80386a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 467.5
+  },
+  "right": {
+    "id": "2866c20f063433ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dca773e38afd8f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d86531ffbc208b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mypatterns/artigos_writer_post_process_01/system.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64dfad98af1f0f57",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mypatterns/artigos_writer_post_process_01/system.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f8aead7d723503e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b1bcaf6df93e20ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mypatterns/artigos_writer_post_process_01/system.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8ccf6c35a6066200",
+  "lastOpenFiles": [
+    "py_analizer/output/artigos_writer_02_mixtral-8x7b-32768_LL_Pl_Pa_0__Cy_Un_Ja_Da_Re_So_Lo_Im_Ph_Ha_AI_d3855b71.md",
+    "mypatterns/artigos_writer_post_process_01/system.md",
+    "py_analizer/output/artigos_writer_01_llama3-70b-8192_AI_ab2d9dd6_1.md",
+    "py_analizer/output/artigos_writer_02_llama3-70b-8192_AI_ab2d9dd6.md",
+    "py_analizer/output/artigos_writer_02_llama3-70b-8192_AI_71aafd38.md",
+    "py_analizer/output/jailbreaking/cria_prosa_sec_gpt-4o_Jailbreaking LLM - Prompt Injections_7ee16356.md"
+  ]
+}
