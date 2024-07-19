@@ -23,7 +23,7 @@ PATTERNS = [
     # "analyze_paper",
     # "analyze_presentation",
     #"create_academic_paper",
-    # "explain_docs",
+    #"explain_docs",
     #"write_essay",
     #"cria_relatorio_seguranca_00",
     #"cria_relatorio_seguranca_01",
@@ -33,7 +33,7 @@ PATTERNS = [
     #"artigos_writer_01",
     #"artigos_writer_02",
     #"artigos_writer_refina_01",
-    "apa_style_links",
+    #"apa_style_links",
 ]
 ROOT_FOLDER = Path(__file__).parent.resolve()
 OUTPUT_ROOT_DIR = ROOT_FOLDER / "output"
@@ -42,9 +42,9 @@ EXTENSION = ".md"
 FABRIC_MODEL = "llama3-70b-8192"
 #FABRIC_MODEL = "mixtral-8x7b-32768"
 #FABRIC_MODEL = "gpt-4o"
+#FABRIC_MODEL = "gpt-4o-mini"
 #FABRIC_MODEL = "claude-3-5-sonnet-20240620"
 #FABRIC_MODEL = "mixtral-8x7b-32768"
-#FABRIC_MODEL = "gpt-4o"
 #FABRIC_MODEL = "claude-3-haiku-20240307"
 
 TOKENIZER_MODEL = "bert-base-uncased"
