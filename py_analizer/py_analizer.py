@@ -17,7 +17,8 @@ PATTERNS = [
     #"extract_extraordinary_claims",
     #"extract_insights",
     #"extract_main_idea",
-    #"extract_patterns",
+    "extract_patterns",
+    "explain_code",
     #"extract_wisdom",
     #"summarize"
     # "analyze_paper",
@@ -41,7 +42,7 @@ ROOT_FOLDER = Path(__file__).parent.resolve()
 OUTPUT_ROOT_DIR = ROOT_FOLDER / "output"
 EXTENSION = ".md"
 
-FABRIC_MODEL = "llama3-70b-8192"
+#FABRIC_MODEL = "llama3-70b-8192"
 #FABRIC_MODEL = "mixtral-8x7b-32768"
 #FABRIC_MODEL = "gpt-4o"
 FABRIC_MODEL = "gpt-4o-mini"
@@ -53,7 +54,7 @@ TOKENIZER_MODEL = "bert-base-uncased"
 
 TOKENS_PER_MINUTE_LIMIT = 6000
 #CHUNK_SIZE = 4000  # Ajuste para o tamanho máximo de tokens por parte
-CHUNK_SIZE = 4000  
+CHUNK_SIZE = 124000  
 
 MAX_FILENAME_LENGTH = 255  # Comprimento máximo para o nome do arquivo
 
