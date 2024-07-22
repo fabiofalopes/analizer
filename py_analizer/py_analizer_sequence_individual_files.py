@@ -151,9 +151,18 @@ def find_all_md_files(base_path):
     print(f"Debug: Encontrou {len(md_files)} arquivos .md em {base_path}: {md_files}")
     return md_files
 
+import sys
+import subprocess
+import time
+from pathlib import Path
+import hashlib
+from transformers import AutoTokenizer
+
+# ... (rest of the variables and functions remain the same)
+
 def main():
     if len(sys.argv) < 2:
-        print("Usage: python py_analizer.py <file_or_directory1> <file_or_directory2> ... <file_or_directoryN>")
+        print("Usage: python py_analizer_sequence_individual_files.py <file_or_directory1> <file_or_directory2> ... <file_or_directoryN>")
         sys.exit(1)
 
     input_paths = sys.argv[1:]
@@ -175,16 +184,22 @@ def main():
         print("No valid files found.")
         sys.exit(1)
 
-    short_filename = generate_short_filename(file_list)
-    directory_names = get_directory_names(file_list)
-    concatenated_content = concatenate_files(file_list)
-
     tokenizer = get_tokenizer(TOKENIZER_MODEL)
-    encoded_tokens = tokenizer.encode(concatenated_content)
 
-    for pattern in PATTERNS:
-        if not process_content_for_pattern(concatenated_content, encoded_tokens, pattern, FABRIC_MODEL, f"{directory_names}_{short_filename}"):
-            print(f"Processing failed for pattern: {pattern}")
+    for file_path in file_list:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            content = file.read()
+
+        encoded_tokens = tokenizer.encode(content)
+
+        short_filename = Path(file_path).stem[:8]  # Using 8 characters of the filename
+        hash_object = hashlib.md5(short_filename.encode())
+        short_hash = hash_object.hexdigest()[:8]
+
+        for pattern in PATTERNS:
+            output_filename_base = f"{pattern}_{FABRIC_MODEL}_{short_hash}"
+            output_file = get_unique_filename(OUTPUT_ROOT_DIR, output_filename_base)
+            process_content_for_pattern(content, encoded_tokens, pattern, FABRIC_MODEL, output_filename_base)
 
     print("Processing complete.")
 
