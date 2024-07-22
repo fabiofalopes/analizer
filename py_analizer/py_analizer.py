@@ -36,7 +36,8 @@ PATTERNS = [
     #"artigos_writer_refina_01",
     #"apa_style_links",
     #"movel_reqs",
-    "movel_coding",
+    # "movel_coding",
+    "flutter_god",
 ]
 ROOT_FOLDER = Path(__file__).parent.resolve()
 OUTPUT_ROOT_DIR = ROOT_FOLDER / "output"
@@ -48,13 +49,13 @@ EXTENSION = ".md"
 FABRIC_MODEL = "gpt-4o-mini"
 #FABRIC_MODEL = "claude-3-5-sonnet-20240620"
 #FABRIC_MODEL = "mixtral-8x7b-32768"
-FABRIC_MODEL = "claude-3-haiku-20240307"
+#FABRIC_MODEL = "claude-3-haiku-20240307"
 
 TOKENIZER_MODEL = "bert-base-uncased"
 
 TOKENS_PER_MINUTE_LIMIT = 6000
 #CHUNK_SIZE = 4000  # Ajuste para o tamanho máximo de tokens por parte
-CHUNK_SIZE = 124000  
+CHUNK_SIZE = 166666  
 
 MAX_FILENAME_LENGTH = 255  # Comprimento máximo para o nome do arquivo
 
