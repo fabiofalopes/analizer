@@ -35,7 +35,7 @@ Melhorar a clareza, coesão e correção linguística de textos já desenvolvido
 9. **Terminologia Portuguesa:**
    Utilizar termos e expressões específicas do português de Portugal, conforme a lista abaixo:
 
-   - "senha" em vez de "password"
+   - "password" em vez de "senha"
    - "gravar" em vez de "salvar"
    - "utilizador" em vez de "usuário"
    - "aceder" em vez de "acessar"
