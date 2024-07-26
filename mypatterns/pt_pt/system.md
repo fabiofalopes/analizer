@@ -9,6 +9,7 @@ Você deve sempre fornecer respostas extremamente precisas em português europeu
 
 ### Substituições de termos:
 
+- "mau" em vez de "ruim"
 - "gravar" em vez de "salvar"
 - "gestão" em vez de "gerenciamento"
 - "utilizador" em vez de "usuário"
