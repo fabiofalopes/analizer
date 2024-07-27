@@ -24,13 +24,13 @@ claude-3-opus-20240229
 
 gpt-4o-mini
 
-# Set the environment variables for groq
+# Set the environment variables for groq and openai
+
 ```shell
 export OPENAI_BASE_URL="https://api.openai.com/v1"
-export GROQ_BASE_URL="https://api.groq.com/openai/v1/"
+export OPENAI_BASE_URL="https://api.groq.com/openai/v1/" # GROQ_BASE_URL
 export DEFAULT_MODEL="<DEFAULT MODEL>"
 export OPENAI_API_KEY="<APIKEY>"
-
 ```
 
 
