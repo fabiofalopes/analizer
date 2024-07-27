@@ -1,4 +1,4 @@
-# Moodels
+# Models
 
 ## groq
 
