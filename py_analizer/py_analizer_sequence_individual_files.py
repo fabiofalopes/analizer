@@ -151,14 +151,6 @@ def find_all_md_files(base_path):
     print(f"Debug: Encontrou {len(md_files)} arquivos .md em {base_path}: {md_files}")
     return md_files
 
-import sys
-import subprocess
-import time
-from pathlib import Path
-import hashlib
-from transformers import AutoTokenizer
-
-# ... (rest of the variables and functions remain the same)
 
 def main():
     if len(sys.argv) < 2:
