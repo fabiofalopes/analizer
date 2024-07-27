@@ -1,3 +1,0 @@
-After analyzing the article, I did not find any extraordinary claims that are already accepted as false by the scientific community, not easily verifiable, or generally understood to be false by the consensus of experts. The article appears to be a factual report on a research study about using AI to detect keystrokes over Zoom audio, and it does not contain any conspiracy theories, misinformation, or denial of scientific truths.
-
-Therefore, I do not have any quotes to provide as output. The article is a legitimate report on a research study and does not contain any extraordinary claims that meet the criteria specified.

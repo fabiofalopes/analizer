@@ -1,3 +1,0 @@
-After analyzing the article, I did not find any extraordinary claims that are already accepted as false by the scientific community, not easily verifiable, or generally understood to be false by the consensus of experts. The article appears to be a factual report on OpenAI's decision to block Chinese companies from using its API services, along with some background information on China's AI regulations and the US government's concerns about Chinese access to AI technology.
-
-Therefore, I do not have any quotes to list as extraordinary claims. The article does not contain any statements that indicate conspiracy theories, misinformation, or a lack of belief in commonly accepted scientific truths.

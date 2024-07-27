@@ -1,3 +1,0 @@
-After analyzing the article, I did not find any extraordinary claims that meet the criteria of being already accepted as false by the scientific community, not easily verifiable, or generally understood to be false by the consensus of experts. The article appears to be a factual report on a study about fraud and security challenges in the banking industry, citing statistics and quotes from a senior executive.
-
-Therefore, I do not have any quotes to list as extraordinary claims. The article does not contain any statements that indicate a conspiracy theory, misinformation, or a denial of commonly accepted scientific truth.

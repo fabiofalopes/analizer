@@ -1,3 +1,0 @@
-After analyzing the article, I did not find any extraordinary claims that meet the criteria of being already accepted as false by the scientific community, not easily verifiable, or generally understood to be false by the consensus of experts. The article appears to be a factual report on the Federal Trade Commission's efforts to combat AI impersonation fraud and does not contain any statements that indicate conspiracy theories, misinformation, or denial of commonly accepted scientific truths.
-
-Therefore, I do not have any quotes to provide in the bulleted list. The article is a legitimate news report that discusses the FTC's proposed rulemaking to address AI-enabled scams and impersonation fraud.

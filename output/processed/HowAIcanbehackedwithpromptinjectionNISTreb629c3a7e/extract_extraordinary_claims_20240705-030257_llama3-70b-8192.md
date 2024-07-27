@@ -1,3 +1,0 @@
-There are no extraordinary claims in this article that are already accepted as false by the scientific community, not easily verifiable, or generally understood to be false by the consensus of experts. The article discusses a legitimate cybersecurity concern, prompt injection, and its potential impact on artificial intelligence systems. It cites a report from the National Institute of Standards and Technology (NIST) and provides examples of how prompt injection can be used to manipulate AI systems.
-
-Therefore, I do not have any quotes to provide as there are no extraordinary claims made in this article.
