@@ -1,10 +1,19 @@
+# Moodels
+
 gemma-7b-it
+
 mixtral-8x7b-32768
+
 llama3-8b-8192
+
 llama3-70b-8192
+
 claude-3-haiku-20240307
+
 claude-3-sonnet-20240229
+
 claude-3-5-sonnet-20240620
+
 claude-3-opus-20240229
 
 # Set the environment variables for groq
