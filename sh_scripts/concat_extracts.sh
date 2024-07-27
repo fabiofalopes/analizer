@@ -1,26 +1,5 @@
 #!/bin/bash
 
-# Hardcoded variables
-PATTERNS=(
-  "analyze_claims"
-  "analyze_incident"
-  "analyze_tech_impact"
-  "create_summary"
-  "create_threat_scenarios"
-  "extract_ideas"
-  "extract_article_wisdom"
-  "extract_extraordinary_claims"
-  "extract_insights"
-  "extract_main_idea"
-  "extract_patterns"
-  "extract_wisdom"
-  "summarize"
-  # "analyze_paper"
-  # "analyze_presentation"
-  # "create_academic_paper"
-  # "explain_docs"
-  # "write_essay"
-)
 ROOT_FOLDER="/home/kali/projectos/analizer/output"
 OUTPUT_DIR="$ROOT_FOLDER/processed"
 KNOWLEDGE_DIR="$ROOT_FOLDER/knowledge"
